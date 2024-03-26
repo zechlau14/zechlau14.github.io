@@ -1,5 +1,8 @@
+# meta-data variables
 description: "Mr Zech's RPG musings and projects"
-
 email: "mrzech.com@gmail.com"
+url: "https://zechlau14.github.io"
+title: "Mr Zech's RPGs"
 
+# theme and visuals
 theme: jekyll-theme-minimal
