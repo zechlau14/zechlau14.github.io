@@ -1,6 +1,15 @@
 # Mr Zech RPGs
 A blog for {{site.description}}.
 
+## Blog Posts
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
 ## Current Project
 I am currently working on [Pets and Fedoras](pets-and-fedoras), a [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings) hack.
 
