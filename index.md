@@ -7,11 +7,11 @@ layout: default
 ## Latest Blog Post
 
 {% for post in site.posts limit:1 %}
-    {{ post.title }}  
-    
-    {{post.date}}
+<a href="{{ post.url }}">{{ post.title }}</a>
 
-    {{ post.content }} 
+<p>{{post.date | date: "%d %B %Y"}}</p>
+
+{{ post.content }} 
 
 {% endfor %}
 

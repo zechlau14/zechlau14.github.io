@@ -6,10 +6,11 @@ permalink: /blog
 
 # Our Latest 
 
-{% assign post = site.posts.first %}
-
-## {{ post.title }}   
-    
-{{post.exert}}
-
-[Read More]({{ post.url }})
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
