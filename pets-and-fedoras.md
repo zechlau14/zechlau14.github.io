@@ -1,3 +1,8 @@
+---
+layout: page
+title: Pets and Fedoras
+---
+
 # Pets and Fedoras
 A work in progress
 

@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Blog
 permalink: /blog
 ---
 
-# Latest Blog posts
+# Our Latest 
 
 <ul>
   {% for post in site.posts %}
