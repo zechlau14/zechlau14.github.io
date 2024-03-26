@@ -6,7 +6,7 @@ url: "https://zechlau14.github.io"
 # avatar: (URL)
 
 ### theme and visuals
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: barryclark/jekyll-now
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
