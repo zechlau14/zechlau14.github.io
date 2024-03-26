@@ -1,8 +1,12 @@
 # meta-data variables
+name: "Mr Zech's RPGs"
 description: "Mr Zech's RPG musings and projects"
 email: "mrzech.com@gmail.com"
 url: "https://zechlau14.github.io"
-title: "Mr Zech's RPGs"
+# avatar: (URL)
 
 # theme and visuals
 theme: jekyll-theme-minimal
+
+#disqus, for comments
+disqus: 
