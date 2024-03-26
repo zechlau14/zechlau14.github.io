@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Hello World"
-date: 2024-03-26
-category: misc
-permalink: "/hello-world/"
 ---
 
 # Hello World
