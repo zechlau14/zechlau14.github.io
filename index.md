@@ -6,7 +6,7 @@ layout: default
 
 ## Latest Blog Post
 {% for post in site.posts limit:1 %}
-    ### [ {{ post.title }} ](  {{ post.url }} )  
+    [ {{ post.title }} ](  {{ post.url }} )  
     
     {{post.date}}
 
