@@ -288,19 +288,31 @@ footer {
   position: fixed;
   top: 220px;
   left: 50%;
-  margin-left: -580px;
+  margin-left: -650px;
   text-align: right;
+}
+
+#TOC-top {
+  display: none;
 }
 
 @media print, screen and (max-width: 1060px) {
   .sidebar{
     display: none;
   }
+  
+  #TOC-top {
+    display: block;
+  }
 }
 
 @media print, screen and (max-height: 480px) {
   .sidebar{
     display: none;
+  }
+
+  #TOC-top {
+    display: block;
   }
 }
 
