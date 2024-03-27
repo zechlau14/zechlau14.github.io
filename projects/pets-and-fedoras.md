@@ -89,7 +89,7 @@ As the agents leave their home, the camera pans over to see Linneaus and Fern st
 ### Agent Scene 3
 The agents arrive at Dr. Goof's lair. _Where is it?_
 
-***Ask everyone**: How do you approach the lair? How does it lead to a trap? (_Choose a trap or make one up_)
+**Ask everyone**: How do you approach the lair? How does it lead to a trap? (_Choose a trap or make one up_)
 
 | d6 | Trap |
 | --- | --- |
@@ -103,6 +103,23 @@ The agents arrive at Dr. Goof's lair. _Where is it?_
 ### Home Scene 3
 Back at home, Linneaus and Fern's older sibling, Cam, has walked in on their shenanigans. They rush off to tattle. _What is their parent doing? What does Cam say and why do they blow off Cam?_
 
+### Agent Scene 4
+_What is Dr. Goofenheim's evil plot? Choose or create a motive, and craft a short silly memory related to their motive. Then choose or make up a cartoon science invention to help them achieve it in a petty / hilariously inefficient manner._
+
+| d6 | Invention | Motive |
+| --- | --- | --- |
+| 1 | Magnetism intensifier | To get back at their sibling |
+| 2 | Copy and Paste-inator | To impress their child |
+| 3 | Poop-inator | To launch their new business |
+| 4 | Media-eraser | To erase evidence of an embarassment | 
+| 5 | Invisible ray | To make up for a childhood trauma | 
+| 6 | Paper Cut-inator | To remove a pet peeve |
+
+Narrate Dr. Goofenheim arriving at the trap holding the agents and monologuing about his evil plan. (If there are more than traps sprung in the last Agent Scene, _choose_ which agent they appear before and projects images of himself to the other agents.) 
+
+**Ask everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
+
+### Home Scene 4
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
