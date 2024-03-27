@@ -18,5 +18,5 @@ To be honest, this isn't the first time I've tried to start a blog. I've made an
 
 My only plan to ensure this blog's survival is to publish things as soon as I put it down in digital print. This will probably result in raw ideas and prose. Maybe this blog will end up being the sketchy gas station sushi pack of an RPG blog. But at least it'll be something, and I can always come back to polish up anything that seems to be gold.
 
-Peace,
-Mr Zech.
+Peace,  
+_Mr Zech_
