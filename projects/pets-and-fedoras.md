@@ -120,6 +120,15 @@ Narrate Dr. Goofenheim arriving at the trap holding the agents and monologuing a
 **Ask everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
 
 ### Home Scene 4
+Linnaeus and Fern have completed the preparations of their project. Narrate how they and their friends launch their invention / begin their performance / game.
+
+### Agent Scene 5
+It's the final showdown as Dr. Goofenheim tries to turn his invention on. _Does he manage to turn it on? If he does, does it work as plan or cartoonishly backfire?_ No matter what you choose, narrate how it raises the stakes.
+
+**Ask everyone**: What does your agent do? And how does your actions bring Dr. Goof and your agent into contact with Linnaeus and Fern's invention, without the children noticing them?
+
+### Home Scene 5
+Linnaeus and Fern and friends complete their project as Cam is ushering their parent(s) around the corner. What happens to erase evidence of the project before they are discovered? What do the parents return to find the children and their pets doing?
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
