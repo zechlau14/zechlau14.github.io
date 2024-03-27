@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pets and Fedoras
-category: one-shot cartoon spy RPG sci-fi action-adventure one-page
+category: one-shot cartoon spy RPG sci-fi action-adventure
 ---
 a current work in progress
 
@@ -21,9 +21,16 @@ Despite this game's light-hearted tone, it is still advisable to have a safety t
   A high number means you are better at **PETS** (animal instinct and senses, cuteness and charm). A low number means you are better at **FEDORAS** (spycraft, martial arts and gadgetry). 
 3. Give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
 
-Your Agent **has**: a brown fedora, a jet pack, a parachute and a hover car.
+Your Agent always **has**: a brown fedora, a jet pack, a parachute and a hover car.
 
-## Rolling the Dice
+## Playing the Game
+The game is divided into scenes. While the Agents are out trying to stop their nemesis, back at home their owners Linneaus and Fern are up to their own hijinxs. The game will cut between scenes of the Agents and scenes of their Home. At the start of the game, assign each player an Agent scene and a Home Scene. 
+
+During the **Agent Scenes**, the assigned player answers the scene prompt to establish the scene. Each player then takes turns to say how their Agent deals with the issue at hand. When something risky occurs, roll dice (see below).
+
+In the **Home Scenes**, the Agents are not present, and the assigned player answers the scene prompt by narrating the full scene.
+
+### Rolling the Dice
 When the Agents do something risky, roll two six-sided dice (2d6) to find out how it goes.
 
 If you're using **PETS** (animal abilities), you want to roll **under or equal to** your number.
@@ -36,8 +43,10 @@ If **one** dice succeeds, you barely manage it. The other players will agree on 
 
 If **two** dice succeed, you do it well! Narrate how cool your agent is as they do it!
 
-### Helping
+#### Helping
 If you want to help someone else who's rolling, say how you try to help and make a roll. If you succeed, give them an extra die.
+
+## Scenes
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
