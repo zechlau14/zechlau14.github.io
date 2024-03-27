@@ -55,9 +55,21 @@ _Which part of the home are you in? What are the owners doing?_
 
 **Ask everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
+### Home Scene 1: "I know what we are going to do today!"
+Linneaus and Fern are inspired to do something incredible. What is it? (_Select one or make something up._) What inspired them?
+
+| d6 | today's activity |
+| --- | --- |
+| 1 | Build a rocket |
+| 2 | Build a roller coaster |
+| 3 | Modify vehicles for a race |
+| 4 | Find a mummy|
+| 5 | Put on a performance |
+| 6 | Play an extra extreme sport |
+
 ### Agent Scene 2: The agents' handler gives them their assignment
 _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
-| d6 | Suspicious Activity | example for blank |
+| d6 | Suspicious Activity |
 | --- | --- |
 | 1 | Bought all the {random object} in the state | 
 | 2 | Purchased a blimp |
