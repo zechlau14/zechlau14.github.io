@@ -87,7 +87,20 @@ _Narrate how the agents' handler gives them this information and order them to i
 As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
 
 ### Agent Scene 3
+The agents arrive at Dr. Goof's lair. _Where is it?_
 
+***Ask everyone**: How do you approach the lair? How does it lead to a trap? (_Choose a trap or make one up_)
+
+| d6 | Trap |
+| --- | --- |
+| 1 | Duct tape | 
+| 2 | A loop of rope |
+| 3 | Bubblegum |
+| 4 | Quick-drying cement |
+| 5 | Air tunnel |
+| 6 | Dog carrier |
+
+### Home Scene 3
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
