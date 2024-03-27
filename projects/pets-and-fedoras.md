@@ -21,7 +21,23 @@ Despite this game's light-hearted tone, it is still advisable to have a safety t
   A high number means you are better at **PETS** (animal instinct and senses, cuteness and charm). A low number means you are better at **FEDORAS** (spycraft, martial arts and gadgetry). 
 3. Give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
 
+Your Agent **has**: a brown fedora, a jet pack, a parachute and a hover car.
 
+## Rolling the Dice
+When the Agents do something risky, roll two six-sided dice (2d6) to find out how it goes.
+
+If you're using **PETS** (animal abilities), you want to roll **under or equal to** your number.
+
+If you're using **FEDORAS** (spy abilities), you want to roll **above or equal to** your number.
+
+If **none** of your dice succeed, it goes wrong. Narrate how your action cartoonishly fails and makes things worse.
+
+If **one** dice succeeds, you barely manage it. The other players will agree on a complication or cost, then you must include it as you narrate how your actions barely did what you set up to do.
+
+If **two** dice succeed, you do it well! Narrate how cool your agent is as they do it!
+
+### Helping
+If you want to help someone else who's rolling, say how you try to help and make a roll. If you succeed, give them an extra die.
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
