@@ -26,7 +26,7 @@ Your Agent always **has**: a brown fedora, a jet pack, a parachute and a hover c
 ## Playing the Game
 The game is divided into scenes. While the Agents are out trying to stop their nemesis, back at home their owners Linneaus and Fern are up to their own hijinxs. The game will cut between scenes of the Agents and scenes of their Home. At the start of the game, assign each player an Agent scene and a Home Scene. 
 
-During the **Agent Scenes**, the assigned player answers the scene prompt to establish the scene. Each player then takes turns to say how their Agent deals with the issue at hand. When something risky occurs, roll dice (see below).
+During the **Agent Scenes**, the assigned player answers the scene prompt to establish the scene. Each player then takes turns say how their Agent deals with the issue at hand. When something risky occurs, roll dice (see below).
 
 In the **Home Scenes**, the Agents are not present, and the assigned player answers the scene prompt by narrating the full scene.
 
@@ -46,7 +46,17 @@ If **two** dice succeed, you do it well! Narrate how cool your agent is as they 
 #### Helping
 If you want to help someone else who's rolling, say how you try to help and make a roll. If you succeed, give them an extra die.
 
-## Scenes
+## Scenes [SKELETON]
+
+### Agent Scene 1: The agents are hanging out with Linneaus and Fern at home. 
+_Which part of the home are you in? What are the owners doing?_ 
+
+**Ask everyone**: What in this area of the house suggests that Linneaus and Fern are geniuses?
+
+**Ask everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
+
+### Agent Scene 2: The agents' handler gives them their assignment
+_
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
