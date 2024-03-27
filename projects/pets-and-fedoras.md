@@ -56,7 +56,20 @@ _Which part of the home are you in? What are the owners doing?_
 **Ask everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
 ### Agent Scene 2: The agents' handler gives them their assignment
-_
+_Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
+| d6 | Suspicious Activity | example for blank |
+| --- | --- |
+| 1 | Bought all the {random object} in the state | 
+| 2 | Purchased a blimp |
+| 3 | Stole a couple of wax figures from a museum |
+| 4 | Just blasted off in a rocket |
+| 5 | Bought an ad with {program/influencer} |
+| 6 | Absolutely nothing, which is the most suspicious of all |
+_Narrate how the agents' handler gives them this information and order them to investigate._
+
+**Ask everyone**: After the call ends, how does your agent sneak out of the house? And what form of transportation are you using?
+
+### Home Scene 1: 
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
