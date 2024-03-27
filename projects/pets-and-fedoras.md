@@ -69,6 +69,7 @@ Linneaus and Fern are inspired to do something incredible. What is it? (_Select 
 
 ### Agent Scene 2: The agents' handler gives them their assignment
 _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
+
 | d6 | Suspicious Activity |
 | --- | --- |
 | 1 | Bought all the {random object} in the state | 
