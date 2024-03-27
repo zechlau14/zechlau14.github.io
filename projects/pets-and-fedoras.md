@@ -48,14 +48,14 @@ If you want to help someone else who's rolling, say how you try to help and make
 
 ## Scenes [SKELETON]
 
-### Agent Scene 1: The agents are hanging out with Linneaus and Fern at home. 
-_Which part of the home are you in? What are the owners doing?_ 
+### Agent Scene 1 
+The agents are hanging out with Linneaus and Fern at home. _Which part of the home are you in? What are the owners doing?_ 
 
 **Ask everyone**: What in this area of the house suggests that Linneaus and Fern are geniuses?
 
 **Ask everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
-### Home Scene 1: "I know what we are going to do today!"
+### Home Scene 1
 Linneaus and Fern are inspired to do something incredible. What is it? (_Select one or make something up._) What inspired them?
 
 | d6 | today's activity |
@@ -67,7 +67,7 @@ Linneaus and Fern are inspired to do something incredible. What is it? (_Select 
 | 5 | Put on a performance |
 | 6 | Play an extra extreme sport |
 
-### Agent Scene 2: The agents' handler gives them their assignment
+### Agent Scene 2
 _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
 
 | d6 | Suspicious Activity |
@@ -83,7 +83,11 @@ _Narrate how the agents' handler gives them this information and order them to i
 
 **Ask everyone**: After the call ends, how does your agent sneak out of the house? And what form of transportation are you using?
 
-### Home Scene 1: 
+### Home Scene 2
+As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
+
+### Agent Scene 3
+
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
