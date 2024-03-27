@@ -77,6 +77,7 @@ _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your 
 | 4 | Just blasted off in a rocket |
 | 5 | Bought an ad with {program/influencer} |
 | 6 | Absolutely nothing, which is the most suspicious of all |
+
 _Narrate how the agents' handler gives them this information and order them to investigate._
 
 **Ask everyone**: After the call ends, how does your agent sneak out of the house? And what form of transportation are you using?
