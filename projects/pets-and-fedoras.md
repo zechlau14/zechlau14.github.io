@@ -101,6 +101,8 @@ The agents arrive at Dr. Goof's lair. _Where is it?_
 | 6 | Dog carrier |
 
 ### Home Scene 3
+Back at home, Linneaus and Fern's older sibling, Cam, has walked in on their shenanigans. They rush off to tattle. _What is their parent doing? What does Cam say and why do they blow off Cam?_
+
 
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
