@@ -1,8 +1,15 @@
 ---
-layout: page
 title: Pets and Fedoras
-category: one-shot cartoon spy RPG sci-fi action-adventure
+author: Mr Zech
+papersize: letter
+documentclass: extbook
+fontsize: 14pt
+header-includes: \usepackage[margin=0.5in]{geometry}
 ---
+\clearpage
+
+\markboth{}{}
+
 a current work in progress. Last updated 27th March 2024.
 
 ## Concept
