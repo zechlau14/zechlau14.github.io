@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking your Prototype
-categories: design micro-rpg
+categories: design micro-rpg pets-and-fedoras
 ---
 
 The current game I am working on is [Pets and Fedoras](projects/pets-and-fedoras). It started out as a [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings) hack where you play as animal spies like in a Saturday morning cartoon.
