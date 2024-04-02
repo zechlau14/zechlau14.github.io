@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heartbreaker
-category: RPG fantasy action-adventure D&D DnD
+category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
 It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same.

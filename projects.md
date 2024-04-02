@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-## Current Work in Progress
+## Current Works in Progress
 
 ### Pets and Fedoras
 I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras), a hack of [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings).

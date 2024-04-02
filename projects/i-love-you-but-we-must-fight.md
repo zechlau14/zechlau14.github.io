@@ -4,6 +4,8 @@ title: I Love You But We Must Fight
 category: one-shot journaling solo-rpg complete
 ---
 
+![I Love You But We Must Fight Cover Image](pdfs/ILYBWMF-cover-page.png)
+
 ## Premise
 I Love You But We Must Fight is a solo role-playing game where you play a single Hero tasked with defeating the Great Villain threatening the world. You’ve fought hard, sacrificed much, and now you are preparing for the final showdown. There’s only one hiccup: you love the Villain, and you wish to defeat them without destroying them. This game aims to tell stories like Star Wars and Naruto.
 
