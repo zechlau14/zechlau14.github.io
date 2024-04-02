@@ -19,3 +19,6 @@ I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras), a hack o
 
 You are spies with cover identities of regular house pets.  Your mission, as always, is to find out what your evil scientist nemesis is up to and put a stop to it!  
 This work is directly inspired by the cartoon Phineas and Ferb.
+
+## Latest Completed Project
+[I love you but we must fight](projects/i-love-you-but-we-must-fight) is a solo game in which you play out a single scene of a Hero preparing for the final showdown with their beloved, the Great Villain threatening the world.
