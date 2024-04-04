@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pets and Fedoras
-category: one-shot cartoon spy RPG sci-fi action-adventure
+category: one-shot cartoon spy RPG sci-fi action-adventure work-in-progress
 ---
 a current work in progress. Last updated 27th March 2024.
 
