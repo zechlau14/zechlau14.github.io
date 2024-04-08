@@ -1,7 +1,6 @@
 ---
-% Pets with Fedoras
-% Mr Zech
-% 8 April 2024
+title: "Pets with Fedoras"
+date: "8 April 2024"
 ---
 a current work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
 Last updated 8th April 2024.
@@ -9,7 +8,7 @@ Last updated 8th April 2024.
 ---
 # Pets with Fedoras
 
-A story game for 1 -- 5 players.
+A story game for 2 -- 5 players.
 This work is directly inspired by the cartoon Phineas and Ferb. 
 
 ---
@@ -58,32 +57,43 @@ When we have read the Instructions cards, we will alternate between Mission card
 
 # Introduction 8
 
-On your turn, read the card out loud and answer the question for you.
+On your turn, read your card out loud and answer the question for you. 
 
 ---
 
 # Introduction 9
 
-Then everyone rolls their six-sided die to in what order we answer the question for everyone, beginning with the lowest roll.
-
----
+This game aims to emulate an episode of a Saturday morning spy cartoon. Your answer should be family-friendly and fueled by cartoon logic, like continuing to run on air for a few seconds after running off a cliff.
 
 # Introduction 10
 
-If you answer first
+Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis may be petty and/or greedy, but they and their schemes are never cruel.
+
+# Introduction 11
+
+Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
 
 ---
+# Introduction 12
 
-# Introduction 
+Then everyone rolls their six-sided die to in what order we answer the question for everyone, beginning with the lowest roll.
+
+---
+# Introduction 13
+
+If your turn to answer is in the first half, your answer must include how your agent's action cartoonishly fails. If your turn is in the second half, your answer should include how your agent succeeds and helps one of their fellow agents who was struggling earlier.
+
+---
+# Introduction 14
 
 Place the X-Card in the middle where everyone can easily reach it.
 
 ---
+# Introduction 15
 
-### Tone
-This game, which may be played with or without a game master, aims to emulate an episode of a Saturday morning spy cartoon. It is everyone's responsibility to maintain a family-friendly time full of cartoon logic, like continuing to run on air for a few seconds after running off a cliff, jokes and cartoon violence. Dr Goof, the nemesis may be petty and/or greedy, but they and their schemes are never cruel.
+If there is an answer in the game that you don't want to be included, tap the X-card or say "X!" The answering player will provide a different answer.
 
-Despite this game's light-hearted tone, it is still advisable to have a safety tool or two on hand. The author suggests the [Script Change](https://briebeau.com/thoughty/script-change/) tools.
+---
 
 ## Character Creation
 1. What kind of house **pet** are you?
