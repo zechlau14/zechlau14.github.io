@@ -7,7 +7,7 @@ a current work in progress.  Formatting of this page will be wonky due to me try
 Last updated 8th April 2024.
 
 ---
-# Pets with Fedoras
+## Pets with Fedoras
 
 A story game for 2 -- 5 players.  
 This work is directly inspired by the cartoon Phineas and Ferb. 
@@ -58,7 +58,7 @@ When we have read the Instructions cards, we will alternate between Mission card
 
 # Introduction 8
 
-On your turn, read your card out loud and answer the question for you. 
+On your turn, read your card out loud and answer the question for you. You may choose and embellish an answer from the list on the card or come up with something new.
 
 ---
 
@@ -114,7 +114,7 @@ The agents are hanging out with Linneaus and Fern at home.
 
 ---
 # Home 1
-**For you**: Linneaus and Fern are inspired to do something incredible. What is it? (_Select one or make something up._) What inspired them?
+**For you**: What are Linneaus and Fern going to do today? What inspired them?
 
 | d6 | today's activity |
 | --- | --- |
@@ -127,7 +127,7 @@ The agents are hanging out with Linneaus and Fern at home.
 
 ---
 # Mission 2
-_Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
+**For you**: What suspicious activity has Dr. Goofenheim been spotted doing? How does the agents' handler gives them this information and order them to investigate?
 
 | d6 | Suspicious Activity |
 | --- | --- |
@@ -138,19 +138,16 @@ _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your 
 | 5 | Bought an ad with {program/influencer} |
 | 6 | Absolutely nothing, which is the most suspicious of all |
 
-_Narrate how the agents' handler gives them this information and order them to investigate._
-
-**Ask everyone**: After the call ends, how does your agent sneak out of the house? And what form of transportation are you using?
+**For everyone**: After the call ends, how does your agent sneak out of the house? What form of transportation will you use?
 
 ---
+# Home 2
 
-### Home Scene 2
-As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
+**For you**: As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
 
-### Agent Scene 3
-The agents arrive at Dr. Goof's lair. _Where is it?_
-
-**Ask everyone**: How do you approach the lair? How does it lead to a trap? (_Choose a trap or make one up_)
+---
+# Mission 3
+**For you**: The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepared for the agents?
 
 | d6 | Trap |
 | --- | --- |
@@ -161,10 +158,14 @@ The agents arrive at Dr. Goof's lair. _Where is it?_
 | 5 | Air tunnel |
 | 6 | Dog carrier |
 
-### Home Scene 3
-Back at home, Linneaus and Fern's older sibling, Cam, has walked in on their shenanigans. They rush off to tattle. _What is their parent doing? What does Cam say and why do they blow off Cam?_
+**Ask everyone**: How do you approach the lair? How does it lead to the trap?
 
-### Agent Scene 4
+---
+# Home 3
+**For you**: Back at home, Linneaus and Fern's older sibling, Cam, has walked in on their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say and why do they blow off Cam?
+
+---
+# Mission 4
 _What is Dr. Goofenheim's evil plot? Choose or create a motive, and craft a short silly memory related to their motive. Then choose or make up a cartoon science invention to help them achieve it in a petty / hilariously inefficient manner._
 
 | d6 | Invention | Motive |
