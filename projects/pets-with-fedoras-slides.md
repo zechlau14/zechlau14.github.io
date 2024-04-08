@@ -9,7 +9,7 @@ Last updated 8th April 2024.
 ---
 # Pets with Fedoras
 
-A story game for 2 -- 5 players.
+A story game for 2 -- 5 players.  
 This work is directly inspired by the cartoon Phineas and Ferb. 
 
 ---
