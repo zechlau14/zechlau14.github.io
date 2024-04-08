@@ -13,3 +13,5 @@ To play, you need a copy of this game's rules, a deck of cards, a six-sided die.
 
 ## Download link
 The complete game is available for **free** on my [itch.io](https://mrzech.itch.io/i-love-you-but-we-must-fight) page.
+
+<iframe frameborder="0" src="https://itch.io/embed/2621161" width="552" height="167"><a href="https://mrzech.itch.io/i-love-you-but-we-must-fight">I love you but we must fight by Mr Zech</a></iframe>
