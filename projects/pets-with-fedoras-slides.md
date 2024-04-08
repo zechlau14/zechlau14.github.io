@@ -1,5 +1,5 @@
 ---
-title: "Pets with Fedoras"
+title: "Pets and Fedoras - Slides"
 author: "Mr Zech"
 date: "8 April 2024"
 ---
@@ -7,7 +7,7 @@ a current work in progress.  Formatting of this page will be wonky due to me try
 Last updated 8th April 2024.
 
 ---
-## Pets with Fedoras
+## Pets and Fedoras
 
 A story game for 2 -- 5 players.  
 This work is directly inspired by the cartoon Phineas and Ferb. 
@@ -58,7 +58,7 @@ When we have read the Instructions cards, we will alternate between Mission card
 
 # Introduction 8
 
-On your turn, read your card out loud and answer the question for you. You may choose and embellish an answer from the list on the card or come up with something new.
+On your turn, read your card out loud and answer the question(s). You may choose and embellish an answer from the list on the card or come up with something new.
 
 ---
 
@@ -79,7 +79,7 @@ Other players may ask you questions or make suggestions on your turn, but whethe
 ---
 # Introduction 12
 
-Then everyone rolls their six-sided die to in what order we answer the question for everyone, beginning with the lowest roll.
+If there is a question for everyone, then we each roll our six-sided die to discover the order that we answer, beginning with the lowest roll.
 
 ---
 # Introduction 13
@@ -106,15 +106,13 @@ Then give your character a **cute pet name**, like Perry the platypus or Pinky t
 
 ---
 # Mission 1 
-The agents are hanging out with Linneaus and Fern at home. 
-
-**For you**: Which part of the home are you in? What are Linneaus and Fern doing?
+The agents are hanging out with Linneaus and Fern at home. Which part of the home are you in? What are Linneaus and Fern doing?
 
 **For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
 ---
 # Home 1
-**For you**: What are Linneaus and Fern going to do today? What inspired them?
+What are Linneaus and Fern going to do today? What inspired them?
 
 | d6 | today's activity |
 | --- | --- |
@@ -127,7 +125,7 @@ The agents are hanging out with Linneaus and Fern at home.
 
 ---
 # Mission 2
-**For you**: What suspicious activity has Dr. Goofenheim been spotted doing? How does the agents' handler gives them this information and order them to investigate?
+What suspicious activity has Dr. Goofenheim been spotted doing? How does the agents' handler gives them this information and order them to investigate?
 
 | d6 | Suspicious Activity |
 | --- | --- |
@@ -143,11 +141,11 @@ The agents are hanging out with Linneaus and Fern at home.
 ---
 # Home 2
 
-**For you**: As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
+As the agents leave their home, the camera pans over to show Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
 
 ---
 # Mission 3
-**For you**: The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepared for the agents?
+The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepared for the agents?
 
 | d6 | Trap |
 | --- | --- |
@@ -158,15 +156,15 @@ The agents are hanging out with Linneaus and Fern at home.
 | 5 | Air tunnel |
 | 6 | Dog carrier |
 
-**Ask everyone**: How do you approach the lair? How does it lead to the trap?
+**For everyone**: How do you approach the lair? How does it lead to the trap?
 
 ---
 # Home 3
-**For you**: Back at home, Linneaus and Fern's older sibling, Cam, has walked in on their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say and why do they blow off Cam?
+Back at home, Linneaus and Fern's older sibling, Cam, has discovered their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say and why do they blow off Cam?
 
 ---
 # Mission 4
-_What is Dr. Goofenheim's evil plot? Choose or create a motive, and craft a short silly memory related to their motive. Then choose or make up a cartoon science invention to help them achieve it in a petty / hilariously inefficient manner._
+Dr. Goofenheim arrives to monologue. What did they invent today? What are they trying to achieve? 
 
 | d6 | Invention | Motive |
 | --- | --- | --- |
@@ -177,22 +175,22 @@ _What is Dr. Goofenheim's evil plot? Choose or create a motive, and craft a shor
 | 5 | Invisible ray | To make up for a childhood trauma | 
 | 6 | Paper Cut-inator | To remove a pet peeve |
 
-Narrate Dr. Goofenheim arriving at the trap holding the agents and monologuing about his evil plan. (If there are more than traps sprung in the last Agent Scene, _choose_ which agent they appear before and projects images of himself to the other agents.) 
+**For everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
 
-**Ask everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
+---
+# Home 4
+Linnaeus and Fern have completed the preparations of their project and are preparing to launch it. What does this look like? Who is in the audience?
 
-### Home Scene 4
-Linnaeus and Fern have completed the preparations of their project. Narrate how they and their friends launch their invention / begin their performance / game.
+---
+# Mission 5
+Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as plan? If no, what external factor delays them?
 
-### Agent Scene 5
-It's the final showdown as Dr. Goofenheim tries to turn his invention on. _Does he manage to turn it on? If he does, does it work as plan or cartoonishly backfire?_ No matter what you choose, narrate how it raises the stakes.
+**For everyone**: What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
 
-**Ask everyone**: What does your agent do? And how does your actions bring Dr. Goof and your agent into contact with Linnaeus and Fern's invention, without the children noticing them?
-
-### Home Scene 5
+---
+# Home 5
 Linnaeus and Fern and friends complete their project as Cam is ushering their parent(s) around the corner. What happens to erase evidence of the project before they are discovered? What do the parents return to find the children and their pets doing?
 
+---
 ## License
 Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
-
-This work is based on [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings), by [John Harper](https://johnharper.itch.io/), and licensed for our use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
