@@ -99,49 +99,22 @@ If there is an answer in the game that you don't want to be included, tap the X-
 ---
 # Introduction 16
 
-Everyone answers: What kind of house **pet** are you?  
+**For everyone**: What kind of house **pet** are you?  
 e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
 
 Then give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
 
 ---
-# Introduction 17
+# Mission 1 
+The agents are hanging out with Linneaus and Fern at home. 
 
+**For you**: Which part of the home are you in? What are Linneaus and Fern doing?
 
-## Playing the Game
-The game is divided into scenes. While the Agents are out trying to stop their nemesis, back at home their owners Linneaus and Fern are up to their own hijinxs. The game will cut between scenes of the Agents and scenes of their Home. At the start of the game, assign each player an Agent scene and a Home Scene. 
+**For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
-During the **Agent Scenes**, the assigned player answers the scene prompt to establish the scene. Each player then takes turns say how their Agent deals with the issue at hand. When something risky occurs, roll dice (see below).
-
-In the **Home Scenes**, the Agents are not present, and the assigned player answers the scene prompt by narrating the full scene.
-
-### Rolling the Dice
-When the Agents do something risky, roll two six-sided dice (2d6) to find out how it goes.
-
-If you're using **PETS** (animal abilities), you want to roll **under or equal to** your number.
-
-If you're using **FEDORAS** (spy abilities), you want to roll **above or equal to** your number.
-
-If **none** of your dice succeed, it goes wrong. Narrate how your action cartoonishly fails and makes things worse.
-
-If **one** dice succeeds, you barely manage it. The other players will agree on a complication or cost, then you must include it as you narrate how your actions barely did what you set up to do.
-
-If **two** dice succeed, you do it well! Narrate how cool your agent is as they do it!
-
-#### Helping
-If you want to help someone else who's rolling, say how you try to help and make a roll. If you succeed, give them an extra die.
-
-## Scenes [SKELETON]
-
-### Agent Scene 1 
-The agents are hanging out with Linneaus and Fern at home. _Which part of the home are you in? What are the owners doing?_ 
-
-**Ask everyone**: What in this area of the house suggests that Linneaus and Fern are geniuses?
-
-**Ask everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
-
-### Home Scene 1
-Linneaus and Fern are inspired to do something incredible. What is it? (_Select one or make something up._) What inspired them?
+---
+# Home 1
+**For you**: Linneaus and Fern are inspired to do something incredible. What is it? (_Select one or make something up._) What inspired them?
 
 | d6 | today's activity |
 | --- | --- |
@@ -152,7 +125,8 @@ Linneaus and Fern are inspired to do something incredible. What is it? (_Select 
 | 5 | Put on a performance |
 | 6 | Play an extra extreme sport |
 
-### Agent Scene 2
+---
+# Mission 2
 _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your own._
 
 | d6 | Suspicious Activity |
@@ -167,6 +141,8 @@ _Select a suspicious activity from your nemesis, Dr. Goofenheim or make up your 
 _Narrate how the agents' handler gives them this information and order them to investigate._
 
 **Ask everyone**: After the call ends, how does your agent sneak out of the house? And what form of transportation are you using?
+
+---
 
 ### Home Scene 2
 As the agents leave their home, the camera pans over to see Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
