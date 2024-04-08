@@ -13,7 +13,7 @@ A story game for 2 -- 5 players.
 This work is directly inspired by the cartoon Phineas and Ferb. 
 
 ---
-# 0
+# Introduction 0
 
 Take turns drawing the cards and reading them out loud.
 
