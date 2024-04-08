@@ -1,5 +1,6 @@
 ---
 title: "Pets with Fedoras"
+author: "Mr Zech"
 date: "8 April 2024"
 ---
 a current work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
@@ -19,7 +20,7 @@ Take turns drawing the cards and reading them out loud.
 ---
 # Introduction 1
 
-You are special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and 
+You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and 
 Fern. 
 
 ---
@@ -65,10 +66,12 @@ On your turn, read your card out loud and answer the question for you.
 
 This game aims to emulate an episode of a Saturday morning spy cartoon. Your answer should be family-friendly and fueled by cartoon logic, like continuing to run on air for a few seconds after running off a cliff.
 
+---
 # Introduction 10
 
 Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis may be petty and/or greedy, but they and their schemes are never cruel.
 
+---
 # Introduction 11
 
 Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
@@ -94,15 +97,16 @@ Place the X-Card in the middle where everyone can easily reach it.
 If there is an answer in the game that you don't want to be included, tap the X-card or say "X!" The answering player will provide a different answer.
 
 ---
+# Introduction 16
 
-## Character Creation
-1. What kind of house **pet** are you?
-  e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
-2. Choose your **number**, from 2 to 5.
-  A high number means you are better at **PETS** (animal instinct and senses, cuteness and charm). A low number means you are better at **FEDORAS** (spycraft, martial arts and gadgetry). 
-3. Give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
+Everyone answers: What kind of house **pet** are you?  
+e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
 
-Your Agent always **has**: a brown fedora, a jet pack, a parachute and a hover car.
+Then give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
+
+---
+# Introduction 17
+
 
 ## Playing the Game
 The game is divided into scenes. While the Agents are out trying to stop their nemesis, back at home their owners Linneaus and Fern are up to their own hijinxs. The game will cut between scenes of the Agents and scenes of their Home. At the start of the game, assign each player an Agent scene and a Home Scene. 
