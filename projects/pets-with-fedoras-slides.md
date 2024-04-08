@@ -1,14 +1,84 @@
 ---
-layout: page
-title: "Pets with Fedoras"
-category: one-shot cartoon spy RPG sci-fi action-adventure work-in-progress
+% Pets with Fedoras
+% Mr Zech
+% 8 April 2024
 ---
 a current work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
-Last updated 8th March 2024.
+Last updated 8th April 2024.
 
-## Concept
-You are special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and Fern. Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!  
-This work is directly inspired by the cartoon Phineas and Ferb.
+---
+# Pets with Fedoras
+
+A story game for 1 -- 5 players.
+This work is directly inspired by the cartoon Phineas and Ferb. 
+
+---
+# 0
+
+Take turns drawing the cards and reading them out loud.
+
+---
+# Introduction 1
+
+You are special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and 
+Fern. 
+
+---
+# Introduction 2
+
+Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!  
+
+---
+# Introduction 3
+
+While you are away on mission, your genius owners are up to their own mad science mega-project in the backyard. 
+
+---
+# Introduction 4
+
+Our story cuts back and forth between your mission and the children's project.
+
+---
+# Introduction 5
+
+Give out one Mission Card and one Home Card to every player. 
+
+---
+# Introduction 6
+
+If you have less than 5 players, distribute the remaining cards equally.
+
+---
+
+# Introduction 7 
+
+When we have read the Instructions cards, we will alternate between Mission cards and Home cards, beginning with the 1st Mission Card.
+
+---
+
+# Introduction 8
+
+On your turn, read the card out loud and answer the question for you.
+
+---
+
+# Introduction 9
+
+Then everyone rolls their six-sided die to in what order we answer the question for everyone, beginning with the lowest roll.
+
+---
+
+# Introduction 10
+
+If you answer first
+
+---
+
+# Introduction 
+
+Place the X-Card in the middle where everyone can easily reach it.
+
+---
 
 ### Tone
 This game, which may be played with or without a game master, aims to emulate an episode of a Saturday morning spy cartoon. It is everyone's responsibility to maintain a family-friendly time full of cartoon logic, like continuing to run on air for a few seconds after running off a cliff, jokes and cartoon violence. Dr Goof, the nemesis may be petty and/or greedy, but they and their schemes are never cruel.
