@@ -1,102 +1,98 @@
----
-title: "Pets and Fedoras - Slides"
-author: "Mr Zech"
-date: "8 April 2024"
----
-a current work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
-Last updated 8th April 2024.
+% Pets and Fedoras
+% Mr Zech
+% April 8, 2024
 
----
-## Pets and Fedoras
+# Pets and Fedoras
 
 A story game for 2 -- 5 players.  
 This work is directly inspired by the cartoon Phineas and Ferb. 
 
----
+a work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
+
+## License
+Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+___
 # Introduction 0
 
 Take turns drawing the cards and reading them out loud.
 
----
+___
 # Introduction 1
 
-You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and 
-Fern. 
+You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and Fern. 
 
----
+___
 # Introduction 2
 
 Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!  
 
----
+___
 # Introduction 3
 
 While you are away on mission, your genius owners are up to their own mad science mega-project in the backyard. 
 
----
+___
 # Introduction 4
 
 Our story cuts back and forth between your mission and the children's project.
 
----
+___
 # Introduction 5
 
 Give out one Mission Card and one Home Card to every player. 
 
----
+___
 # Introduction 6
 
 If you have less than 5 players, distribute the remaining cards equally.
 
----
-
+___
 # Introduction 7 
 
 When we have read the Instructions cards, we will alternate between Mission cards and Home cards, beginning with the 1st Mission Card.
 
----
-
+___
 # Introduction 8
 
 On your turn, read your card out loud and answer the question(s). You may choose and embellish an answer from the list on the card or come up with something new.
 
----
-
+___
 # Introduction 9
 
 This game aims to emulate an episode of a Saturday morning spy cartoon. Your answer should be family-friendly and fueled by cartoon logic, like continuing to run on air for a few seconds after running off a cliff.
 
----
+___
 # Introduction 10
 
 Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis may be petty and/or greedy, but they and their schemes are never cruel.
 
----
+___
 # Introduction 11
 
 Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
 
----
+___
 # Introduction 12
 
 If there is a question for everyone, then we each roll our six-sided die to discover the order that we answer, beginning with the lowest roll.
 
----
+___
 # Introduction 13
 
 If your turn to answer is in the first half, your answer must include how your agent's action cartoonishly fails. If your turn is in the second half, your answer should include how your agent succeeds and helps one of their fellow agents who was struggling earlier.
 
----
+___
 # Introduction 14
 
 Place the X-Card in the middle where everyone can easily reach it.
 
----
+___
 # Introduction 15
 
 If there is an answer in the game that you don't want to be included, tap the X-card or say "X!" The answering player will provide a different answer.
 
----
+___
 # Introduction 16
 
 **For everyone**: What kind of house **pet** are you?  
@@ -104,13 +100,13 @@ e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
 
 Then give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
 
----
+___
 # Mission 1 
 The agents are hanging out with Linneaus and Fern at home. Which part of the home are you in? What are Linneaus and Fern doing?
 
 **For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
 
----
+___
 # Home 1
 What are Linneaus and Fern going to do today? What inspired them?
 
@@ -123,7 +119,7 @@ What are Linneaus and Fern going to do today? What inspired them?
 | 5 | Put on a performance |
 | 6 | Play an extra extreme sport |
 
----
+___
 # Mission 2
 What suspicious activity has Dr. Goofenheim been spotted doing? How does the agents' handler gives them this information and order them to investigate?
 
@@ -138,12 +134,12 @@ What suspicious activity has Dr. Goofenheim been spotted doing? How does the age
 
 **For everyone**: After the call ends, how does your agent sneak out of the house? What form of transportation will you use?
 
----
+___
 # Home 2
 
 As the agents leave their home, the camera pans over to show Linneaus and Fern starting their project. How are they getting the necessary materials / ingredients? Which of their friends has come over to help them?
 
----
+___
 # Mission 3
 The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepared for the agents?
 
@@ -158,11 +154,11 @@ The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepar
 
 **For everyone**: How do you approach the lair? How does it lead to the trap?
 
----
+___
 # Home 3
 Back at home, Linneaus and Fern's older sibling, Cam, has discovered their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say and why do they blow off Cam?
 
----
+___
 # Mission 4
 Dr. Goofenheim arrives to monologue. What did they invent today? What are they trying to achieve? 
 
@@ -177,20 +173,21 @@ Dr. Goofenheim arrives to monologue. What did they invent today? What are they t
 
 **For everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
 
----
+___
 # Home 4
 Linnaeus and Fern have completed the preparations of their project and are preparing to launch it. What does this look like? Who is in the audience?
 
----
+___
 # Mission 5
 Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as plan? If no, what external factor delays them?
 
 **For everyone**: What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
 
----
+___
 # Home 5
 Linnaeus and Fern and friends complete their project as Cam is ushering their parent(s) around the corner. What happens to erase evidence of the project before they are discovered? What do the parents return to find the children and their pets doing?
 
----
-## License
-Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+___
+# X-Card
+
+large image of X

@@ -4,9 +4,12 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same.
+Last updated: April 8th, 2024
+
+It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from the Goblin Laws of Gaming (GLOG).
 
 ## Premise of the Game
+This game 
 
 ### Player's Principles
 
@@ -17,7 +20,8 @@ D20 + Bonus > TN
 
 Advantage and Disadvantage
 
-#### Abilities
+#### Stats
+* Hit Points
 * Str
 * Dex
 * Will
