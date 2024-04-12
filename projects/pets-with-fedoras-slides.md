@@ -42,6 +42,9 @@ ___
 # Introduction 5
 
 On your turn, read your Mission or Home card out loud and answer the question(s) directed to you. You may choose and embellish an answer from the suggestion list on the card or come up with something new.
+
+Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
+
 ___
 # Introduction 6
 
@@ -52,37 +55,39 @@ Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis ma
 ___
 # Introduction 7
 
-Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
-
-___
-# Introduction 8
-
-On each Mission card, there is a question for everyone. Pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the RPS losers.
+On each Mission card, there is a question for everyone. Pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the RPS losers. (Variant: If playing online, you may choose to flip a coin instead.)
 
 If there are an odd number of players, the card reader does not play RPS and may choose to join either the winner or loser side.
 
 ___
+# Introduction 8
+
+If you lost at RPS, your answer must include how your agent's action cartoonishly fails. 
+
+If you won at RPS, your answer should include how your agent succeeds and helps the agent of the player who lost in RPS against you.
+
+___
 # Introduction 9
 
-If your turn to answer is in the first half, your answer must include how your agent's action cartoonishly fails. If your turn is in the second half, your answer should include how your agent succeeds and helps one of their fellow agents who was struggling earlier.
-
-___
-# Introduction 14
-
 Place the X-Card in the middle where everyone can easily reach it.
-
-___
-# Introduction 15
 
 If there is an answer in the game that you don't want to be included, tap the X-card or say "X!" The answering player will provide a different answer.
 
 ___
-# Introduction 16
+# Introduction 10
 
-**For everyone**: What kind of house **pet** are you?  
-e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
+**For everyone**: What kind of house **pet** are you?  What is their **cute pet name** and what is their **agent code name**?
 
-Give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
+| d6 | pet |
+| --- | --- |
+| 1 | Cross-eyed Platypus |
+| 2 | Small Dog |
+| 3 | Hedgehog |
+| 4 | Snail |
+| 5 | Treefrog |
+| 6 | Hairless Cat |
+
+When everyone has answered, proceed to the first Mission card.
 
 ___
 # Mission 1 
