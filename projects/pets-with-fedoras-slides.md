@@ -41,7 +41,7 @@ In other words, the play order is Mission 1 -> Home 1 -> Mission 2 -> Home 2 -> 
 ___
 # Introduction 5
 
-On your turn, read your Mission or Home card out loud and answer the question(s) directed to you. You may choose and embellish an answer from the suggestion list on the card or come up with something new.
+On your turn, read your Mission or Home card out loud and answer its question(s). You may choose and embellish an answer from the suggestion list on the card or come up with something new.
 
 Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
 
@@ -55,14 +55,15 @@ Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis ma
 ___
 # Introduction 7
 
-On each Mission card, there is a question for everyone. Pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the RPS losers. (Variant: If playing online, you may choose to flip a coin instead.)
+On each Mission card, there is also a question for everyone. Take turns answering it.
 
+If a question is marked RPS, pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the losers. (Variant: If playing online, you may choose to flip a coin instead.)  
 If there are an odd number of players, the card reader does not play RPS and may choose to join either the winner or loser side.
 
 ___
 # Introduction 8
 
-If you lost at RPS, your answer must include how your agent's action cartoonishly fails. 
+For questions marked RPS, if you lost at RPS, your answer must include how your agent's action cartoonishly fails. 
 
 If you won at RPS, your answer should include how your agent succeeds and helps the agent of the player who lost in RPS against you.
 
@@ -91,20 +92,20 @@ When everyone has answered, proceed to the first Mission card.
 
 ___
 # Mission 1 
-The agents are hanging out with Linneaus and Fern at home. Which part of the home are you in? What are Linneaus and Fern doing?
+The pets are hanging out with Linneaus and Fern at home. Which part of the home are you in? What are Linneaus and Fern doing?
 
-**For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you putting on your fedora to answer it?
+**For everyone**: What is your pet doing when they receive an urgent notification from mission control? How do you receive it? And how do you ensure Linneaus and Fern do not see you putting on your fedora to answer it?
 
 ___
 # Home 1
-What are Linneaus and Fern going to do today? What inspired them?
+As your agents answer the call, Linneaus and Fern are inspired. What are they going to do today? What inspired them?
 
 | d6 | today's activity |
 | --- | --- |
 | 1 | Build a rocket |
 | 2 | Build a roller coaster |
 | 3 | Modify vehicles for a race |
-| 4 | Find a mummy|
+| 4 | Find a mummy |
 | 5 | Put on a performance |
 | 6 | Play an extra extreme sport |
 
@@ -117,7 +118,7 @@ What suspicious activity has Dr. Goofenheim been spotted doing? How does the age
 | 1 | Bought all the {random object} in the state | 
 | 2 | Purchased a blimp |
 | 3 | Stole a couple of wax figures from a museum |
-| 4 | Just blasted off in a rocket |
+| 4 | Blasted off in a rocket |
 | 5 | Bought an ad with {program/influencer} |
 | 6 | Absolutely nothing, which is the most suspicious of all |
 
@@ -160,7 +161,7 @@ Dr. Goofenheim arrives to monologue. What did they invent today? What are they t
 | 5 | Invisible ray | To make up for a childhood trauma | 
 | 6 | Paper Cut-inator | To remove a pet peeve |
 
-**For everyone**: As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
+**For everyone**: (**RPS**) As Dr. Goofenheim's monologue ends, what does your agent do to attempt to break out of the trap?
 
 ___
 # Home 4
@@ -170,7 +171,7 @@ ___
 # Mission 5
 Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as plan? If no, what external factor delays them?
 
-**For everyone**: What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
+**For everyone**: (**RPS**) What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
 
 ___
 # Home 5
