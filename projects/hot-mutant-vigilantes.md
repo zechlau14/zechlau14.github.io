@@ -15,3 +15,8 @@ You are a student at a school for gifted youngsters where the extra-curricular a
 This work is directly inspired by the X-men.
 
 ## Stats
+
+You have three stats. Rate your stats at 1, 2 and 3.
+* **Hot!** 
+* **Mutant!**
+* **Vigilante!**
