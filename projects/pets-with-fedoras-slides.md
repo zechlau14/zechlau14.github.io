@@ -20,7 +20,7 @@ Your mission, as always, is to find out what your evil scientist nemesis, Dr. Go
 ___
 # Introduction 2
 
-While you are away on mission, your genius owners are up to their own mad science mega-project in the backyard. 
+While you are away on mission, your genius owners are up to their own mad science mega-project. 
 
 The story cuts back and forth between your mission and the children's project.
 
@@ -29,14 +29,14 @@ ___
 
 Give out one Mission Card and one Home Card to every player. 
 
-If you have less than 5 players, distribute the remaining cards equally.
+If you have less than 5 players, distribute the remaining Mission and Home cards equally.
 
 ___
 # Introduction 4
 
 When we have read the Instructions cards, we will alternate between Mission cards and Home cards, beginning with the 1st Mission Card. 
 
-In other words, the play order is Mission 1 -> Home 1 -> Mission 2 -> Home 2 -> etc.
+In other words, the play order is Mission 1 -> Home 1 -> Mission 2 -> Home 2 -> Mission 3 -- > etc.
 
 ___
 # Introduction 5
@@ -171,7 +171,7 @@ ___
 # Mission 5
 Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as planned? If no, what external factor delays them?
 
-**For everyone**: (**RPS**) What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
+**For everyone**: (**RPS**) What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's project, without the children noticing them.
 
 ___
 # Home 5
