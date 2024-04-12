@@ -16,6 +16,24 @@ This work is directly inspired by the X-men.
 
 ## Character Creation
 
+Why are you so Hot? (d6)
+1. Sculpted muscles
+2. Majestic hair / beard / mustache
+3. Impeccable, pristine style
+4. Amazing bone structure
+5. Ethereal, graceful and elegant
+6. Dangerous rebel with a cool jacket
+
+What is your Mutation? (d20)
+
+What is your vigilante specialty? (d6)
+1. Pilot / Driving
+2. Tracking / Scouting
+3. Negotiation / Deception
+4. Hacking
+5. Science / Gadgetry
+6. Martial Arts
+
 ## Rolling Dice
 
 You have three stats. Assign 1, 2 and 3 to each of your stats.
@@ -33,4 +51,13 @@ Stress represents your overall condition, including physical injury, fatigue and
 
 When you fail, if your total final stress is higher than the highest dice rolled, decide with the GM how you are taken out of the scene. Some possibilities are your character passes out, is physically thrown out, or your character runs away.
 
-##
+## GM Section
+Give the players an inkling of what the first, obvious disaster is, and let them go at it.
+
+If an NPC isn't kissable, think "Could I make them kissable?"
+
+What's going wrong? (Roll twice; one disaster hides another much more dangerous disaster)
+
+What's this place like?
+
+Who's going to stand in our way? (Roll twice)
