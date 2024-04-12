@@ -8,7 +8,7 @@ Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under CC BY 4.0 (http://
 ___
 # Introduction 0
 
-Take turns drawing the cards and reading them out loud.
+Take turns drawing the instruction slides and reading them out loud.
 
 ___
 # Introduction 1
@@ -131,7 +131,7 @@ As the agents leave their home, the camera pans over to show Linneaus and Fern s
 
 ___
 # Mission 3
-The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepared for the agents?
+The agents arrive at Dr. Goof's lair/lab. Where is it? What trap has Dr. Goof prepared for the agents?
 
 | d6 | Trap |
 | --- | --- |
@@ -142,11 +142,11 @@ The agents arrive at Dr. Goof's lair. Where is it? What trap has Dr. Goof prepar
 | 5 | Air tunnel |
 | 6 | Dog carrier |
 
-**For everyone**: How do you approach the lair? How does it lead to the trap?
+**For everyone**: How do you approach the lair? How does this approach lead to the trap(s)?
 
 ___
 # Home 3
-Back at home, Linneaus and Fern's older sibling, Cam, has discovered their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say and why do they blow off Cam?
+Back at home, Linneaus and Fern's older sibling, Cam, has discovered their shenanigans. They rush off to tattle. What is their parent doing? What does Cam say to them and why do they blow off Cam?
 
 ___
 # Mission 4
@@ -169,13 +169,18 @@ Linnaeus and Fern have completed the preparations of their project and are prepa
 
 ___
 # Mission 5
-Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as plan? If no, what external factor delays them?
+Dr. Goofenheim tries to turn their invention on. Do they manage to turn it on? If yes, does it work as planned? If no, what external factor delays them?
 
 **For everyone**: (**RPS**) What does your agent do to defeat Dr. Goof? Your answers should bring Dr. Goof and your agents into contact with Linnaeus and Fern's invention, without the children noticing them.
 
 ___
 # Home 5
 Linnaeus and Fern and friends complete their project as Cam is ushering their parent(s) around the corner. What happens to erase evidence of the project before they are discovered? What do the parents return to find the children and their pets doing?
+
+___
+# X-Card
+
+large image of X
 
 ___
 # X-Card
