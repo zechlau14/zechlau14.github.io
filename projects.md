@@ -20,3 +20,6 @@ I've been working on and off on a [heartbreaker](projects/heartbreaker), which i
 ### [I Love You But We Must Fight](projects/i-love-you-but-we-must-fight)
 
 A solo game in which you play out a single scene of a Hero preparing for the final showdown with their beloved, the Great Villain threatening the world.
+
+
+Hot Dog Borg is a silly hack of Mork Borg, in which you play as a Hot Dog Karate-ka, and my submission for the Noun Borg Get Rich Quick Jam.
