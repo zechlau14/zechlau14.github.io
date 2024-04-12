@@ -13,7 +13,7 @@ Every hack of the most popular tabletop role-playing game of the 20th century al
 
 Every player character (PC) has dragon-blood in them. Due to this dragon-blood, PCs grow more powerful when they hoard gold. In terms of mechanics, this means gold for XP, with no "carousing" requirement. 
 
-Players may choose to embrace their dragon abilities, eventually becoming a dragon themself, or they may choose to be rooted in whatever species they chose at character creation. Mechanically, this means Race as class templates.
+Players may choose to embrace their dragon abilities, eventually becoming a dragon themself, or they may choose to be rooted in whatever species they chose at character creation. Mechanically, this means Race as class templates, in addition to the occupational class templates.
 
 As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. When making conversions, the DM (Dragon-Mother) is encouraged to sprinkle in as much dragon-motif as possible, and to convert any interesting NPC to dragon-blood.
 
