@@ -14,9 +14,23 @@ You are a student at a school for gifted youngsters where the extra-curricular a
 
 This work is directly inspired by the X-men.
 
-## Stats
+## Character Creation
 
-You have three stats. Rate your stats at 1, 2 and 3.
-* **Hot!** 
-* **Mutant!**
-* **Vigilante!**
+## Rolling Dice
+
+You have three stats. Assign 1, 2 and 3 to each of your stats.
+**Hot!**   
+**Mutant!**  
+**Vigilante!**  
+
+When you act to gain an advantage or solve a difficult problem, roll a number of six-sided dice equal to the most relevant stat. Spend determination (see below) on a 1-for-1 basis to add additional dice to the pool.
+
+If your highest dice beats the difficulty, you succeed.  
+If it's equal, you succeed, mark 1 stress and the GM tells you something bad that happens.
+If it's lower, you fail, mark 1 stress and 1 determination and the GM tells you something bad that happens.
+
+Stress represents your overall condition, including physical injury, fatigue and emotional conditions like anger or embarrassment. 
+
+When you fail, if your total final stress is higher than the highest dice rolled, decide with the GM how you are taken out of the scene. Some possibilities are your character passes out, is physically thrown out, or your character runs away.
+
+##
