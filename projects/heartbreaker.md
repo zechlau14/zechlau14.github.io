@@ -4,12 +4,14 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 8th, 2024
+Last updated: April 12th, 2024
 
-It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from the Goblin Laws of Gaming (GLOG).
+It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Knave and the Goblin Laws of Gaming (GLOG).
 
 ## Premise of the Game
-This game 
+Every hack of the most popular tabletop role-playing game of the 20th century always seems to focus on the second D in its name -- the dungeon. In fact, I even called it the "dungeon-based fantasy RPG" in an earlier draft. To make this hack stand out, I will instead focus on the first D -- the dragons.
+
+Every player character has dragon-blood in them. Players may choose to grow in this, eventually becoming a dragon themself, or they may choose to be rooted in whatever species they chose at character creation. However
 
 ### Player's Principles
 
