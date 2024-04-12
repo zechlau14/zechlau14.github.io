@@ -27,16 +27,14 @@ D20 + Bonus > TN
 Advantage and Disadvantage
 
 #### Stats
-* Hit Points
-* Str
-* Dex
-* Will
-* Charm
-* Luck
-  
+
+* HP (3d6 / 2 + (n-1) * 2)
 * Atk (based on your class levels)
-* Def (based on armor worn, each piece of armor +1)
-* Move ()
+* Dodge (based on armor worn, each piece of armor +1)
+* Move (+0)
+* Con (inventory)
+* Resistance (magical)
+* Luck (crits)
 
 ### Types of Turns
 Dungeon Moves: Force door, Deal with trap, rest, search small room, move 120'; 10min
