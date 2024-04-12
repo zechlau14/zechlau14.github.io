@@ -180,9 +180,9 @@ Linnaeus and Fern and friends complete their project as Cam is ushering their pa
 ___
 # X-Card
 
-large image of X
+![X](/images/letter-x-1332285_640.png)
 
 ___
 # X-Card
 
-large image of X
+![X](/images/letter-x-1332285_640.png)
