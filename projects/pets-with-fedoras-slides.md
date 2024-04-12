@@ -1,16 +1,9 @@
-% Pets and Fedoras
-% Mr Zech
-% April 8, 2024
-
 # Pets and Fedoras
 
-A story game for 2 -- 5 players.  
-This work is directly inspired by the cartoon Phineas and Ferb. 
-
-a work in progress.  Formatting of this page will be wonky due to me trying to format it mainly for slides.
+A story game for 2 -- 5 players, directly inspired by the cartoon Phineas and Ferb. 
 
 ## License
-Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+Pets and Fedoras by Mr Zech (Zechariah Lau) is licensed under CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/).
 
 ___
 # Introduction 0
@@ -22,63 +15,54 @@ ___
 
 You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and Fern. 
 
+Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!  
+
 ___
 # Introduction 2
 
-Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!  
+While you are away on mission, your genius owners are up to their own mad science mega-project in the backyard. 
+
+The story cuts back and forth between your mission and the children's project.
 
 ___
 # Introduction 3
 
-While you are away on mission, your genius owners are up to their own mad science mega-project in the backyard. 
-
-___
-# Introduction 4
-
-Our story cuts back and forth between your mission and the children's project.
-
-___
-# Introduction 5
-
 Give out one Mission Card and one Home Card to every player. 
-
-___
-# Introduction 6
 
 If you have less than 5 players, distribute the remaining cards equally.
 
 ___
-# Introduction 7 
+# Introduction 4
 
-When we have read the Instructions cards, we will alternate between Mission cards and Home cards, beginning with the 1st Mission Card.
+When we have read the Instructions cards, we will alternate between Mission cards and Home cards, beginning with the 1st Mission Card. 
 
-___
-# Introduction 8
-
-On your turn, read your card out loud and answer the question(s). You may choose and embellish an answer from the list on the card or come up with something new.
+In other words, the play order is Mission 1 -> Home 1 -> Mission 2 -> Home 2 -> etc.
 
 ___
-# Introduction 9
+# Introduction 5
 
-This game aims to emulate an episode of a Saturday morning spy cartoon. Your answer should be family-friendly and fueled by cartoon logic, like continuing to run on air for a few seconds after running off a cliff.
-
+On your turn, read your Mission or Home card out loud and answer the question(s) directed to you. You may choose and embellish an answer from the suggestion list on the card or come up with something new.
 ___
-# Introduction 10
+# Introduction 6
+
+This game aims to emulate an episode of a Saturday morning spy cartoon. Your answers should be family-friendly and fueled by cartoon logic, like continuing to run on air for a few seconds after running off a cliff.
 
 Cartoon violence is encouraged, but not blood and gore. Dr Goof, your nemesis may be petty and/or greedy, but they and their schemes are never cruel.
 
 ___
-# Introduction 11
+# Introduction 7
 
 Other players may ask you questions or make suggestions on your turn, but whether you answer those questions or include those suggestions is entirely up to you.
 
 ___
-# Introduction 12
+# Introduction 8
 
-If there is a question for everyone, then we each roll our six-sided die to discover the order that we answer, beginning with the lowest roll.
+On each Mission card, there is a question for everyone. Pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the RPS losers.
+
+If there are an odd number of players, the card reader does not play RPS and may choose to join either the winner or loser side.
 
 ___
-# Introduction 13
+# Introduction 9
 
 If your turn to answer is in the first half, your answer must include how your agent's action cartoonishly fails. If your turn is in the second half, your answer should include how your agent succeeds and helps one of their fellow agents who was struggling earlier.
 
@@ -98,13 +82,13 @@ ___
 **For everyone**: What kind of house **pet** are you?  
 e.g. Platypus, Dog, Hedgehog, Cat, Parrot, Treefrog, Snail etc.
 
-Then give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
+Give your character a **cute pet name**, like Perry the platypus or Pinky the chihuahua, and a **code name**, like Agent P or Numbah 4.
 
 ___
 # Mission 1 
 The agents are hanging out with Linneaus and Fern at home. Which part of the home are you in? What are Linneaus and Fern doing?
 
-**For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you answer it?
+**For everyone**: Your agent receives a notification of an urgent call from mission control. How do you receive it? And how do you ensure Linneaus and Fern do not see you putting on your fedora to answer it?
 
 ___
 # Home 1
