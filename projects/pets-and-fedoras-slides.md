@@ -57,15 +57,15 @@ ___
 
 On each Mission card, there is also a question for everyone. Take turns answering it.
 
-If a question is marked RPS, pair up and play rock paper scissors (RPS) to determine the order that you answer, beginning with the losers. (Variant: If playing online, you may choose to flip a coin instead.)  
+If a question is marked RPS, pair up and play rock paper scissors (RPS) until one party wins to determine the order that you answer, beginning with the losers. (Variant: If playing online, you may choose to flip a coin instead.)  
 If there are an odd number of players, the card reader does not play RPS and may choose to join either the winner or loser side.
 
 ___
 # Introduction 8
 
-For questions marked RPS, if you lost at RPS, your answer must include how your agent's action cartoonishly fails. 
+For questions marked RPS, if you lost at RPS, you answer first. Your answer must include how your agent's action cartoonishly fails. 
 
-If you won at RPS, your answer should include how your agent succeeds and helps the agent of the player who lost in RPS against you.
+If you won at RPS, you answer later. Your answer should include how your agent succeeds and helps the agent of the player who lost in RPS against you.
 
 ___
 # Introduction 9
