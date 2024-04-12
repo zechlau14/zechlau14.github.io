@@ -33,9 +33,13 @@ Advantage and Disadvantage
 * Will
 * Charm
 * Luck
+  
+* Atk (based on your class levels)
+* Def (based on armor worn, each piece of armor +1)
+* Move ()
 
 ### Types of Turns
-Dungeon Moves: Force door, Deal with trap, rest, search small room, move 120'
+Dungeon Moves: Force door, Deal with trap, rest, search small room, move 120'; 10min
 
 ### Movement
 40 ft / round
@@ -49,13 +53,18 @@ requires rations (incl. water).
 Short rest vs. long rest.
 
 ### Light
+Torch - 30', depleted in 60min.
 
 ### Combat
-Initiative
+Initiative: make a check every round. If you beat the monster's initiative DC, go before. If you fail, you go after.
 
 You can move and take a simple action, e.g. attack, dash, hide, quick-scan, use an object, stunt.
 
 Some will require a check.
+
+#### Crits
+On attack, deal double damage or gain a free combat maneuver.
+On defence, gain a free attack or combat maneuver.
 
 Luck in combat: 
 
@@ -71,10 +80,17 @@ Any excess damage is dealt to flesh. Con save versus flesh. On success, stabiliz
 ### Races
 
 ### Backgrounds
-Features and tools of the trade
+Counts as 2 skills.
+Start with tools of the trade
 
 ### Inventory
 Slots
+
+#### Equipment
+Fists 1d3
+Improvised weapons 1d6 (-2 to attack)
+Regular weapons 1d6
+2-handed weapons 1d8
 
 ## Character Advancement
 
@@ -100,6 +116,18 @@ Darkness: disadv on anything requiring sight.
 ## Running the Game
 
 ### GM Principles
+
+Base Save DC 10.
+Difficult movement (climbing, jumping, fleeing) all use a Move check to determine success. The DC is usually 10.
+Stealth checks are difficult (DC 14) Dex checks.
+
+Armor DC
+None 10
+Leather 12
+Chain 14
+Plate 16
+
+Monster Attack (11+HD)
 
 ### Procedures
 Encounter Roll
