@@ -15,10 +15,13 @@ layout: default
 {% endfor %}
 
 ## Current Project
-I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras), a hack of [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings).
+I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras-slides).
 
-You are spies with cover identities of regular house pets.  Your mission, as always, is to find out what your evil scientist nemesis is up to and put a stop to it!  
-This work is directly inspired by the cartoon Phineas and Ferb.
+You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and Fern. Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!
+
+This work is a dice-less, GM-less, story-game directly inspired by the cartoon Phineas and Ferb.
 
 ## Latest Completed Project
-[I love you but we must fight](projects/i-love-you-but-we-must-fight) is a solo game in which you play out a single scene of a Hero preparing for the final showdown with their beloved, the Great Villain threatening the world.
+<iframe frameborder="0" src="https://itch.io/embed/2636261" width="552" height="167"><a href="https://mrzech.itch.io/hot-dog-borg">Hot Dog Borg by Mr Zech</a></iframe>
+
+Hot Dog Borg is a silly hack of Mork Borg, in which you play as a Hot Dog Karate-ka, and my submission for the [Noun Borg Get Rich Quick Jam](https://itch.io/jam/noun-borg). 
