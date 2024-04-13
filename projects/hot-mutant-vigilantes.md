@@ -83,10 +83,19 @@ The difficulty of a task is related to the **impact of success**, not the comple
 If an NPC isn't kissable, think "Could I make them kissable?"
 
 What's going wrong? (Roll twice; one disaster hides another much more dangerous disaster)
-1. 
+1. A fellow student's mutation is out of control
+2. Mutant terrorist are trying to assassinate a mutant-hating senator
+3. The principal of the school has been kidnapped
+4. An underground commune of mutants are under attack
+5. 
 
 What's this place like?
 1. 
 
 Who's going to stand in our way? (Roll twice)
-1. 
+1. A sexy Alien Monarch and their army
+2. The government's inexplicably sexy mutant-hunting robots
+3. The principal's sexy Mutant rival
+4. A sexy cyborg out for revenge
+5. A sexy time traveller intent on "fixing the timeline"
+6. The sexy mutant who was expelled from the school last year
