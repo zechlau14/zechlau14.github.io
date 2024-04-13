@@ -4,7 +4,7 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 12th, 2024
+Last updated: April 13th, 2024
 
 It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Knave and the Goblin Laws of Gaming (GLOG).
 
@@ -30,13 +30,12 @@ If you have multiple advantages, then the task is no longer challenging and succ
 
 #### Bonuses
 
-* HP (3d6 / 2 + (n-1) * 2)
-* Atk (based on your class levels)
-* Dodge (based on armor worn, each piece of armor +1)
-* Move (+0)
-* Con (inventory)
-* Resistance (magical)
-* Luck (crits)
+* Attack (based on class)
+* Defence (based on armor worn, each piece of armor +1)
+* Move (based on armor worn, each piece of armor -1)
+* Constitution (based on class?)
+* Resistance (based on class?)
+* Luck (based on convictions)
 
 ### Types of Turns
 Dungeon Moves: Force door, Deal with trap, rest, search small room, move 120'; 10min
