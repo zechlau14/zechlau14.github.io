@@ -17,14 +17,34 @@ This work is directly inspired by the X-men.
 ## Character Creation
 
 Why are you so Hot? (d6)
-1. Sculpted muscles
-2. Majestic hair / beard / mustache
-3. Impeccable, pristine style
-4. Amazing bone structure
-5. Ethereal, graceful and elegant
+1. Literal abs of steel
+2. Majestic mutton chops beard
+3. The form-fitting spandex shows off your butt
+4. Impeccable bone structure
+5. Daddy / Hot mama 
 6. Dangerous rebel with a cool jacket
 
 What is your Mutation? (d20)
+1. Concussive eye beams
+2. Walk through walls
+3. Short-range teleportation
+4. Telepathy
+5. Shapeshifting
+6. Angel wings
+7. Beast form
+8. Healing factor
+9. Sonic scream
+10. Power absorption through contact
+11. Explosive projectiles
+12. Pyrotechnics
+13. Organic metal
+14. Super luck
+15. Magnetism
+16. Illusionist
+17. Stretching
+18. Weather manipulation
+19. Telekinesis
+20. Speedster
 
 What is your vigilante specialty? (d6)
 1. Pilot / Driving
