@@ -86,11 +86,17 @@ What's going wrong? (Roll twice; one disaster hides another much more dangerous 
 1. A fellow student's mutation is out of control
 2. Mutant terrorist are trying to assassinate a mutant-hating senator
 3. The principal of the school has been kidnapped
-4. An underground commune of mutants are under attack
-5. 
+4. An underground commune of mutants is under attack
+5. A mutant-loving/hating cult has formed
+6. The location of the government's secret mutant facility is discovered
 
 What's this place like?
-1. 
+1. stuffy, prim and proper, vaguely steampunk
+2. militaristic and ordered, lots of parades
+3. built around the huge temple of the god of law
+4. outdated, archaic and proud of it
+5. just a big palace, full of foppish nobles
+6. laden with boutiques, haberdashers and pattisseries
 
 Who's going to stand in our way? (Roll twice)
 1. A sexy Alien Monarch and their army
