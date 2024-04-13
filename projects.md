@@ -13,6 +13,13 @@ You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with 
 
 This work is a dice-less, GM-less, story-game directly inspired by the cartoon Phineas and Ferb.
 
+### Hot Mutant Vigilantes
+I'm also working on [Hot Mutant Vigilantes](/projects/hot-mutant-vigilantes), a hack of [Grant Howitt’s Sexy Battle Wizards](https://gshowitt.itch.io/sexy-battle-wizards), for the [Hot Mutant Summer Jam](https://itch.io/jam/hot-mutant-summer-jam).
+
+You are a student at a school for gifted youngsters where the extra-curricular activities involve dressing up in spandex and defending the world. The school has zero legal authority to do this, hence the label ‘vigilante’. The government and the humans hate you.
+
+This work is directly inspired by the X-men.
+
 ### A Heartbreaker
 I've been working on and off on a [heartbreaker](projects/heartbreaker), which is essentially a riff on `the world's most popular role-playing game'. I've never been completely satisfied with it, but I'm going to put it out there on the internet anyway. Maybe this will be the push for me to complete it.
 
