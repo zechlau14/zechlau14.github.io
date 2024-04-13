@@ -22,9 +22,11 @@ As for the setting, the world is filled with dungeons to crawl because many drag
 ## Playing the Game
 
 ### Core mechanic
-D20 + Bonus > TN
+When a dice roll is called for, the DM will tell you the target number (TN) the roll must meet to succeed. If you agree to take the risk, then roll a twenty-sided die (d20) and add the appropriate bonus.
 
-Advantage and Disadvantage
+If you have an advantage that makes the task that requires a roll easier, you roll the d20 twice and take the higher result. If you have a disadvantage on such a task, you roll the d20 twice and take the lower result. The DM has final say on whether you have advantage or disadvantage.
+
+If you have multiple advantages, then the task is no longer challenging and succeeds without a roll. If you have multiple disadvantages, then the task is too difficult and will automatically fail.
 
 #### Stats
 
