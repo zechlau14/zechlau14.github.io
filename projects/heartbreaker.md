@@ -28,7 +28,7 @@ If you have an advantage that makes the task that requires a roll easier, you ro
 
 If you have multiple advantages, then the task is no longer challenging and succeeds without a roll. If you have multiple disadvantages, then the task is too difficult and will automatically fail.
 
-#### Stats
+#### Bonuses
 
 * HP (3d6 / 2 + (n-1) * 2)
 * Atk (based on your class levels)
