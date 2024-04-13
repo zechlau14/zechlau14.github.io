@@ -7,7 +7,7 @@ permalink: /projects
 ## Current Works in Progress
 
 ### Pets and Fedoras
-I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras-slides), a hack of [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings).
+I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras-slides).
 
 You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with cover identities as ordinary house pets belonging to a pair of genius children, Linneaus and Fern. Your mission, as always, is to find out what your evil scientist nemesis, Dr. Goofenheim, is up to and put a stop to it!
 
