@@ -56,7 +56,7 @@ What is your vigilante specialty? (d6)
 
 ## Rolling Dice
 
-You have three stats. Assign 1, 2 and 3 to each of your stats.
+You have three stats. Assign 1, 2 and 3 to each of your stats.  
 **Hot!**   
 **Mutant!**  
 **Vigilante!**  
@@ -72,12 +72,21 @@ Stress represents your overall condition, including physical injury, fatigue and
 When you fail, if your total final stress is higher than the highest dice rolled, decide with the GM how you are taken out of the scene. Some possibilities are your character passes out, is physically thrown out, or your character runs away.
 
 ## GM Section
+
 Give the players an inkling of what the first, obvious disaster is, and let them go at it.
+
+The difficulty of a task is related to the **impact of success**, not the complexity of the task.  
+4: standard hot mutant vigilante stuff with standard results  
+5: Audacious or risky stuff that has a great impact  
+6: Clutch, against-the-odds stuff that can really turn the tide of the situation  
 
 If an NPC isn't kissable, think "Could I make them kissable?"
 
 What's going wrong? (Roll twice; one disaster hides another much more dangerous disaster)
+1. 
 
 What's this place like?
+1. 
 
 Who's going to stand in our way? (Roll twice)
+1. 
