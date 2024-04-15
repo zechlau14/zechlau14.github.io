@@ -4,140 +4,167 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 13th, 2024
+Last updated: April 15th, 2024
 
-It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Knave and the Goblin Laws of Gaming (GLOG).
+It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU) and the Goblin Laws of Gaming (GLOG).
 
 ## Premise of the Game
 Every hack of the most popular tabletop role-playing game of the 20th century always seems to focus on the second D in its name -- the dungeons. In fact, I even called it the "dungeon-based fantasy RPG" in an earlier draft. To make this hack stand out, I will instead focus on the first D -- the dragons.
 
-Every player character (PC) has dragon-blood in them. Due to this dragon-blood, PCs grow more powerful when they hoard gold. In terms of mechanics, this means gold for XP, with no "carousing" requirement. 
+Every player character (PC) has dragon-blood in them. Due to this dragon-blood, PCs grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
-Players may choose to embrace their dragon abilities, eventually becoming a dragon themself, or they may choose to be rooted in whatever species they chose at character creation. Mechanically, this means Race as class templates, in addition to the occupational class templates.
+PCs may choose to embrace the dragon abilities, eventually becoming a dragon themself, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is an adventurer capable of wielding both sword and sorcery, with diegetic options to specialise.
 
-As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. When making conversions, the DM (Dragon-Mother) is encouraged to sprinkle in as much dragon-motif as possible, and to convert any interesting NPC to dragon-blood.
+As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. When making conversions, the DM (Dragon-Mother) is encouraged to sprinkle in as much dragon-motifs as possible, and to convert any interesting NPC to dragon-blood.
 
-### Player's Principles
+At higher levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
 
-## Playing the Game
+## Core Gameplay Loop
+The game is played in turns. Turns usually go like this.
+1. The Dragon-Mother (DM) presents the location and scenario that the Players' characters (PCs) find themselves in.
+2. The Players can ask for more details. The DM will answer honestly, but the answer may be that the PCs must investigate to find out.
+3. When the Players' questions are answered, they say what their PCs want to do in response. If there is risk involved in the Player's choice, the DM will inform them of it and ask if the Player still wants to proceed.
+4. If the outcome of the PC's action is interesting and uncertain, a Roll is required to determine the outcome.
+5. When the outcome of their action is certain, the DM declares it to the players.
+6. Finally, the DM takes their turn, causing the location and/or the non-player characters (NPCs) to act, restarting the Gameplay loop.
 
-### Core mechanic
-When a dice roll is called for, the DM will tell you the target number (TN) the roll must meet to succeed. If you agree to take the risk, then roll a twenty-sided die (d20) and add the appropriate bonus.
+### the Roll
+When a Roll is called for, the DM will tell you the target number (TN) the roll must meet to succeed. If you agree to take the risk, then roll a twenty-sided die (d20) and add the appropriate bonus.
 
 If you have an advantage that makes the task that requires a roll easier, you roll the d20 twice and take the higher result. If you have a disadvantage on such a task, you roll the d20 twice and take the lower result. The DM has final say on whether you have advantage or disadvantage.
 
 If you have multiple advantages, then the task is no longer challenging and succeeds without a roll. If you have multiple disadvantages, then the task is too difficult and will automatically fail.
 
-#### Bonuses
+## Elements of a Character
 
-* Attack (based on class)
-* Defence (based on armor worn, each piece of armor +1)
-* Move (based on armor worn, each piece of armor -1)
-* Constitution (based on class?)
-* Resistance (based on class?)
-* Luck (based on convictions)
+### Species
 
-### Types of Turns
-Dungeon Moves: Force door, Deal with trap, rest, search small room, move 120'; 10min
+Each species in the setting has a unique set of abilities. When a PC levels up, they gain the next feature from one of their species. 
 
-### Movement
-40 ft / round
-3 mi / h
+Each PC starts with at least two species:
+* their primary species, ie. the species that the inhabitants of the world immediately recognise you as from your physical appearance, and
+* dragon-blood, as one of their ancestors was a dragon.
+With your DM's approval, you may also start with a third species, representing your mixed-lineage.
 
-difficult terrain halves speed.
+### Hit Points and Wounds
+Hit Points reflects a PC's ability to avoid danger.  
 
-### Resting
-requires rations (incl. water).
+When your HP is reduced to 0, any excess damage is taken as Wounds. You must then make a Roll (no bonus) to remain conscious, against TN = 10 + Wounds. An unconscious PC regains consciousness when they recover HP. 
 
-Short rest vs. long rest.
+If you ever reach 10 Wounds, you die. 
 
-### Light
-Torch - 30', depleted in 60min.
+#### Healing
+If you rest for 10 minutes, recover 1d6 HP.
 
-### Combat
-Initiative: make a check every round. If you beat the monster's initiative DC, go before. If you fail, you go after.
+If you rest for 30 minutes and eat a Ration, recover all HP. 
 
-You can move and take a simple action, e.g. attack, dash, hide, quick-scan, use an object, stunt.
+Wounds can only be healed at a safe haven. Each night you are safe and well-fed, remove 1 Wound. A healer will speed up the process.
 
-Some will require a check.
+### Bonuses
+* Attack: to weapon attacks, combat stunts, using brute force on an object
+* Armor: to yourself against weapon attacks or combat stunts
+* Move: to difficult movements like acting quickly in combat, fleeing a monster, moving stealthily.
+* Save: to resist magic or emotional compulsions
+* Luck: for outcomes purely in fate's hands
 
-#### Crits
-On attack, deal double damage or gain a free combat maneuver.
-On defence, gain a free attack or combat maneuver.
+### Drives
+Besides your Draconic greed for gold, you have other drives pushing you to this life of adventure and risk. Examples: "seek knowledge", "help the innocent", "get ladies", "protect my friend" etc.
 
-Luck in combat: 
+Whenever you make a sacrifice or invite trouble in pursuit of your Drive, fate smiles on you, increase your Luck bonus by 1 (to a max of +4).
 
-### Knocked Out
-At HP 0, knocked unconscious.
-
-Any excess damage is dealt to flesh. Con save versus flesh. On success, stabilize. On fail, take 1d6 flesh damage. Die on -10.
-
-### Spellcasting
-
-## Character Creation
-
-### Races
-
-### Backgrounds
-Counts as 2 skills.
-Start with tools of the trade
+#### Burning Luck
+When you make a Roll without advantage, you may decrease your luck (to a min of -4). If you decrease your luck, you gain advantage to the roll.
 
 ### Inventory
-Slots
+PCs have 12 Basic Inventory Slots in total. The first 3 Slots are items that you have in hand, and can be accessed at any time. The other Basic Inventory Slots represent the armor you are wearing and a large backpack. It takes one combat round to retrieve any other item from your backpack.
 
-#### Equipment
-Fists 1d3
-Improvised weapons 1d6 (-2 to attack)
-Regular weapons 1d6
-2-handed weapons 1d8
+An Inventory Slot can contain
+* 3 Light objects, such as rations, torches, flasks, daggers.
+* 1 Medium object, such as a sword, a quiver of 20 arrows / bolts, a lantern.
+* 0.5 Heavy (2-handed) Weapon, e.g. greatsword
+* 100 Coins
+Armor takes up as many inventory slots as the bonus it provides. 
 
-## Character Advancement
+In addition to the basic inventory slots, PCs have 4 Encumbrance Slots. Each encumbrance slot used imposes a -1 penalty to your Move. If your Move bonus reaches -5, you can no longer move.
 
-Total 10 Levels.
+### Legendarium
+* Your Hoard
+* Skills? (4)
+* Saves? (4)
+* Class features?
 
-Only gain class features on even levels.
+## Level 0 Character Creation
 
-Some levels just gain stats?
+1. Choose your primary species, ie. the species that the inhabitants of the world immediately recognise you as from your looks.
+    * Human
+    * Dog
+    * Halfling
+2. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
+3. Fill in the rest of your stats.
+    * Max Hit Points (d4)
+    * Attack  0
+    * Armor  0
+    * Flesh  0
+    * Move  3
+    * Save  0
+4. Choose your former profession. 
+5. Fill in your inventory with
+    * 3 days of rations (1 slot)
+    * 3 torches (1 slot)
+    * The tools of your former profession (1 slot)
+    * A weapon (1 slot)
+    * 3d6 silver
+6. Give your PC a name. If you already know what drives them to adventure, you may record it at this time.
 
-### Classes
+## Advancement
+Your hoard determines your level, and hence your PC's base power level.
 
-Note: If using a shield, +1 to Armor Bonus. If using a 2-handed weapon, increase die size by one.
+| Level | Hoard (gp) | 
+| --- | --- |
+| 1 | 1,000 |
+| 2 | 3,000 | 
+| 3 | 6,000 |
+| 4 | 10,000 |
 
-## Bad Stuff
-Fall damage: d6 / 10ft
+When you level up, you gain the following:
+* Increase your HP by d4
+* Increase your Attack bonus by 1
+* Increase your Save bonus by 1
+* Gain one new Species feature, choosing from the next available features of your species.
 
-Suffocating: hold breath for [CON] minutes. [CON] round to air before dying. 
+## Equipment
 
-Fatigue: not eating or resting
+## Subsystems
 
-Darkness: disadv on anything requiring sight.
+### Exploration
+
+#### Dungeons
+Time -- The Dungeon Turn
+
+Encounter Roll
+
+#### Wilderness
+
+### Social
+Reaction
+
+### Combat
+Stunts
+Advantage
+Morale
+Crits
 
 ## Running the Game
 
-### GM Principles
+### Conversions
 
-Base Save DC 10.
-Difficult movement (climbing, jumping, fleeing) all use a Move check to determine success. The DC is usually 10.
-Stealth checks are difficult (DC 14) Dex checks.
+#### Saves
 
-Armor DC
-None 10
-Leather 12
-Chain 14
-Plate 16
-
-Monster Attack (11+HD)
-
-### Procedures
-Encounter Roll
-Reaction Roll
-Morale Roll
-
-### Game Prep
-
-### Converting Modules
+#### Monsters
+* Max Hit Points (HD * d6)
+* Attack TN = 10+HD
+* Armor TN = identical if ascending AC. If descending, subtract its AC from 19 if it is from OD&D or B/X D&D, or from 20 if from AD&D.
+* Move TN = 10 + X, where X is 0 for 25ft. Add 1 for every increase of 5 ft. e.g. Move of 40ft => Move TN = 13.
+* Save TN = 10+HD, includes Morale.
 
 ## License
-This yet to be named heartbreaker game by Mr Zech (Zechariah Lau) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode
