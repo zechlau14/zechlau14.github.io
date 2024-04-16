@@ -150,7 +150,17 @@ When you level up, you gain the following:
 * Gain one Mana Die
 * Gain one new Species feature, choosing from the next available features of your species.
 
-### Mana Die and Spellcasting
+### Mana Dice and Spellcasting
+
+Spells are spirits that are temporarily bonded to a caster's soul. Spells are then summoned forth by investing mana, which are represented by d6 Mana Dice (MD). The more MD invested, the more powerful the spell's manifestation.
+
+Each PC has a number of Mana Dice (MD) equal to their level, and they can bond to a number of Spells equal to their level.
+
+When you want to cast a spell, select the spell, its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to your mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until the next day.
+
+The effect of the spell depends on its description. \[dice\] refers to the number of rolled MD. \[sum\] refers to the sum of the rolled MD. Spells do not affect any target unless its \[sum\] is at least equal to the target's level.
+
+If doubles or triples are rolled, bad things happen to the caster. (For simplicity, doubles cause 1d6 damage and triples cause 3d6 damage.)
 
 ### Species
 Each Species has 4 features. The features are gained sequentially. 
@@ -186,13 +196,14 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get max four th
 | 20 | Greasy | Can no be tied up or grabbled |
 
 
-
 ## Equipment
 
 ## Hirelings
 Cost to hire
 
 Creating a hireling.
+
+Loyalty
 
 ## Subsystems
 
@@ -211,6 +222,11 @@ When you encounter strangers, the most visible party member makes a Luck Roll to
 | 7-14 | Uncertain |
 | 15-19 | Indifferent |
 | 20+ | Friendly |
+
+#### Food and Water
+After 1 day without water, a character becomes dehydrated, get disadvantage on all Rolls. After 3 days without water, die.
+
+Each day without food causes max HP to reduce by 1.
 
 #### Dungeons
 A Dungeon Turn takes about 10 minutes. In that time, PCs may
@@ -280,6 +296,10 @@ the most terrifying PC in that combat, DM's choice, makes a Luck roll versus the
 
 ## Running the Game
 
+### DM Principles
+* Give your players meaningful decisions and multiple viable options.
+* Giving more information rather than less allows for more meaningful decisions.
+
 ### Rolls
 If success or failure is inevitable, don't call for a Roll. Only call for a Roll if both success and failure lead to interesting outcomes. 
 
@@ -292,6 +312,14 @@ If your module does not give a target number for a save or check, use the follow
 * Move: 11
 * Moving Stealthily: 15
 * Saves: 10+HD or 15
+
+#### Monsters
+* HD
+* Attack
+* Armor
+* Damage
+* Move
+* Save (incl. Morale)
 
 ### Conversions
 
@@ -309,4 +337,6 @@ Fort, Reflex, Will
 
 ## License
 CC BY-NC-SA
+Goblin Punch - Lair of the Lamb
 Skerples - Many Rats on a Stick
+
