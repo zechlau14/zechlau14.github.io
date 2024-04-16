@@ -19,6 +19,12 @@ As for the setting, the world is filled with dungeons to crawl because many drag
 
 At higher levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
 
+## Player Agenda
+* Play to your character's drives
+* Ask questions
+* Be creative. The best plans guarantee success.
+* Embrace your character's death
+
 ## Core Gameplay Loop
 The game is played in turns. Turns usually go like this.
 1. The Dragon-Mother (DM) presents the location and scenario that the Players' characters (PCs) find themselves in.
@@ -132,10 +138,10 @@ Your hoard determines your level, and hence your PC's base power level.
 
 | Level | Hoard (gp) | 
 | --- | --- |
-| 1 | 1,000 |
-| 2 | 3,000 | 
-| 3 | 7,000 |
-| 4 | 15,000 |
+| 1 | 1000 |
+| 2 | 3000 | 
+| 3 | 7000 |
+| 4 | 15000 |
 
 When you level up, you gain the following:
 * Increase your HP by d4
@@ -147,6 +153,11 @@ When you level up, you gain the following:
 ### Mana Die and Spellcasting
 
 ### Species
+Each Species has 4 features. The features are gained sequentially. 
+
+Each PC has at least two species they may choose from at level up: their primary species and the dragon-blood. If in your game, the PC has been biten by a goblin or an undead, those species' features are also available to you.
+
+If you wish to play a mixed species character, please discuss with your DM at character generation.
 
 ## Equipment
 
@@ -229,6 +240,9 @@ When you make a combat maneuver, such as tripping, shoving, etc., you make eithe
 #### Defending
 When an enemy attacks you, make an Armor roll against their Attack TN. If you succeed, they miss. If you roll a 20 on the d20, you may make a free counter attack or combat maneuver. If you roll a 1 on the d20, the enemy does double damage to you.
 
+#### Fleeing
+If you decide to flee combat, on your turn, make a Move Roll versus the Move TN of the enemy you are engaged with. 
+
 #### Morale
 When combat turns against the NPCs, such as
 1. when their side takes their first death,
@@ -238,7 +252,14 @@ the most terrifying PC in that combat, DM's choice, makes a Luck roll versus the
 
 ## Running the Game
 
-### Usual Target Numbers (TN)
+### Rolls
+If success or failure is inevitable, don't call for a Roll. Only call for a Roll if both success and failure lead to interesting outcomes. 
+
+Don't gatekeep information behind a Roll. If there's a chance the Player sees it, tell them.
+
+Failed Rolls have consequences. Sometimes, the most obvious one is a time penalty. Wasted time means more chances for bad things to happen to the PCs.
+
+#### Usual Target Numbers (TN)
 If your module does not give a target number for a save or check, use the following:
 * Move: 11
 * Moving Stealthily: 15
@@ -259,3 +280,5 @@ Fort, Reflex, Will
 * Save TN = 10+HD, includes Morale.
 
 ## License
+CC BY-NC-SA
+Skerples - Many Rats on a Stick
