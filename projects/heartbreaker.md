@@ -228,6 +228,80 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get max four th
 * Magic Robes: +1 MD
 * Magic Wands: contains a bonded spell. Allows casting from it without its container being destroyed. If you are bonded to the same spell as the wand, when you cast that spell, it gets an extra MD.
 
+## Spells
+
+### Keywords
+* Splittable: can choose 
+* Sustainable
+
+### Orthodox Magic 
+
+#### Spell List
+1. Lock
+2. Knock
+3. Feather
+4. Floating Disk
+5. Grease
+6. Magic Missile
+7. Light
+8. Sleep
+9. Mage Armor
+10. Charm Person
+11. Levitate
+12. Invisibility
+13. Web
+14. Fireball
+
+#### Mishaps
+1. Gain 1 Trauma
+2. Take 1d6 damage
+3. Random mutation 1d6 rounds, then make a save; permanent if you fail
+4. Lose 1 casting die
+5. Agony 1d6 rounds
+6. Cannot cast spells for 1d6 rounds
+
+#### Dooms
+1. Lose the ability to cast spells for 1 day.
+2. Lose the ability to cast spells for 3 day.
+3. Lose the ability to cast spells permanently.
+
+Doom Quests: 
+Option 1, Eat the heart of a high elf. Option 2, Marry a high elf, as the traditional marriage ceremony involves a mingling of souls.
+
+### Necromancy
+Restriction: You cannot cast necromancy spells if you recovered HP or helped anyone recover HP in the last 3 rounds.
+
+Cantrip: Speak with Dead
+
+#### Spell List
+1. Essential Salts
+2. Explode Corpse
+3. Death Mask
+4. Fear
+5. Rot
+6. Raise Zombie
+7. False Life
+8. Raise Crawling Claw
+9. Death Scythe
+10. Raise Skeleton
+11. Doom Song
+12. Raise Skin Kite
+13. Revenant
+14. Lichdom
+
+#### Mishaps
+1. Gain 1 Trauma
+2. Take 1d6 damage
+3. Random mutation 1d6 rounds, then make a save; permanent if you fail
+4. Fear 1d6 rounds against target of spell
+5. 1d6 random nearby corpses raise as zombies and attack you for 1d6 rounds
+6. You die. Make a Save Roll every hour to find your way back from the lands of the dead. The first time you survive this mishap, you gain a contact in the afterlife (e.g. a psychopomp or a death).
+
+#### Doom
+1. You die and spend the next 1d6 days in the afterlife. You revive afterwards as long as your body is intact. Your body will rot after 2 days unless it is preserved in some way. (Assume all necromancers know of this incipient Doom and forewarn their companions.)
+2. You become undead, permanently
+3. All corpses in 20 miles rise as skeletons and attempt to kill you. Average 3d20 skeletons. Highest level skeleton is HD1d4+4, accompanied by 1d3+1 lieutenant undead of HD1d4+1. These undead were sent by someone you pissed off (e.g. the Underpope, a Devil, a powerful psychopomp) and will follow you to the ends of the earth. Until you destroy them, they will pursue you, and they will be joined by those that they kill. 
+
 ## Hirelings
 Cost to hire
 
