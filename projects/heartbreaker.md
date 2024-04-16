@@ -4,7 +4,7 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 15th, 2024
+Last updated: April 16th, 2024
 
 It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU) and the Goblin Laws of Gaming (GLOG).
 
@@ -13,9 +13,9 @@ Every hack of the most popular tabletop role-playing game of the 20th century al
 
 Every player character (PC) has dragon-blood in them. Due to this dragon-blood, PCs grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
-PCs may choose to embrace the dragon abilities, eventually becoming a dragon themself, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is an adventurer capable of wielding both sword and sorcery, with diegetic options to specialise.
+PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is an adventurer capable of wielding both sword and sorcery, with diegetic options to specialise.
 
-As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. When making conversions, the DM (Dragon-Mother) is encouraged to sprinkle in as much dragon-motifs as possible, and to convert any interesting NPC to dragon-blood.
+As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. These dungeons need loyal guards who will not be tempted by greed, so dragons love creating undead minions. The DM (Dragon-Mother) is encouraged to sprinkle in as much dragon and undead motifs as possible, and to make any interesting NPC either an undead or a dragon-blood.
 
 At higher levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
 
@@ -30,6 +30,8 @@ The game is played in turns. Turns usually go like this.
 
 ### the Roll
 When a Roll is called for, the DM will tell you the target number (TN) the roll must meet to succeed. If you agree to take the risk, then roll a twenty-sided die (d20) and add the appropriate bonus.
+
+If you are acting against another PC, the DM does not assign a TN. Instead, all Players involved roll, and the highest roll has their way.
 
 If you have an advantage that makes the task that requires a roll easier, you roll the d20 twice and take the higher result. If you have a disadvantage on such a task, you roll the d20 twice and take the lower result. The DM has final say on whether you have advantage or disadvantage.
 
@@ -76,22 +78,32 @@ Whenever you make a sacrifice or invite trouble in pursuit of your Drive, fate s
 When you make a Roll without advantage, you may decrease your luck (to a min of -4). If you decrease your luck, you gain advantage to the roll.
 
 ### Inventory
-PCs have 12 Basic Inventory Slots in total. The first 3 Slots are items that you have in hand, and can be accessed at any time. The other Basic Inventory Slots represent the armor you are wearing and a large backpack. It takes one combat round to retrieve any other item from your backpack.
+PCs have different types of Inventory Slots.
+
+* 3 On-hand Slots
+These represent items that you are carrying in hand or on an easily accessible part of your body, such as a lasso hanging from your belt, the quiver for your bow, or an arming sword in its sheath by your side. These can be accessed at any time.
+
+* 6 Body Slots
+These represent items worn on your person, such as any armor or headwear. Your regular clothes do not count towards these slots. Each piece of armor that you wear gives you a +1 to your Armor bonus, but a -1 penalty to your Move bonus.  
+If you do not wear full armor, you may use these slots to store other objects if you can justify wearing them on your person. Slots used in this manner will also cause a -1 Move penalty.
+
+* 8 Backpack Slots
+These represent items carried in a backpack. Getting these items out requires at least one combat turn.  
+6 slots fit well in the backpack. But you can overstuff the backpack with an extra two slots -- each of these slots used causes a -1 Move penalty.
+
+Note: If you reach -5 Move, you are too encumbered and can only move slowly.
 
 An Inventory Slot can contain
 * 3 Light objects, such as rations, torches, flasks, daggers.
 * 1 Medium object, such as a sword, a quiver of 20 arrows / bolts, a lantern.
 * 0.5 Heavy (2-handed) Weapon, e.g. greatsword
 * 100 Coins
-Armor takes up as many inventory slots as the bonus it provides. 
 
-In addition to the basic inventory slots, PCs have 4 Encumbrance Slots. Each encumbrance slot used imposes a -1 penalty to your Move. If your Move bonus reaches -5, you can no longer move.
+### Your Hoard
+As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
 
-### Legendarium
-* Your Hoard
-* Skills? (4)
-* Saves? (4)
-* Class features?
+### Your Prepared Spells and Skills 
+Your character may learn spells, martial skills and magical languages. Record them here.
 
 ## Level 0 Character Creation
 
@@ -101,7 +113,6 @@ In addition to the basic inventory slots, PCs have 4 Encumbrance Slots. Each enc
     * Halfling
 2. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
 3. Fill in the rest of your stats.
-    * Max Hit Points (d4)
     * Attack  0
     * Armor  0
     * Flesh  0
@@ -111,8 +122,8 @@ In addition to the basic inventory slots, PCs have 4 Encumbrance Slots. Each enc
 5. Fill in your inventory with
     * 3 days of rations (1 slot)
     * 3 torches (1 slot)
-    * The tools of your former profession (1 slot)
-    * A weapon (1 slot)
+    * A d6 weapon (1 slot)
+    * 2 random items (2 slots)
     * 3d6 silver
 6. Give your PC a name. If you already know what drives them to adventure, you may record it at this time.
 
@@ -123,42 +134,122 @@ Your hoard determines your level, and hence your PC's base power level.
 | --- | --- |
 | 1 | 1,000 |
 | 2 | 3,000 | 
-| 3 | 6,000 |
-| 4 | 10,000 |
+| 3 | 7,000 |
+| 4 | 15,000 |
 
 When you level up, you gain the following:
 * Increase your HP by d4
 * Increase your Attack bonus by 1
 * Increase your Save bonus by 1
+* Gain one Mana Die
 * Gain one new Species feature, choosing from the next available features of your species.
 
+### Mana Die and Spellcasting
+
+### Species
+
 ## Equipment
+
+## Hirelings
+Cost to hire
+
+Creating a hireling.
 
 ## Subsystems
 
 ### Exploration
 
-#### Dungeons
-Time -- The Dungeon Turn
+#### Random Encounter Roll
+The noisiest PC, DM's choice, makes a Luck Roll (usually vs. TN 12). On a failure, something or someone comes your way.
 
-Encounter Roll
+#### Reaction Roll
+When you encounter strangers, the most visible party member makes a Luck Roll to determine their reaction to the party.
+
+| Luck Roll | Reaction |
+| --- | --- |
+| 1- | Hostile |
+| 2-6 | Aggressive | 
+| 7-14 | Uncertain |
+| 15-19 | Indifferent |
+| 20+ | Friendly |
+
+#### Dungeons
+A Dungeon Turn takes about 10 minutes. In that time, PCs may
+* Move cautiously through 120 feet, spotting traps along the way,
+* Move quickly through 360 feet, discovering traps by triggering them,
+* Search a small room
+* Force a door open, including by lockpicking
+* Take a break, to heal 1d6 HP.
+
+A torch provides bright light in a 30 feet radius, and dim light for another 30 feet. It lasts for an hour, ie. 6 dungeon turns. When acting without light, all Rolls that rely on sight are made with disadvantage.
+
+Every 30 minutes, ie. after 3 dungeon turns, or whenever a loud noice occurs, make a Random Encounter Roll. 
 
 #### Wilderness
+PCs can travel at 3 miles per hour if the terrain and weather is good. At half that speed if the terrain is difficult.
+
+Make a Random Encounter roll every 3 hours or whenever the PCs do something that's likely to attract attention.
+
+PCs can safely travel for 8 hours per day. For each further hour of travel, PCs take a Wound and then make a Roll against their Wound TN. On a fail, that PC is no longer able to keep up and must rest.
 
 ### Social
 Reaction
 
 ### Combat
-Stunts
-Advantage
-Morale
-Crits
+
+#### Turn Order 
+If anyone attacks by surprise, they get an extra turn to act before regular turns begin.
+
+To determine the turn order of the Combat round, make a Move roll against the enemies' Move TN. PCs who succeed act before the enemies, PCs who fail act afterwards.
+
+#### Your Turn
+
+On their turn, a PC can move up to (25 + Move*5) feet. And they can do one of the following:
+* Make an Attack roll against a target
+* Dash, ie. move up to another (25 + Move*5) feet
+* Cast a spell
+* Retrieve an item from your backpack
+* Use an item
+* Make a combat maneuver against a target, like trip, shove, grapple, etc.
+Talking or dropping an item can be done freely, and possibly even on someone else's turn. 
+
+Attack rolls are made against the enemy's Armor TN. Ranged attacks are made at disadvantage if the enemy is far away.
+On a successful Attack roll, roll your weapon die and reduce the target's HP by that amount. If you roll a 20 on the d20, the attack deals twice as much damage OR you gain a free combat maneuver. If you roll a 1 on the d20, the attack misses and the enemy gets a free counter-attack against you.
+
+| Weapon type | Weapon die |
+| --- | --- |
+| Unarmed | d2 |
+| Improvised weapons* | 1d6 |
+| Regular weapons | 1d6 |
+| 2-handed weapons | 1d8 |
+Note: Improvised weapons make Attack rolls with a -2 penalty.
+
+When you make a combat maneuver, such as tripping, shoving, etc., you make either an Attack or Move Roll versus the opponent's Armor or Move TN. The DM decides which bonus is most applicable. On a success, you perform the maneuver.
+
+#### Defending
+When an enemy attacks you, make an Armor roll against their Attack TN. If you succeed, they miss. If you roll a 20 on the d20, you may make a free counter attack or combat maneuver. If you roll a 1 on the d20, the enemy does double damage to you.
+
+#### Morale
+When combat turns against the NPCs, such as
+1. when their side takes their first death,
+2. when half their side has been incapacitated or killed, or
+3. if some particularly frightening or spectacular effect occurs,
+the most terrifying PC in that combat, DM's choice, makes a Luck roll versus the enemies Save TN. If the roll succeeds, the NPCs try to run away or surrender
 
 ## Running the Game
+
+### Usual Target Numbers (TN)
+If your module does not give a target number for a save or check, use the following:
+* Move: 11
+* Moving Stealthily: 15
+* Saves: 10+HD or 15
 
 ### Conversions
 
 #### Saves
+5 saves
+
+Fort, Reflex, Will
 
 #### Monsters
 * Max Hit Points (HD * d6)
