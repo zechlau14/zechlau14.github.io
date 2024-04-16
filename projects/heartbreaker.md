@@ -108,8 +108,12 @@ An Inventory Slot can contain
 ### Your Hoard
 As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
 
-### Your Prepared Spells and Skills 
-Your character may learn spells, martial skills and magical languages. Record them here.
+### Your Prepared Spells and Dooms
+Your character may bond to a number of spells equal to their level. Record them here.  
+If they encounter any Arcane Dooms, record them here too.
+
+### Your Martial Skills
+When you make a successful combat maneuver, you may write it down as a skill, to a maximum of four skills.
 
 ## Level 0 Character Creation
 
@@ -150,17 +154,40 @@ When you level up, you gain the following:
 * Gain one Mana Die
 * Gain one new Species feature, choosing from the next available features of your species.
 
+After Level 4, every time you increase your hoard by 1000gp, you may swap out one of your species feature for any other available to you.
+
 ### Mana Dice and Spellcasting
 
-Spells are spirits that are temporarily bonded to a caster's soul. Spells are then summoned forth by investing mana, which are represented by d6 Mana Dice (MD). The more MD invested, the more powerful the spell's manifestation.
+Spells are spirits that are temporarily bonded to a caster's soul. Spells are then summoned forth by investing mana, which are represented by d6 Mana Dice (MD). The more mana invested, the more powerful the spell's manifestation.
 
-Each PC has a number of Mana Dice (MD) equal to their level, and they can bond to a number of Spells equal to their level.
+Each PC has a number of MD equal to their level, and they can bond to a number of Spells equal to their level. Your MD refreshes every morning.
 
-When you want to cast a spell, select the spell, its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to your mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until the next day.
+When you want to cast a spell, select the spell, its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to your mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until the next morning.
 
 The effect of the spell depends on its description. \[dice\] refers to the number of rolled MD. \[sum\] refers to the sum of the rolled MD. Spells do not affect any target unless its \[sum\] is at least equal to the target's level.
 
-If doubles or triples are rolled, bad things happen to the caster. (For simplicity, doubles cause 1d6 damage and triples cause 3d6 damage.)
+If doubles are rolled, the caster suffers a Mishap. If triples are rolled, the caster suffers a Doom, a creeping threat that will eventually destroy you. 
+
+#### Mishaps and Dooms
+
+When a Mishap occurs, look up the spell's school of magic and roll on its Mishap table. A Mishap takes effect immediately.
+
+When a Doom occurs, look up the spell's school of magic and suffer the lowest level Doom on the list that you have yet to suffer. The highest level Doom usually spells your end; this may be avoided by undertaking a unique Doom Quest.
+
+Alternate rule for simplicity: mishaps cause 1d6 damage and dooms cause 3d6 damage.
+
+#### Scrolls and Spellbooks
+Spells that are not bonded to a caster must be stored on magical paper, either in the form of a scroll or spellbook, or the spirit of the spell will be free to return to the spirit realm. It takes an hour to bond a spirit to either a caster or to magical paper.
+
+A scroll contains a single spell. Three scrolls can be bundled into one inventory slot. Scrolls are vulnerable to damage -- whenever you take fire or acid damage, each scroll has a 50% chance of being destroyed. 
+
+A spellbook occupies a single inventory slot and holds 10 spells. Spellbooks are protected by waterproof bags and metal covers.
+
+If you discover a new spell on paper, you require the Read Magic Skill to identify the spell contained within. However, you may still cast from an unidentified scroll with a successful Save Roll. If you fail the Roll, you suffer a Mishap instead.
+
+If you cast a Spell from magical paper, the paper is destroyed. However, this destruction invests one free MD into the Spell. This free MD can contribute to Mishaps, and is always spent -- it cannot be absorbed into the caster's Mana pool.
+
+When a wizard dies, their bonded spells remains in their brain. Wizarding laboratories can perform rituals to extract these spells. A wizard's brain occupies a single inventory slot, and like a scroll is vulnerable to fire and acid.
 
 ### Species
 Each Species has 4 features. The features are gained sequentially. 
@@ -195,8 +222,11 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get max four th
 | 19 | Ooze Friend | Little squishy friend. No acid or guts or ooze hurt you. |
 | 20 | Greasy | Can no be tied up or grabbled |
 
-
 ## Equipment
+
+### Magical Equipment
+* Magic Robes: +1 MD
+* Magic Wands: contains a bonded spell. Allows casting from it without its container being destroyed. If you are bonded to the same spell as the wand, when you cast that spell, it gets an extra MD.
 
 ## Hirelings
 Cost to hire
@@ -204,6 +234,9 @@ Cost to hire
 Creating a hireling.
 
 Loyalty
+
+## Skills
+
 
 ## Subsystems
 
@@ -337,6 +370,6 @@ Fort, Reflex, Will
 
 ## License
 CC BY-NC-SA
-Goblin Punch - Lair of the Lamb
+Arnold Kemp Goblin Punch - Lair of the Lamb, GLOG:Wizards
 Skerples - Many Rats on a Stick
 
