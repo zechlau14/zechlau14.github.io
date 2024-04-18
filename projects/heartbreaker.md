@@ -481,6 +481,26 @@ Fort, Reflex, Will
 * Move TN = 10 + X, where X is 0 for 25ft. Add 1 for every increase of 5 ft. e.g. Move of 40ft => Move TN = 13.
 * Save TN = 10+HD, includes Morale.
 
+#### Elf Templates
++2 to Stealth while in wilderness
+
+A -- Star Eyed
+If you can see the stars, you see as well as during the day.
+
+A -- Immortal
+Each elf is bonded to a tree. If the elf dies, the tree dies, and vice versa. As long as this tree is alive, the elf will not die from old age.
+
+Practically, this means that elves cannot be magically aged. They do not suffer mundane or magical disease. If severely wounded, the elf never looks gross. His scars look cool and beautiful.
+
+B -- Enchanted
+Elves cast spells by singing. One spell is called their "heartspell". They may always cast the heartspell: If they are out of MD, they may roll 1d6, taking its value in damage and as the spell's value.
+
+C -- Wood-weird, +1 MD
+Each great forest, tall mountain and deep lake has a spell hidden in it. If you spend the night sleeping in a new, significant, natural location, you can learn this hidden spell on a successful check. 
+
+D -- Wise, +1 MD
+When you sleep at night, you may ask the GM one question of something in the akashic record. You may then ask one follow-up question.
+
 ## License
 CC BY-NC-SA
 Arnold Kemp Goblin Punch - Lair of the Lamb, GLOG:Wizards
