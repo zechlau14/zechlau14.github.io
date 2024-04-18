@@ -4,9 +4,11 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 16th, 2024
+Last updated: April 18th, 2024
 
 It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU) and the Goblin Laws of Gaming (GLOG).
+
+# WIP Title: Goblins and Dragons
 
 ## Premise of the Game
 Every hack of the most popular tabletop role-playing game of the 20th century always seems to focus on the second D in its name -- the dungeons. In fact, I even called it the "dungeon-based fantasy RPG" in an earlier draft. To make this hack stand out, I will instead focus on the first D -- the dragons.
@@ -73,15 +75,11 @@ Wounds can only be healed at a safe haven. Each night you are safe and well-fed,
 * Armor: to yourself against weapon attacks or combat stunts
 * Move: to difficult movements like acting quickly in combat, fleeing a monster, moving stealthily.
 * Save: to resist magic or emotional compulsions
-* Luck: for outcomes purely in fate's hands
 
-### Drives
+### Drives and Luck
 Besides your Draconic greed for gold, you have other drives pushing you to this life of adventure and risk. Examples: "seek knowledge", "help the innocent", "get ladies", "protect my friend" etc.
 
-Whenever you make a sacrifice or invite trouble in pursuit of your Drive, fate smiles on you, increase your Luck bonus by 1 (to a max of +4).
-
-#### Burning Luck
-When you make a Roll without advantage, you may decrease your luck (to a min of -4). If you decrease your luck, you gain advantage to the roll.
+Whenever you make a sacrifice or invite trouble in pursuit of your Drive, fate smiles on you, gain one Luck point (to a max of 3). When you make a Roll without advantage, you may spend one Luck point to gain advantage to the roll.
 
 ### Inventory
 PCs have different types of Inventory Slots.
