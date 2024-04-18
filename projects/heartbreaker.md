@@ -13,13 +13,13 @@ It seems that everyone in this corner of the internet has published their own ho
 ## Premise of the Game
 Every hack of the most popular tabletop role-playing game of the 20th century always seems to focus on the second D in its name -- the dungeons. In fact, I even called it the "dungeon-based fantasy RPG" in an earlier draft. To make this hack stand out, I will instead focus on the first D -- the dragons.
 
-Every player character (PC) has dragon-blood in them. Due to this dragon-blood, PCs grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
+Every player character (PC) has dragon-blood in them. Subconsciously this dragon-blood drives them toward acquiring gold. The Dragon-blood causes PCs to grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
 PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is an adventurer capable of wielding both sword and sorcery, with diegetic options to specialise.
 
 As for the setting, the world is filled with dungeons to crawl because many dragon and their descendants instinctively build them to protect their hoards. These dungeons need loyal guards who will not be tempted by greed, so dragons love creating undead minions. The DM (Dragon-Mother) is encouraged to sprinkle in as much dragon and undead motifs as possible, and to make any interesting NPC either an undead or a dragon-blood.
 
-At higher levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
+Starting from the mid-levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
 
 ## Player Agenda
 * Play to your character's drives
@@ -29,7 +29,7 @@ At higher levels, PCs are encouraged to embrace domain play, in which they build
 
 ## Core Gameplay Loop
 The game is played in turns. Turns usually go like this.
-1. The Dragon-Mother (DM) presents the location and scenario that the Players' characters (PCs) find themselves in.
+1. The Dragon-Mother (DM) presents the location and scenario that the Players' characters (PCs) find themselves in due to their pursuit of their drives, usually gold.
 2. The Players can ask for more details. The DM will answer honestly, but the answer may be that the PCs must investigate to find out.
 3. When the Players' questions are answered, they say what their PCs want to do in response. If there is risk involved in the Player's choice, the DM will inform them of it and ask if the Player still wants to proceed.
 4. If the outcome of the PC's action is interesting and uncertain, a Roll is required to determine the outcome.
@@ -79,7 +79,7 @@ Wounds can only be healed at a safe haven. Each night you are safe and well-fed,
 ### Drives and Luck
 Besides your Draconic greed for gold, you have other drives pushing you to this life of adventure and risk. Examples: "seek knowledge", "help the innocent", "get ladies", "protect my friend" etc.
 
-Whenever you make a sacrifice or invite trouble in pursuit of your Drive, fate smiles on you, gain one Luck point (to a max of 3). When you make a Roll without advantage, you may spend one Luck point to gain advantage to the roll.
+Whenever you make a sacrifice or invite trouble in pursuit of one of your Drives, fate smiles on you, gain one Luck point (to a max of 3). When you make a Roll without advantage, you may spend one Luck point to gain advantage to the roll.
 
 ### Inventory
 PCs have different types of Inventory Slots.
@@ -350,6 +350,74 @@ Loyalty
 
 ## Skills
 
+1. Bag of Tricks
+    1. Takes up up to 2 inventory slots. At any time, you may fill in one of these slots with a mundane tool of value (1 Coin). When you return to town, you may clear these slots to refill the bag.
+    2. Bag now has up to 4 slots.
+    3. Bag no longer contributes to encumbrance.
+2. Extra-Lucky
+    1. Whenever you would gain advantage to Attack, you roll damage with advantage as well.
+    2. Whenever you gain advantage on a Roll, you may reroll 1s.
+    3. Whenever you would gain advantage on a Roll, you may roll the d20 3 times instead of 2 and take the best.
+3. Prepwork
+    1. On a 1 in 6, you may declare that you've set up a minor environment effect nearby in an area that you would've had access to within the recent past and trigger that effect.
+    2. One automatic success per day. Then 2 in 6 for each following attempt.
+    3. 3 in 6 for each following attempt, and you can have retroactively set up effects in any area you plausibly could have had access to at any time in the past.
+4. Second Story Work
+    1. You can climb vertical surfaces as quickly as you can walk.
+    2. Double your move speed and jump distance.
+    3. You can climb upside down as quickly as you can walk. Halve fall damage.
+5. Thick as thieves
+    1. You can recruit d4 thugs in town who are loyal so long as they get a cut of the loot and are sure they'll make it out alive. They will flee, cheat or betray you and each other if either of those conditions become sufficiently murky.
+    2. d6 thugs or d4 thieves, each with 1 rank in a random skill (besides skills that give you hirelings).
+    3. 2d6 thugs or 2d4 thieves, each with 2 ranks in a random skill (besides skills that give you hirelings).
+6. Tricky fingers
+    1. Whenever you try to perform sleight of hand (lockpicking, pickpocketing, etc.), failure won't alert anyone who isn't already paying attention to you.
+    2. You leave no trace of tampering, or specific traces of your choice, when you perform sleight of hand (whether you succeed or fail).
+    3. Whenever someone tries to retrieve or draw an item, you can (on a 2-in-6, with 1 guaranteed success per day) reveal that you actually burgled it from them at some point in the recent pass if you had access.
+7. Con artist
+    1. So long as no one can verify what you're saying is wrong, you can lie through your teeth and they'll believe you for at least d6 minutes.
+    2. d6 hours
+    3. Even if they can verify, they'll believe you over other people until the end of the duration.
+8. Cunning Linguist
+    1. Three times, you may encounter a language that the party does not understand, and reveal that you speak that language. Add it to your character sheet, you are now fluent in it.
+    2. You can attempt to translate any language you don't speak. The GM rolls a d6 secretly for the number of errors you make in translation.
+    3. You can crudely communicate with anything that has a language. Gain the ability to speak with (d6: 1. Birds, 2. Clothes, 3. Doors, 4. Gold, 5. Fire, 6. Weapons)
+9. Fancy
+    1. Fancy clothes give you +2 Armor bonus
+    2. Can choose to ablate fancy clothing like a shield, reducing damage from one attack by d12 points but ruining your outfit in the process.
+    3. Given half an hour, you can make any outfit into a fancy outfit through sheer willpower and coordination.
+10. Seductive Wiles
+    1. You can keep someone engaged in conversation with you, to the exclusion of all else, for an hour. This makes them less hostile, and on a 2-in-6 they let valuable information slip.
+    2. You don't have to roll to impersonate someone in casual conversation, but gaps in your knowledge can still reveal you. 4-in-6 to let info slip.
+    3. You can choose which specific information they reveal, if any, and you can keep them talking for d6 hours.
+11. Appraisal
+    1. You can tell the rough value (within an order of magnitude) and historical/geographic provenance of items, architecture, etc. 
+    2. You can identify an object, effect or creature is magic on sight. Gain the ability to Speak with Art.
+    3. Gain the ability to Speak with Magic.
+12. Danger Sense
+    1. 3-in-6 chance of acting in surprise round when ambushed, advantages on saves against effects you haven't seen yet.
+    2. Always act in surprise rounds; always act first in initiative order.
+    3. Once, you may cheat death.
+13. Historian
+    1. On a 1-in-6, you may declare a historical fact relevant to the current situation (negotiate it with the GM). Whether correct or not, it's believed to be true in the current era.
+    2. One automatic success per day, then 2-in-6 for each following event.
+    3. 3-in-6, and the historical facts you declare can be outlandish - but your reputation will make them believed.
+14. The World's Your Stage
+    1. Accompanied by a plausible disguise for the situation, people will always assume you are who you appear to be, unless you give them a strong reason not to.
+    2. You are a master of disguise. With the aid of a disguise kit, you can spend 1 hour to disguise yourself as belonging to a gender, ethnicity, or similarly sized humanoid species other than your own. Your disguise won't pass close inspection, but it will do the job in any casual encounter unless the people you meet already have reason to be very suspicious of you.
+15. Connected
+    1. If you’ve spent at least a week in a town, you’ll have built a web of useful contacts. If you want something (items, information, invites to parties, etc) which could possibly be obtained in your location for the right price, then you know someone who can obtain it for you (whether you can afford it or not is another question). You also have contacts who can do favours for you that are no more than mildly illegal. You can call on one favour per day and the GM decides how far they’ll go for you.
+    2. Once per session, if it’s not entirely implausible, you meet someone you know who is willing to do modest favours for you. You can decide when and where you want to meet this person, but the GM decides who they are and what they can do for you.
+16. Escape Artist
+    1. Once per day, if you could plausibly escape from a situation (tied up, awkward conversation), you may do so without needing to roll.
+    2. Once per scene, you can escape automatically from a situation you could plausibly escape.
+17. Social Magnet
+    1. You can convince d6 people in close proximity that you are a close friend over the course of a few minutes, and they will treat you as if you were an old friend until you leave their presence.
+    2. 2d6 people in close proximity, and their positive feelings towards you last for d6 days.
+18. Act like you belong
+    1. You can avoid notice by slipping into a group of 4 or more, provided you are similar in appearance to the group. You are treated as if part of the group, and given access to any resources or restricted areas that they would normally have access to, as long as you accompany them.
+    2. You can avoid notice by accompanying even a single individual, or can slip into a group even without the appropriate appearance. After you leave, you are difficult to describe, and your features can't be recollected if you choose.
+19. 
 
 ## Subsystems
 
@@ -505,4 +573,6 @@ When you sleep at night, you may ask the GM one question of something in the aka
 CC BY-NC-SA
 Arnold Kemp Goblin Punch - Lair of the Lamb, GLOG:Wizards
 Skerples - Many Rats on a Stick (Goblins)
-Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans, Halflings)
+Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans, Halflings, Elf)
+Crated Land -  Thieves' Guilds Feb 1, 2020
+Make a New Cult Every Day - GLOG: A Bunch of Rogue Classes Feb 19, 2020
