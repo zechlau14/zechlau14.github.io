@@ -110,8 +110,8 @@ As a dragon-blood, you hoard treasure just as much as gold. When your party come
 Your character may bond to a number of spells equal to their level. Record them here.  
 If they encounter any Arcane Dooms, record them here too.
 
-### Your Martial Skills
-When you make a successful combat maneuver, you may write it down as a skill, to a maximum of four skills.
+### Your Talents
+Your character may have a number of talents equal to their level. Record them here.
 
 ## Level 0 Character Creation
 
@@ -193,6 +193,47 @@ Each Species has 4 features. The features are gained sequentially.
 Each PC has at least two species they may choose from at level up: their primary species and dragon-blood. If in your game, the PC has been biten by a goblin or an undead, those species' features are also available to you.
 
 If you wish to play as a further mixed-species character, please discuss with your DM at character generation.
+
+#### Human
+Mankind's great strength are war, cooperation and breeding. Every time you Level up as a human, gain 1 Mastery.
+
+Mastery:
+
+A -- Master of Horses  
+You can treat a trained animal you keep as henchman. If it's a war dog or war horse, they can fight as a Level 1 character. Unless something very, very unfortunate happens, your favorite pet will survive even when knocked out of a fight.
+
+B -- Hateful
+Humans use one dice step higher when rolling damage.
+
+C -- Communal  
+Your Mastery points give a +2 bonus per point spent, instead of +1.
+
+D -- Proud  
+You gain a minor noble title. Name your new noble house, select heraldy and house motto. When you fight under your own banner, gain +1 Attack and Armor. Hirelings now have a starting loyalty of +X (16% to flee). 
+
+#### Halfling
+Small, friendly, love comforts, lucky. For each Halfling Level, +1 to Save.
+
+A -- Gourmand
+You have exceptional taste. With just a tiny taste, you tell what the ingredients are (e.g. if there's poison.) This allows reverse engineering most potions.
+
+A -- Love of Comfort
+Whenever you gain a drunkenness point, you heal 1d4 HP. You can do this a number of times equal to your Halfling Level until you sleep it off.
+
+B -- Jolly
+When you encounter a creature for the first time, you have a 50% chance to change their Disposition to "Curious" or "Friendly". People just seem to like you.
+
+C -- Lucky Dodge
+You critically succeed Armor rolls on 18, 19 or 20.
+
+D -- Damned Little Buggers
+Whenever a larger enemy misses you with a melee attack, you may force them to make another melee attack against a target within range. It's possible to make enemies hit themselves with this ability.
+
+#### Dragon
+Strong, magical and extremely greedy for gold.
+
+A -- Goldnose
+You can smell gold, jewels, gem, silver, minerals and crystals of value. If you stand at a crossroads and sniff, the DM will tell you which direction has the most treasure. If you sniff in an empty room, the DM will tell you if you smell the faint odor of potentially buried treasure.
 
 #### Goblin
 Each time Get Good, roll one time on list. Same thing, roll new. Get max four thing only.
@@ -443,5 +484,5 @@ Fort, Reflex, Will
 ## License
 CC BY-NC-SA
 Arnold Kemp Goblin Punch - Lair of the Lamb, GLOG:Wizards
-Skerples - Many Rats on a Stick
-
+Skerples - Many Rats on a Stick (Goblins)
+Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans, Halflings)
