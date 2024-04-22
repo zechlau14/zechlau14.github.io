@@ -6,17 +6,17 @@ category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 
 Last updated: April 19th, 2024
 
-It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU) and the Goblin Laws of Gaming (GLOG).
+It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU), Into the Odd and the Goblin Laws of Gaming (GLOG).
 
 # WIP Title: Goblins and Dragons
 
-## Premise of the Game
+## Why this Heartbreaker?
 
 Every hack of the most popular tabletop role-playing game of the 20th century always seems to focus on the first D in its name -- the dungeons. In fact, I even called it the "dungeon-based fantasy RPG" in an earlier draft. To make this hack stand out, I will instead focus on the second D -- the dragons.
 
 Every player character (PC) has dragon-blood in them. Subconsciously this dragon-blood drives them toward acquiring gold. The Dragon-blood causes PCs to grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
-PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a tomb-raiding rogue, with diegetic options to specialise.
+PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a member of that legal get rich quick if you don't die profession -- archaelogist (read: tomb-raiding **rogue**).
 
 As for the setting, the world is littered with tombs of treasure. The largest religion believes that gold is the foundation for a good afterlife, and one must be buried with it. They also believe in binding servants into service in the afterlife, burying them together with their masters and animating the corpses to protect the tombs. Gold is reserved for the dead, the living use the silver standard.
 
@@ -44,33 +44,31 @@ The game is played in turns. Turns usually go like this.
 
 ### the Roll
 
-When a Roll is called for, the DM will tell you the target number (TN) the roll must meet to succeed. If you agree to take the risk, then roll a twenty-sided die (d20) and add the appropriate bonus.
+When a Roll is required, the DM will clarify the following with you and the table:
 
-If you are acting against another PC, the DM does not assign a TN. Instead, all Players involved roll, and the highest roll has their way.
+* What are you trying to accomplish? And how well can you accomplish it?
 
-If you have an advantage that makes the task that requires a roll easier, you roll the d20 twice and take the higher result. If you have a disadvantage on such a task, you roll the d20 twice and take the lower result. The DM has final say on whether you have advantage or disadvantage.
+* What is at risk here? ie. What badly could it go wrong if you fail?
 
-If you have multiple advantages, then the task is no longer challenging and succeeds without a roll. If you have multiple disadvantages, then the task is too difficult and will automatically fail.
+The DM then tell you which target number (TN) the roll must meet to succeed. The TN is usually on your or the opposing NPC's character sheet. If you agree to take the risk, then roll a twenty-sided die (d20), adding your Skill bonus if appropriate.
+
+If you are acting against another PC, all Players involved roll. Whichever Player has the highest roll among those who succeeded against their respective TN has their way.
 
 ## Elements of a Character
 
-### Species
-
-Each species in the setting has a unique set of abilities. When a PC levels up, they gain the next feature from one of their species. 
-
-Each PC starts with at least two species:
-
-* their primary species, ie. the species that the inhabitants of the world immediately recognise you as from your physical appearance, and
-* dragon-blood, as one of their ancestors was a dragon.
-  With your DM's approval, you may also start with a third species, representing your mixed-lineage.
-
 ### Hit Points and Wounds
 
-Hit Points reflects a PC's ability to avoid danger.  
+Hit Points reflects a PC's ability to avoid danger.  Wounds are the amount of damage your body has taken. If you ever reach 10 Wounds, you die.
 
-When your HP is reduced to 0, any excess damage is taken as Wounds. You must then make a Roll (no bonus) to remain conscious, against TN = 10 + Wounds. An unconscious PC regains consciousness when they recover HP. 
+Your Wound TN is 10 + Wounds. You may have to Roll against your Wound TN when you do something that challenges your stamina or bodily endurance, like being poisoned.
 
-If you ever reach 10 Wounds, you die. 
+When your HP is reduced to 0, any excess damage is taken as Wounds. You must then make a Roll to remain conscious, against your Wound TN. An unconscious PC regains consciousness when they recover HP. 
+
+### Stress
+
+Stress reflect's the amount of toll your mind has taken from resisting magical or emotional compulsion. If you ever reach 10 Stress, you suffer a nervous breakdown and can no longer stomach this profession -- retire this character.
+
+Your Stress TN is 10 + Stress. You may have to Roll against your Stress TN when you resist the effects of a spell or face something emotionally distressing.
 
 #### Healing
 
@@ -78,20 +76,18 @@ If you rest for 10 minutes, recover 1d6 HP.
 
 If you rest for 30 minutes and eat a Ration, recover all HP. 
 
-Wounds can only be healed at a safe haven. Each night you are safe and well-fed, remove 1 Wound. A healer will speed up the process.
+Wounds and Stress can only be healed at a safe haven. Each night you are safe and well-fed, remove 1 Wound and 1 Stress. A hired healer will speed up the process.
 
-### Bonuses
+### Skill
 
-* Attack: to weapon attacks, combat stunts, using brute force on an object
-* Armor: to yourself against weapon attacks or combat stunts
-* Move: to difficult movements like acting quickly in combat, fleeing a monster, moving stealthily.
-* Save: to resist magic or emotional compulsions
+Your skill is a bonus that applies to Rolls when your Rogue does something they are skilled at. These include, but are not limited to:
 
-### Drives and Luck
-
-Besides your Draconic greed for gold, you have other drives pushing you to this life of adventure and risk. Examples: "seek knowledge", "help the innocent", "get ladies", "protect my friend" etc.
-
-Whenever you make a sacrifice or invite trouble in pursuit of one of your Drives, fate smiles on you, gain one Luck point (to a max of 3). When you make a Roll without advantage, you may spend one Luck point to gain advantage to the roll.
+* Acrobatic Movements
+* Stealth
+* Fleeing
+* Attacks
+* Unarmored Defence
+- Combat Maneuvers 
 
 ### Inventory
 
@@ -101,14 +97,12 @@ PCs have different types of Inventory Slots.
   These represent items that you are carrying in hand or on an easily accessible part of your body, such as a lasso hanging from your belt, the quiver for your bow, or an arming sword in its sheath by your side. These can be accessed at any time.
 
 * 6 Body Slots
-  These represent items worn on your person, such as any armor or headwear. Your regular clothes do not count towards these slots. Each piece of armor that you wear gives you a +1 to your Armor bonus, but a -1 penalty to your Move bonus.  
-  If you do not wear full armor, you may use these slots to store other objects if you can justify wearing them on your person. Slots used in this manner will also cause a -1 Move penalty.
+  These represent items worn on your person, such as any armor or headwear. Regular clothes do not count towards these. Each piece of armor worn gives a +1 to your Armor bonus and to your Encumberance.  
+  If you do not wear full armor, you may use these slots to store other objects if you can justify wearing them on your person. Getting these items ready for use requires at least one combat turn. Each slot used in this manner contributes 1 to your Encumberance.
 
-* 8 Backpack Slots
+* 9 Backpack Slots
   These represent items carried in a backpack. Getting these items out requires at least one combat turn.  
-  6 slots fit well in the backpack. But you can overstuff the backpack with an extra two slots -- each of these slots used causes a -1 Move penalty.
-
-Note: If you reach -5 Move, you are too encumbered and can only move slowly.
+  6 slots fit well in the backpack. But you can overstuff the backpack with an extra three slots -- each of these slots used causes a -1 Move penalty.
 
 An Inventory Slot can contain
 
@@ -117,18 +111,38 @@ An Inventory Slot can contain
 * 0.5 Heavy (2-handed) Weapon, e.g. greatsword
 * 100 Coins
 
+### Armor and Encumberance
+
+Your Armor bonus is added to Rolls made to avoid damage from opposing Attacks and combat maneuvers when wearing armor. 
+
+Your Encumberance TN = 10 + Encumberance. You may have to Roll against your Encumberance TN when you are making movements in which your gear might weigh you down, such as leaping across a large chasm or sneaking up to a guard.
+
+### Species
+
+Each species in the setting has a unique set of abilities. When you level up, gain the next feature from one of your species.
+
+Each PC starts with at least two species:
+
+- their primary species, ie. the species that the inhabitants of the world immediately recognise you as from your physical appearance, and
+- dragon-blood, as one of their ancestors was a dragon.
+
+With your DM's approval, you may also start with a third species, representing your mixed-lineage.
+
+### Your Rogue Talents
+
+Each Rogue has their talents. When you level up, you gain another talent.
+
+### Arcane Dooms
+
+Magic is dangerous, even for the most skilled of wizards. If you channel great arcane power and it goes extremely wrong, mark the first unmarked Doom on the list.
+
+1. Drop to 0 HP, and Roll vs. your Wound TN to prevent passing out.
+2. Each subsequent time you cast, Roll vs. your Willpower TN. If you fail, the spell fizzles out.
+3. Lose the ability to cast spells permanently.
+
 ### Your Hoard
 
 As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
-
-### Your Prepared Spells and Dooms
-
-Your character may bond to a number of spells equal to their level. Record them here.  
-If they encounter any Arcane Dooms, record them here too.
-
-### Your Talents
-
-Your character may have a number of talents equal to their level. Record them here.
 
 ## Level 0 Character Creation
 
@@ -138,26 +152,25 @@ Your character may have a number of talents equal to their level. Record them he
    * Halfling
 2. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
 3. Your stats start at 0.
-   * Attack  0
-   * Armor  0
-   * Move 0
    * Wounds 0
+   * Stress 0
+   * Skill 0
+   * Armor  0
    * Encumberance 0
-   * Save  0
 4. Roll up or choose your former profession. 
 5. Fill in your inventory with
    * 3 days of rations (1 slot)
    * 3 torches (1 slot)
    * A d6 weapon (1 slot)
    * 2 random items (2 slots)
-   * 3d6 copper.
-6. Give your PC a name. If you already know what drives them to adventure, you may record it at this time.
+   * 1 Coin
+6. Give your PC a name.
 
 ## Advancement
 
 Your hoard determines your level, and hence your PC's base power level.
 
-| Level | Hoard (cp) |
+| Level | Hoard (gp) |
 | ----- | ---------- |
 | 1     | 1000       |
 | 2     | 3000       |
@@ -167,9 +180,7 @@ Your hoard determines your level, and hence your PC's base power level.
 When you level up, you gain the following:
 
 * Increase your HP by d4
-* Increase your Attack bonus by 1
-* Increase your Save bonus by 1
-* Gain one Mana Die
+* Increase your Skill bonus by 1
 * Gain one new Species feature, choosing from the next available features of your species.
 
 After Level 4, every time you increase your hoard by 1000gp, you may swap out one of your species feature for any other available to you.
@@ -180,7 +191,7 @@ Spells are imprisoned spirits that are summoned forth for a specific purpose wit
 
 Anyone can cast spells if they have (1) a Spell (usually in the form of a scroll or wand), and (2) Mana Dice to spare. Magical Species, like Dragons, gain innate Mana Dice as they level up. Everyone else has to find magical items that give them Mana Dice.
 
-To cast a spell, PCs must hold the spell's container in hand, then select its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to your mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until the next morning.
+To cast a spell, PCs must hold the spell's container in hand, then select its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to its mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until recharged.
 
 The effect of the spell depends on its description. [dice] refers to the number of rolled MD. [sum] refers to the sum of the rolled MD. Spells do not affect any target unless its [sum] is at least equal to the target's level.
 
@@ -190,23 +201,17 @@ If doubles are rolled, the caster suffers a Mishap -- roll on the Mishap table. 
 
 1. Take 1d6 damage
 
-2. Can't cast the same spell until next daily rest
+2. Cannot cast the spell again until the next day
 
-3. Invert spell effect on target.
+3. Invert spell effect on target
 
-4. Randomize spell targets.
+4. Randomize spell targets
 
-5. Magic dice return on 1-2 until end of day.
+5. Magic dice return on 1-2 until end of day
 
 6. Inconvenience related to the spell's effect for \[sum\] days.
 
-**Dooms**
-
-1. Drop to 0 HP, and make a Save vs. Wound to prevent passing out.
-2. Each time you cast, roll a Save. If you fail, the spell fizzles out.
-3. Lose the ability to cast spells permanently.
-
-When you discover a new spell, you must have the spell identified to understand its full effects. However, you may still cast an unidentified spell with a successful Save Roll. If you fail the Roll, you suffer a Mishap instead.
+When you discover a new spell, you must have the spell identified to understand its full effects. However, you may still cast an unidentified spell with a successful Roll against Stress. If you fail the Roll, you suffer a Mishap instead.
 
 #### Magical Items
 
@@ -218,7 +223,7 @@ Spell spirits are contained in
 
 - A wizard's brain.
 
-Wands and Starves contain a single bonded spell and occupy one inventory slot. They may always be used as long as their wielder has MD to invest.
+Wands and Starves contain a single bonded spell and occupy one inventory slot. They may always be used as long as their wielder has MD to invest. 
 
 A scroll contains a single spell. Three scrolls can be bundled into one inventory slot. Scrolls are vulnerable to damage -- whenever you take fire or acid damage, each scroll has a 50% chance of being destroyed. A spellbook occupies a single inventory slot and holds 10 spells. Spellbooks are protected by waterproof bags and metal covers.
 
@@ -232,13 +237,29 @@ Magical clothing, like magical robes and pointy hats, are Mana containers. Magic
 
 Each Species has 4 features. The features are gained sequentially. 
 
-Each PC has at least two species they may choose from at level up: their primary species and dragon-blood. If in your game, the PC has been biten by a goblin or an undead, those species' features are also available to you.
+Each PC has at least two species they may choose from at level up: their primary species and dragon-blood. If in your game, the PC has been biten by a goblin, you may choose to gain goblin features -- Goblinisation is contagious.
 
 If you wish to play as a further mixed-species character, please discuss with your DM at character generation.
 
-
-
 Cat? 2nd magical race?
+
+##### Species Template
+
+each template gives +1HP & +1 Initiative?
+
+Starting equipment: item and other animal, linked biologically or otherwise iconic
+
+Starting equipment (addenda): cultural, religious, or problem-approach signifier
+
+A -- Animal nature. Establishes how being this animal works.
+
+A -- Animal feature. Feel free to pull from pop culture as well as biology. If the Animal Nature doesn't provide you anything for combat, this feature should be combat-related.
+
+B -- Animal feature (utility or support)
+
+C -- Animal Feature (combat-related)
+
+D -- Capstone, related to some greater entity
 
 #### Human
 
@@ -278,8 +299,6 @@ You critically succeed Armor rolls on 18, 19 or 20.
 
 D -- Damned Little Buggers
 Whenever a larger enemy misses you with a melee attack, you may force them to make another melee attack against a target within range. It's possible to make enemies hit themselves with this ability.
-
-
 
 #### Really Good Dog
 
@@ -329,8 +348,6 @@ If you refuse or fail this quest, you will be shunned by the Dog Clans of the ci
 
 Strong, magical and extremely greedy for gold. Choose an element: acid, air, fire, ice, lightning, stone and water. 
 
-
-
 A -- Goldnose
 You can smell gold, jewels, gem, silver, minerals and crystals of value. If you stand at a crossroads and sniff, the DM will tell you which direction has the most treasure. If you sniff in an empty room, the DM will tell you if you smell the faint odor of potentially buried treasure.
 
@@ -340,8 +357,6 @@ R: 20' cone T: area D:0
 
 Deal \[sum\] damage to anything in the cone. Save for half damage. Wind or Water breath extinguishes all fires smaller than a bonfire. Fire breath sets things on fire. Acid breath bleaches the colour from objects and irritates eyes.
 
-
-
 B -- Draconic Hide
 
 Reduce all incoming damage from your draconic element by 2. If not wearing body armor, Armor +3.
@@ -350,13 +365,9 @@ B -- Dragonspeech
 
 You understand and can use Dragonspeech.
 
-
-
 C -- Retractable Claws and Winglets.
 
 Your claws are weapons that you can instantly extend and retract. Your wings are developed enough to fly for 1d4 rounds, though you cannot hover and must keep moving. Your wings get tired easily so you must take a breather before flying again. Your wings require special clothing and armor to accommodate them.
-
-
 
 D -- Dragon Flight
 
@@ -367,8 +378,6 @@ D -- Draconic Roar
 R: hearing distance T: \[Sum\] HD of creatures D: 10 min / permanent
 
 Targets fear you. Save negates. If \[sum\] is at least 4 times the creature's HD, the duration becomes permanent until they see you doing something that dispels the fear.
-
-
 
 #### Goblin
 
