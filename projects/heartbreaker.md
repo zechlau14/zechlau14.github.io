@@ -16,7 +16,7 @@ Every hack of the most popular tabletop role-playing game of the 20th century al
 
 Every player character (PC) has dragon-blood in them. Subconsciously this dragon-blood drives them toward acquiring gold. The Dragon-blood causes PCs to grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
-PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain rooted in whatever species they chose at character creation. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a member of that legal get rich quick if you don't die profession -- archaelogist (read: tomb-raiding **rogue**).
+PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain mortal. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a member of that legal get rich quick if you don't die profession -- archaelogist (read: tomb-raiding **rogue**).
 
 As for the setting, the world is littered with tombs of treasure. The largest religion believes that gold is the foundation for a good afterlife, and one must be buried with it. They also believe in binding servants into service in the afterlife, burying them together with their masters and animating the corpses to protect the tombs. Gold is reserved for the dead, the living use the silver standard.
 
@@ -146,25 +146,21 @@ As a dragon-blood, you hoard treasure just as much as gold. When your party come
 
 ## Level 0 Character Creation
 
-1. Choose your primary species, ie. the species that the inhabitants of the world immediately recognise you as from your looks.
-   * Human
-   * Dog
-   * Halfling
-2. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
-3. Your stats start at 0.
+1. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
+2. Your stats start at 0.
    * Wounds 0
    * Stress 0
    * Skill 0
    * Armor  0
    * Encumberance 0
-4. Roll up or choose your former profession. 
-5. Fill in your inventory with
+3. Roll up or choose your former profession. 
+4. Fill in your inventory with
    * 3 days of rations (1 slot)
    * 3 torches (1 slot)
    * A d6 weapon (1 slot)
    * 2 random items (2 slots)
    * 1 Coin
-6. Give your PC a name.
+5. Give your PC a name.
 
 ## Advancement
 
@@ -239,145 +235,68 @@ Each Species has 4 features. The features are gained sequentially.
 
 Each PC has at least two species they may choose from at level up: their primary species and dragon-blood. If in your game, the PC has been biten by a goblin, you may choose to gain goblin features -- Goblinisation is contagious.
 
-If you wish to play as a further mixed-species character, please discuss with your DM at character generation.
+#### Mortals
 
-Cat? 2nd magical race?
+Individually, mortals are weak. Their own hope of taking on a dragon is huddling together as a pack and striking from the shadows. Each level of Mortal gives you +1 Coorperation and +1 Stealth.
 
-##### Species Template
+A -- Cooperation
 
-each template gives +1HP & +1 Initiative?
+You can spend Cooperation Points to alter an adjacent ally's Roll. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Mastery points after the dice have landed. Mastery points replenish with a full night's rest.
 
-Starting equipment: item and other animal, linked biologically or otherwise iconic
+For each Cooperation Point spent, increase the roll by one.
 
-Starting equipment (addenda): cultural, religious, or problem-approach signifier
+B -- Opportunist
 
-A -- Animal nature. Establishes how being this animal works.
+Whenever you have a stiuational advantage on an attack roll (surprise, high ground, etc.), you deal an additional +1d6 damage.
 
-A -- Animal feature. Feel free to pull from pop culture as well as biology. If the Animal Nature doesn't provide you anything for combat, this feature should be combat-related.
+C -- Selfish
 
-B -- Animal feature (utility or support)
+When it truly comes down to it, all that matters is number one. You can spend Cooperation points to benefit yourself (instead of being forced to help others).
 
-C -- Animal Feature (combat-related)
+D -- Pack Leader
 
-D -- Capstone, related to some greater entity
+Your Cooperation Points give a +2 bonus per point spent, instead of +1. Hirelings who fight under your command, gain +1 Skill and Armor, and they start with Hirelings now have a starting loyalty of +X (16% to flee). 
 
-#### Human
+#### Dragon-Blood
 
-Mankind's great strength are war, cooperation and breeding. Every time you Level up as a human, gain 1 Mastery.
+A Dragon is an unstoppable force of physical and magical might. The embodiment of an element and pure greed. As Dragon-Blood, you inherited some of your ancestor's power, that is slowly manifesting despite your weak mortal flesh. Each level of Dragon Blood gives you +1 HP and +1 Mana Dice (MD). You never roll mishaps for your Dragon Magic.
 
-Mastery:  
+The first time you gain a Dragon-Blood template, choose the element of your ancestral dragon: acid, fire, stone and storm. It will be used by features you gain, and you cannot change it later.
 
-You can spend a Mastery Point to alter an adjacent ally's Roll. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Mastery points after the dice have landed. Mastery points replenish with a full night's rest.
+A -- Dragonspeech
 
-A -- Master of Horses  
-You can treat a trained animal you keep as henchman. If it's a war dog or war horse, they can fight as a Level 1 character. Unless something very, very unfortunate happens, your favorite pet will survive even when knocked out of a fight.
+You understand and can use Dragonspeech in both written word and speech.
 
-B -- Hateful
-Humans use one dice step higher when rolling damage.
+A -- Dragon Breath
 
-C -- Communal  
-Your Mastery points give a +2 bonus per point spent, instead of +1.
+R: [dice]x20' cone T: area D:0
 
-D -- Proud  
-You gain a minor noble title. Name your new noble house, select heraldy and house motto. When you fight under your own banner, gain +1 Attack and Armor. Hirelings now have a starting loyalty of +X (16% to flee). 
+Deal d6 damage to anything in the cone. Roll against their Encumberance for half damage. Storm breath extinguishes all fires smaller than a bonfire. Fire breath sets things on fire. Acid breath bleaches the colour from objects and irritates eyes. Stone breath covers things with a thin layer of sand.
 
-#### Halfling
+B -- Draconic Hide and Retractable Claws
 
-Small, friendly, love comforts, lucky. For each Halfling Level, +1 to Save.
+Your claws are weapons that you can instantly extend to wield and retract to hide. If not wearing body armor, Armor +3.
 
-A -- Gourmand
-You have exceptional taste. With just a tiny taste, you tell what the ingredients are (e.g. if there's poison.) This allows reverse engineering most potions.
-
-A -- Love of Comfort
-Whenever you gain a drunkenness point, you heal 1d4 HP. You can do this a number of times equal to your Halfling Level until you sleep it off.
-
-B -- Jolly
-When you encounter a creature for the first time, you have a 50% chance to change their Disposition to "Curious" or "Friendly". People just seem to like you.
-
-C -- Lucky Dodge
-You critically succeed Armor rolls on 18, 19 or 20.
-
-D -- Damned Little Buggers
-Whenever a larger enemy misses you with a melee attack, you may force them to make another melee attack against a target within range. It's possible to make enemies hit themselves with this ability.
-
-#### Really Good Dog
-
-+1 HP and +1 Initiative for every template.
-
-A -- Dog, +1 Attack
-
-You lack hands and cannot climb ropes. Your fur coat gives you +3 Armor as if it were armor, but takes up no inventory Slots. You only have 2 Quick-draw Slots and 4 Body Slots. Your bite deals 1d6 damage. You can recognise scents. You can "talk" freely with people who have known you a long time (other PCs), but are otherwise limited to doggy communication. You are fluent in Canine.
-
-Your intelligence is doggy intelligence. You'll never be able to do calculus, but you can notice the seams of a trap or spot a counterfeit coin.
-
-A -- Best Friends
-
-Pick another PC to be your best friend. Whenever you are both adjacent to each other, you both get +2 on all d20 rolls that you make at the same time against the same thing.
-
-B -- Lick
-
-If you best friend is Dying, you can lick their face to restore them to 1 HP. If your best friend is ever out of control (paralyzed, mind-controleed, raging, etc.) you can nip them to give them a new save against the effect.
-
-B -- Wag
-
-When you wag your tail, humanoid children of all species must save as if vs. charm person.
-
-C -- Sniff
-
-As detect evil and detect magic except range is 3".
-
-C -- Growl, +1 Attack
-
-A single enemy must Save vs Fear or be unable to attack or approach you for one turn. Doesn't work if you are non-threatening. Growling is a standard action.
-
-D -- Takedown
-
-Whenever you bite an opponent and get a 18 or 19 on the Attack Roll, you get a free Maneuver to Trip your target.
-
-D -- Epic Nose
-
-If you spend a minute sniffing a creature, you can learn a terrific amount of things about it. You learn the answers to 1 question about the creature's habits. (e.g. Does it work for the druid? What dungeon level is it from?). If it is possible to follow a trail by scent, you can follow that trail by scent.
-
-Dog Quest
-
-At some point in your career, you will attract the attention of the Dog Barons, who will give you a quest to prove your doggishness. Example quests include killing a Cat Prince (rakshasa) who is hiding in town somewhere, digging into a forgotten barrow and returning with the femur from the wight king who was buried there, or rescuing some prince who fell down a well in orcish territory. (This will probably involve the other PCs chasing after you shouting "Where are you going, boy? Come Back!")
-
-If you refuse or fail this quest, you will be shunned by the Dog Clans of the cities. If you succeed, you will win allies among the Dog Clans and can call on their help in the cities. Examples of help: gossip, relaying messages, safe houses, and / or the assistance of a pack of mangy street dogs.
-
-#### Dragon
-
-Strong, magical and extremely greedy for gold. Choose an element: acid, air, fire, ice, lightning, stone and water. 
-
-A -- Goldnose
+B -- Goldnose
 You can smell gold, jewels, gem, silver, minerals and crystals of value. If you stand at a crossroads and sniff, the DM will tell you which direction has the most treasure. If you sniff in an empty room, the DM will tell you if you smell the faint odor of potentially buried treasure.
 
-A -- Dragon Breath, +1 MD 
+If you choose not to move toward the treasure, Roll versus your Dragon TN. On a fail, you Stress rises by your \[Dragon Level\].
 
-R: 20' cone T: area D:0
+Your Dragon TN = 10 + Willpower + Dragon Level
 
-Deal \[sum\] damage to anything in the cone. Save for half damage. Wind or Water breath extinguishes all fires smaller than a bonfire. Fire breath sets things on fire. Acid breath bleaches the colour from objects and irritates eyes.
+C -- Draconic Terror
 
-B -- Draconic Hide
+R: hearing distance T: [Sum] HD of creatures D: 10 min / permanent
 
-Reduce all incoming damage from your draconic element by 2. If not wearing body armor, Armor +3.
-
-B -- Dragonspeech
-
-You understand and can use Dragonspeech.
-
-C -- Retractable Claws and Winglets.
-
-Your claws are weapons that you can instantly extend and retract. Your wings are developed enough to fly for 1d4 rounds, though you cannot hover and must keep moving. Your wings get tired easily so you must take a breather before flying again. Your wings require special clothing and armor to accommodate them.
+Targets fear you. A Roll against their Willpower TN + your Dragon Level to negate. If [sum] is at least 4 times the creature's HD, the duration becomes permanent until they see you doing something that dispels the fear.
 
 D -- Dragon Flight
 
-Your wings are fully grown. You have a full flight speed and can hover.
+You gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. It takes a full combat turn to unfurl or retract your wings. 
 
-D -- Draconic Roar
-
-R: hearing distance T: \[Sum\] HD of creatures D: 10 min / permanent
-
-Targets fear you. Save negates. If \[sum\] is at least 4 times the creature's HD, the duration becomes permanent until they see you doing something that dispels the fear.
+You can't manifest your wings while wearing armor unless the armor is 
+made to accommodate them, and clothing not made to accommodate your 
+wings might be destroyed when you manifest them.
 
 #### Goblin
 
@@ -407,88 +326,6 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get max four th
 | 20   | Greasy        | Can no be tied up or grabbled                            |
 
 ## Equipment
-
-### ## Spells
-
-### Keywords
-
-* Splittable: can choose 
-* Sustainable
-
-### Orthodox Magic
-
-#### Spell List
-
-1. Lock
-2. Knock
-3. Feather
-4. Floating Disk
-5. Grease
-6. Magic Missile
-7. Light
-8. Sleep
-9. Mage Armor
-10. Charm Person
-11. Levitate
-12. Invisibility
-13. Web
-14. Fireball
-
-#### Mishaps
-
-1. Gain 1 Trauma
-2. Take 1d6 damage
-3. Random mutation 1d6 rounds, then make a save; permanent if you fail
-4. Lose 1 casting die
-5. Agony 1d6 rounds
-6. Cannot cast spells for 1d6 rounds
-
-#### Dooms
-
-1. Lose the ability to cast spells for 1 day.
-2. Lose the ability to cast spells for 3 day.
-3. Lose the ability to cast spells permanently.
-
-Doom Quests: 
-Option 1, Eat the heart of a high elf. Option 2, Marry a high elf, as the traditional marriage ceremony involves a mingling of souls.
-
-### Necromancy
-
-Restriction: You cannot cast necromancy spells if you recovered HP or helped anyone recover HP in the last 3 rounds.
-
-Cantrip: Speak with Dead
-
-#### Spell List
-
-1. Essential Salts
-2. Explode Corpse
-3. Death Mask
-4. Fear
-5. Rot
-6. Raise Zombie
-7. False Life
-8. Raise Crawling Claw
-9. Death Scythe
-10. Raise Skeleton
-11. Doom Song
-12. Raise Skin Kite
-13. Revenant
-14. Lichdom
-
-#### Mishaps
-
-1. Gain 1 Trauma
-2. Take 1d6 damage
-3. Random mutation 1d6 rounds, then make a save; permanent if you fail
-4. Fear 1d6 rounds against target of spell
-5. 1d6 random nearby corpses raise as zombies and attack you for 1d6 rounds
-6. You die. Make a Save Roll every hour to find your way back from the lands of the dead. The first time you survive this mishap, you gain a contact in the afterlife (e.g. a psychopomp or a death).
-
-#### Doom
-
-1. You die and spend the next 1d6 days in the afterlife. You revive afterwards as long as your body is intact. Your body will rot after 2 days unless it is preserved in some way. (Assume all necromancers know of this incipient Doom and forewarn their companions.)
-2. You become undead, permanently
-3. All corpses in 20 miles rise as skeletons and attempt to kill you. Average 3d20 skeletons. Highest level skeleton is HD1d4+4, accompanied by 1d3+1 lieutenant undead of HD1d4+1. These undead were sent by someone you pissed off (e.g. the Underpope, a Devil, a powerful psychopomp) and will follow you to the ends of the earth. Until you destroy them, they will pursue you, and they will be joined by those that they kill. 
 
 ## Hirelings
 
