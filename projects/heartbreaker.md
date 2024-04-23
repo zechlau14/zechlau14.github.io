@@ -4,9 +4,9 @@ title: Heartbreaker
 category: RPG fantasy action-adventure D&D DnD work-in-progress heartbreaker
 ---
 
-Last updated: April 19th, 2024
+Last updated: April 23rd, 2024
 
-It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Searchers of the Unknown (SOTU), Into the Odd and the Goblin Laws of Gaming (GLOG).
+It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Into the Odd and the Goblin Laws of Gaming (GLOG).
 
 # WIP Title: Goblins and Dragons
 
@@ -16,20 +16,13 @@ Every hack of the most popular tabletop role-playing game of the 20th century al
 
 Every player character (PC) has dragon-blood in them. Subconsciously this dragon-blood drives them toward acquiring gold. The Dragon-blood causes PCs to grow more powerful when they hoard gold. In terms of mechanics, this means "gold for XP". There is no "carousing" requirement, because the treasure must be hoarded. If a PC's hoard decreases below a level's threshold, either by the PC spending it or it being stolen/destroyed, then the PC loses access to that level's abilities until they rebuild their hoard.
 
-PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain mortal. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a member of that legal get rich quick if you don't die profession -- archaelogist (read: tomb-raiding **rogue**).
+PCs may choose to embrace the dragon abilities, becoming more and more dragon-like, or they may choose to remain mortal. Mechanically, this means "Race as class". Beyond their racial abilities, each PC is a member of that legal "get rich quick if you don't die" profession -- archaelogist (read: tomb-raiding **rogue**).
 
-As for the setting, the world is littered with tombs of treasure. The largest religion believes that gold is the foundation for a good afterlife, and one must be buried with it. They also believe in binding servants into service in the afterlife, burying them together with their masters and animating the corpses to protect the tombs. Gold is reserved for the dead, the living use the silver standard.
+As for the setting, the world is littered with tombs of treasure. The largest religion believes that gold is the foundation for a good afterlife, and one must be buried with it. They also believe in binding servants into service in the afterlife, burying them together with their masters and animating the corpses to protect the tombs. Gold is reserved for the dead, the living use the copper standard.
 
-There are also dungeons to crawl because dragons and their descendants instinctively build them to protect their hoards. The DM (Dragon-Mother) is encouraged to sprinkle in as much dragon and undead motifs as possible, and to make any interesting NPC either an undead or a dragon-blood.
+There are also dungeons to crawl because dragons and their descendants instinctively build them to protect their hoards. The DM (Dragon-Mother) is encouraged to sprinkle in as much dragon and undead motifs as possible, including making interesting NPCs into undead or a dragon-blood.
 
 Starting from the mid-levels, PCs are encouraged to embrace domain play, in which they build their own dungeon to protect their hoard.
-
-## Player Agenda
-
-* Play to your character's drives
-* Ask questions
-* Be creative. The best plans guarantee success.
-* Embrace your character's death
 
 ## Core Gameplay Loop
 
@@ -39,7 +32,7 @@ The game is played in turns. Turns usually go like this.
 2. The Players can ask for more details. The DM will answer honestly, but the answer may be that the PCs must investigate to find out.
 3. When the Players' questions are answered, they say what their PCs want to do in response. If there is risk involved in the Player's choice, the DM will inform them of it and ask if the Player still wants to proceed.
 4. If the outcome of the PC's action is interesting and uncertain, a Roll is required to determine the outcome.
-5. When the outcome of their action is certain, the DM declares it to the players.
+5. When the outcome of their action is certain, the DM declares it to the players. Either DM or players may narrate it.
 6. Finally, the DM takes their turn, causing the location and/or the non-player characters (NPCs) to act, restarting the Gameplay loop.
 
 ### the Roll
@@ -54,11 +47,22 @@ The DM then tell you which target number (TN) the roll must meet to succeed. The
 
 If you are acting against another PC, all Players involved roll. Whichever Player has the highest roll among those who succeeded against their respective TN has their way.
 
+### Player Agenda
+
+- Ask questions. Listen to details.
+- Work together. You are a team.
+- Be creative. The best plans guarantee success without relying on the Roll.
+- Play to your character's drives
+  - Play to get gold
+  - Play to survive
+  - Play to \[your own goal\]
+- Embrace your character's death when it comes
+
 ## Elements of a Character
 
 ### Hit Points and Wounds
 
-Hit Points reflects a PC's ability to avoid danger.  Wounds are the amount of damage your body has taken. If you ever reach 10 Wounds, you die.
+Hit Points reflects a PC's ability to avoid danger.  Wounds are the amount of damage your body has taken. If you ever go over 10 Wounds, you die.
 
 Your Wound TN is 10 + Wounds. You may have to Roll against your Wound TN when you do something that challenges your stamina or bodily endurance, like being poisoned.
 
@@ -66,7 +70,11 @@ When your HP is reduced to 0, any excess damage is taken as Wounds. You must the
 
 ### Stress
 
-Stress reflect's the amount of toll your mind has taken from resisting magical or emotional compulsion. If you ever reach 10 Stress, you suffer a nervous breakdown and can no longer stomach this profession -- retire this character.
+Stress reflect's the amount of toll your mind has taken from resisting magical effects or emotional compulsion. If you ever go over 10 Stress, you suffer a nervous breakdown. After the nervous breakdown takes you out of the action for a while, choose from the following two consequences:
+
+1. You can no longer stomach this profession, retire this character and make a new one. OR
+
+2. Your mind is no longer whole -- you are now a goblin. Exchange your highest non-goblin species template for the lowest available goblin template.
 
 Your Stress TN is 10 + Stress. You may have to Roll against your Stress TN when you resist the effects of a spell or face something emotionally distressing.
 
@@ -74,9 +82,9 @@ Your Stress TN is 10 + Stress. You may have to Roll against your Stress TN when 
 
 If you rest for 10 minutes, recover 1d6 HP.
 
-If you rest for 30 minutes and eat a Ration, recover all HP. 
+If you rest for 30 minutes and eat an energy bar, recover all HP. 
 
-Wounds and Stress can only be healed at a safe haven. Each night you are safe and well-fed, remove 1 Wound and 1 Stress. A hired healer will speed up the process.
+Wounds and Stress can only be healed at a safe haven. Each night you are safe and well-fed, remove 1 Wound and 1 Stress. A hired healer will speed up the process. *Note: Undecided if stress will be removed this way.*
 
 ### Skill
 
@@ -86,8 +94,7 @@ Your skill is a bonus that applies to Rolls when your Rogue does something they 
 * Stealth
 * Fleeing
 * Attacks
-* Unarmored Defence
-- Combat Maneuvers 
+* Combat Maneuvers 
 
 ### Inventory
 
@@ -102,7 +109,7 @@ PCs have different types of Inventory Slots.
 
 * 9 Backpack Slots
   These represent items carried in a backpack. Getting these items out requires at least one combat turn.  
-  6 slots fit well in the backpack. But you can overstuff the backpack with an extra three slots -- each of these slots used causes a -1 Move penalty.
+  6 slots fit well in the backpack. But you can overstuff the backpack with an extra three slots -- using each of these slots contributes 1 to your Encumberance.
 
 An Inventory Slot can contain
 
@@ -115,18 +122,27 @@ An Inventory Slot can contain
 
 Your Armor bonus is added to Rolls made to avoid damage from opposing Attacks and combat maneuvers when wearing armor. 
 
+Encumberance is a measure of the objects and conditions, such as fatigue, restricting your mobility. The PC with the highest Encumberance is the slowest moving member of your party. If your Encumberance goes over 10, you are no longer able to move.
+
 Your Encumberance TN = 10 + Encumberance. You may have to Roll against your Encumberance TN when you are making movements in which your gear might weigh you down, such as leaping across a large chasm or sneaking up to a guard.
 
-### Species
+### Alignment and Species
 
-Each species in the setting has a unique set of abilities. When you level up, gain the next feature from one of your species.
+Your Alignment is the measure of how mortal or draconic you currently feel.
 
-Each PC starts with at least two species:
+A Dragon is a solitary apex predator. It takes none but its own kind into opinion in pursuit of its carnal desire: gold. When you feel your characters actions are driven by goldlust above all other concerns, you may increase your Alignment by 1 (to a maximum of 6).
 
-- their primary species, ie. the species that the inhabitants of the world immediately recognise you as from your physical appearance, and
-- dragon-blood, as one of their ancestors was a dragon.
+Mortals live in a society. It is their own hope against the great powers beyond. Whenever you feel your characters actions are self-sacrificial in the aid of others or the greater good, you may decrease your Alignment by 1 (to a minimum of 0).  
 
-With your DM's approval, you may also start with a third species, representing your mixed-lineage.
+Each species in the setting has a unique set of abilities. When you level up, check your alignment: 
+
+* If your alignment is closer to 6, gain the next Dragon feature. 
+
+* If your alignment is closer to 0, gain the next Mortal feature. 
+
+* If your alignment is 3, you may choose your template.
+
+Note: Goblins are Mortal too. They might not be willingly self-sacrificial, but a good goblin knows how to work together, take orders and put their life on the line for the tribe. When your gain Mortal features, you may always choose to the Goblin variant.
 
 ### Your Rogue Talents
 
@@ -144,23 +160,65 @@ Magic is dangerous, even for the most skilled of wizards. If you channel great a
 
 As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
 
-## Level 0 Character Creation
+## Level 1 Character Creation
 
-1. Roll a four-sided dice (d4) for your Maximum Hit Points (Max HP).
-2. Your stats start at 0.
+1. Roll two four-sided dice (2d4) and sum them for your Maximum Hit Points (Max HP).
+2. Your skill is 1. The rest of your stats start at 0.
    * Wounds 0
    * Stress 0
    * Skill 0
-   * Armor  0
+   * Armor 0
    * Encumberance 0
-3. Roll up or choose your former profession. 
-4. Fill in your inventory with
+   * Alignment 0
+3* Your Starting Species is Mortal Level 1. It gives you:
+   1* One Cooperation Point 
+      
+      You can spend Cooperation Points to alter an adjacent ally's Roll. For each Cooperation Point spent, increase the roll by one. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Cooperation points after the dice have landed. Cooperation points replenish with a full night's rest.
+   2* +1 bonus to Stealth Rolls.
+4. Roll up your former profession and note down the corresponding Talent and starting equipment.
+5. Further fill your inventory with
    * 3 days of rations (1 slot)
    * 3 torches (1 slot)
    * A d6 weapon (1 slot)
-   * 2 random items (2 slots)
    * 1 Coin
-5. Give your PC a name.
+6. Give your PC a name.
+
+### Former Professions
+
+| No. | Former Profession     | Talent                 | Starting Equipment                                              |
+| --- | --------------------- | ---------------------- | --------------------------------------------------------------- |
+| 1   | Valet / Lady's Maid   | Bag of Tricks          |                                                                 |
+| 2   | Gambler               | Extra Lucky            | Gambling dice and cards;                                        |
+| 3   | Roadie                | Prepwork               | Hammer and Stakes; 10 foot pole                                 |
+| 4   | Thug                  | Thick as Thieves       | Thick Truncheon                                                 |
+| 5   | Mountaineer           | Second Story Work      | Grappling hook and rope                                         |
+| 6   | Stage Magician        | Tricky Fingers         | Lockpick and stage magician's hat (rabbit not included)         |
+| 7   | False Prophet         | Con Artist             | 3 Flasks of Snake Oil                                           |
+| 8   | Sailor                | Cunning Linguist       | Rope and a waterproof bag                                       |
+| 9   | Tailor                | Fancy                  | Sewing Kit and a mirror                                         |
+| 10  | Courtesan             | Seductive Wiles        | A musical instrument of your choice and 3 flasks of perfume     |
+| 11  | Merchant's apprentice | Appraisal              | A merchant's scale and a set of corresponding weights (1 slots) |
+| 12  | Watchman              | Danger Sense           | Warning Horn, Spy glass                                         |
+| 13  | Academic              | Historian              | Quill and ink, thick reference book                             |
+| 14  | Actor                 | The World's Your Stage | Makeup kit                                                      |
+| 15  | Courier               | Connected              |                                                                 |
+| 16  | Circus Act            | Escape Artist          | Manacles. A set of 3 padlocks and their key.                    |
+| 17  | Courtier              | Social Magnet          |                                                                 |
+| 18  | Party Crasher         | Act like you belong    | 3 sets of clothes for different types of parties.               |
+| 19  | Juggler               | Fast Hands             | A set of 3 juggling daggers,                                    |
+| 20  | Pro Dodgeball player  | Dodge                  |                                                                 |
+
+## Coin and Equipment
+
+## Hirelings
+
+Cost to hire
+
+Creating a hireling: either as lvl 0 or lvl 1.
+
+Loyalty Roll
+
+Hireling Template as group? Group of goblins filed off?
 
 ## Advancement
 
@@ -177,63 +235,14 @@ When you level up, you gain the following:
 
 * Increase your HP by d4
 * Increase your Skill bonus by 1
-* Gain one new Species feature, choosing from the next available features of your species.
+* Check your Alignment and gain the next appropriate species template.
+* Advance a Rogue Talent you have or Gain a new one at Rank one
 
-After Level 4, every time you increase your hoard by 1000gp, you may swap out one of your species feature for any other available to you.
-
-### Spellcasting
-
-Spells are imprisoned spirits that are summoned forth for a specific purpose with mana, which are represented by d6 Mana Dice (MD). The more mana invested, the more powerful the spell's manifestation. 
-
-Anyone can cast spells if they have (1) a Spell (usually in the form of a scroll or wand), and (2) Mana Dice to spare. Magical Species, like Dragons, gain innate Mana Dice as they level up. Everyone else has to find magical items that give them Mana Dice.
-
-To cast a spell, PCs must hold the spell's container in hand, then select its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to its mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until recharged.
-
-The effect of the spell depends on its description. [dice] refers to the number of rolled MD. [sum] refers to the sum of the rolled MD. Spells do not affect any target unless its [sum] is at least equal to the target's level.
-
-If doubles are rolled, the caster suffers a Mishap -- roll on the Mishap table. If triples are rolled, the caster suffers the lowest level Doom on the list that they have yet to suffer. 
-
-**Mishaps**
-
-1. Take 1d6 damage
-
-2. Cannot cast the spell again until the next day
-
-3. Invert spell effect on target
-
-4. Randomize spell targets
-
-5. Magic dice return on 1-2 until end of day
-
-6. Inconvenience related to the spell's effect for \[sum\] days.
-
-When you discover a new spell, you must have the spell identified to understand its full effects. However, you may still cast an unidentified spell with a successful Roll against Stress. If you fail the Roll, you suffer a Mishap instead.
-
-#### Magical Items
-
-Spell spirits are contained in
-
-- Magical wood, like a staff or wand,
-
-- Magical paper, like a scroll or spellbook, or
-
-- A wizard's brain.
-
-Wands and Starves contain a single bonded spell and occupy one inventory slot. They may always be used as long as their wielder has MD to invest. 
-
-A scroll contains a single spell. Three scrolls can be bundled into one inventory slot. Scrolls are vulnerable to damage -- whenever you take fire or acid damage, each scroll has a 50% chance of being destroyed. A spellbook occupies a single inventory slot and holds 10 spells. Spellbooks are protected by waterproof bags and metal covers.
-
-If you cast a Spell from magical paper, the paper is destroyed. However, this destruction invests one free MD into the Spell. This free MD can contribute to Mishaps, and is always spent -- it cannot be absorbed into the caster's Mana pool.
-
-When a wizard dies, their spells are trapped in their brain. Wizarding laboratories can perform rituals to extract these spells. A wizard's brain occupies a single inventory slot, and like a scroll is vulnerable to fire and acid.
-
-Magical clothing, like magical robes and pointy hats, are Mana containers. Magical clothing provide one MD per Body Inventory slot they occupy. These MD are replenish every morning, like innate MD.
+After Level 4, every time you increase your hoard by 1000gp, you may check your Alignment again and make an appropriate species template swap.
 
 ### Species
 
-Each Species has 4 features. The features are gained sequentially. 
-
-Each PC has at least two species they may choose from at level up: their primary species and dragon-blood. If in your game, the PC has been biten by a goblin, you may choose to gain goblin features -- Goblinisation is contagious.
+Each Species has 4 features, which are gained sequentially. 
 
 #### Mortals
 
@@ -241,9 +250,7 @@ Individually, mortals are weak. Their own hope of taking on a dragon is huddling
 
 A -- Cooperation
 
-You can spend Cooperation Points to alter an adjacent ally's Roll. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Mastery points after the dice have landed. Mastery points replenish with a full night's rest.
-
-For each Cooperation Point spent, increase the roll by one.
+You can spend Cooperation Points to alter an adjacent ally's Roll. For each Cooperation Point spent, increase the roll by one. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Cooperation points after the dice have landed. Cooperation points replenish with a full night's rest.
 
 B -- Opportunist
 
@@ -325,46 +332,6 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get max four th
 | 19   | Ooze Friend   | Little squishy friend. No acid or guts or ooze hurt you. |
 | 20   | Greasy        | Can no be tied up or grabbled                            |
 
-## Equipment
-
-## Hirelings
-
-Cost to hire
-
-Creating a hireling.
-
-Loyalty
-
-## Professions
-
-### Thief
-
-1. Bully
-
-2. Circus
-
-3. Cook
-
-4. Cultist
-
-5. Forger
-
-6. Gambler
-
-7. Jailor
-
-8. Lookout
-
-9. Merchant
-
-10. Musician
-
-11. Smuggler
-
-12. Spy
-
-13. 
-
 ## Skills
 
 Level up on 10, 20, 30?
@@ -436,15 +403,62 @@ Level up on 10, 20, 30?
 18. Act like you belong
     1. You can avoid notice by slipping into a group of 4 or more, provided you are similar in appearance to the group. You are treated as if part of the group, and given access to any resources or restricted areas that they would normally have access to, as long as you accompany them.
     2. You can avoid notice by accompanying even a single individual, or can slip into a group even without the appropriate appearance. After you leave, you are difficult to describe, and your features can't be recollected if you choose.
-19. Quick Draw
+19. Fast Hands
     1. Gain additional Quick-Draw Slots
+    2. When you roll a Natural 20 on an Attack Roll, you can deal double damage AND attempt a free combat maneuver. When you roll a 19 on an Attack Roll, you deal regular damage and attempt a free combat maneuver.
+    3. Your tricky ability expands to 18 and 19. Whenever you attempt a free combat maneuver after rolling 18, 19 or 20, you get advantage on your attempt.
 20. Dodge
     1. Once per day, you can declare that something doesn't affect you. Works on anything that you could physically dodge.
     2. Twice per day.
-21. Tricky
-    1. When you roll a Natural 20 on an Attack Roll, you can deal double damage AND attempt a free combat maneuver. When you roll a 19 on an Attack Roll, you deal regular damage and attempt a free combat maneuver.
-    2. Your tricky ability expands to 18 and 19. Whenever you attempt a free combat maneuver after rolling 18, 19 or 20, you get advantage on your attempt.
-22. Backstab: When you have a situational bonus on an Attack Roll (surprise, elevation, etc.), you deal an additional +1d6 damage.
+    3. Redirect a missile?
+
+## Spellcasting
+
+Spells are imprisoned spirits that are summoned forth for a specific purpose with mana, which are represented by d6 Mana Dice (MD). The more mana invested, the more powerful the spell's manifestation.
+
+Anyone can cast spells if they have (1) a Spell (usually in the form of a scroll or wand), and (2) Mana Dice to spare. Magical Species, like Dragons, gain innate Mana Dice as they level up. Everyone else has to find magical items that give them Mana Dice.
+
+To cast a spell, PCs must hold the spell's container in hand, then select its target and how many MD you want to invest. Then roll the invested MD. Dice showing 1, 2 or 3 are returned to its mana pool, and can be used to cast spells later. Dice that show 4, 5 or 6 are expended until recharged.
+
+The effect of the spell depends on its description. [dice] refers to the number of rolled MD. [sum] refers to the sum of the rolled MD. Spells do not affect any target unless its [sum] is at least equal to the target's level.
+
+If doubles are rolled, the caster suffers a Mishap -- roll on the Mishap table. If triples are rolled, the caster suffers the lowest level Doom on the list that they have yet to suffer.
+
+**Mishaps**
+
+1. Take 1d6 damage
+
+2. Cannot cast the spell again until the next day
+
+3. Invert spell effect on target
+
+4. Randomize spell targets
+
+5. Magic dice return on 1-2 until end of day
+
+6. Inconvenience related to the spell's effect for [sum] days.
+
+When you discover a new spell, you must have the spell identified to understand its full effects. However, you may still cast an unidentified spell with a successful Roll against Stress. If you fail the Roll, you suffer a Mishap instead.
+
+#### Magical Items
+
+Spell spirits are contained in
+
+- Magical wood, like a staff or wand,
+
+- Magical paper, like a scroll or spellbook, or
+
+- A wizard's brain.
+
+Wands and Starves contain a single bonded spell and occupy one inventory slot. They may always be used as long as their wielder has MD to invest.
+
+A scroll contains a single spell. Three scrolls can be bundled into one inventory slot. Scrolls are vulnerable to damage -- whenever you take fire or acid damage, each scroll has a 50% chance of being destroyed. A spellbook occupies a single inventory slot and holds 10 spells. Spellbooks are protected by waterproof bags and metal covers.
+
+If you cast a Spell from magical paper, the paper is destroyed. However, this destruction invests one free MD into the Spell. This free MD can contribute to Mishaps, and is always spent -- it cannot be absorbed into the caster's Mana pool.
+
+When a wizard dies, their spells are trapped in their brain. Wizarding laboratories can perform rituals to extract these spells. A wizard's brain occupies a single inventory slot, and like a scroll is vulnerable to fire and acid.
+
+Magical clothing, like magical robes and pointy hats, are Mana containers. Magical clothing provide one MD per Body Inventory slot they occupy. These MD are replenish every morning, like innate MD.
 
 ## Subsystems
 
@@ -600,8 +614,9 @@ Fort, Reflex, Will
 
 CC BY-NC-SA
 Arnold Kemp Goblin Punch - Lair of the Lamb, GLOG:Wizards
-Skerples - Many Rats on a Stick (Goblins)
-Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans, Halflings)
+Skerples - Many Rats on a Stick (Goblan)
+Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans)
+
+5e SRD - (Dragon template)
 Crated Land -  Thieves' Guilds Feb 1, 2020
 Make a New Cult Every Day - GLOG: A Bunch of Rogue Classes Feb 19, 2020
-Searchers of the Unknown
