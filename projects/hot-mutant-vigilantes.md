@@ -17,6 +17,7 @@ This work is directly inspired by the X-men.
 ## Character Creation
 
 Why are you so Hot? (d6)
+
 1. Literal abs of steel
 2. Majestic mutton chops beard
 3. The form-fitting spandex shows off your butt
@@ -25,6 +26,7 @@ Why are you so Hot? (d6)
 6. Dangerous rebel with a cool jacket
 
 What is your Mutation? (d20)
+
 1. Concussive eye beams
 2. Walk through walls
 3. Short-range teleportation
@@ -47,6 +49,7 @@ What is your Mutation? (d20)
 20. Speedster
 
 What is your vigilante specialty? (d6)
+
 1. Pilot / Driving
 2. Tracking / Scouting
 3. Negotiation / Deception
@@ -57,9 +60,9 @@ What is your vigilante specialty? (d6)
 ## Rolling Dice
 
 You have three stats. Assign 1, 2 and 3 to each of your stats.  
-**Hot!**   
-**Mutant!**  
-**Vigilante!**  
+**HOT!** Charm baddies with your skin-tight spandex-clad hot body.  
+**MUTANT!** Unleash your mutant superpower.  
+**VIGILANTE!** Fight crime without the approval of the law.  
 
 When you act to gain an advantage or solve a difficult problem, roll a number of six-sided dice equal to the most relevant stat. Spend determination (see below) on a 1-for-1 basis to add additional dice to the pool.
 
@@ -83,6 +86,7 @@ The difficulty of a task is related to the **impact of success**, not the comple
 If an NPC isn't kissable, think "Could I make them kissable?"
 
 What's going wrong? (Roll twice; one disaster hides another much more dangerous disaster)
+
 1. A fellow student's mutation is out of control
 2. Mutant terrorist are trying to assassinate a mutant-hating senator
 3. The principal of the school has been kidnapped
@@ -91,6 +95,7 @@ What's going wrong? (Roll twice; one disaster hides another much more dangerous 
 6. The location of the government's secret mutant facility is discovered
 
 What's this place like?
+
 1. stuffy, prim and proper, vaguely steampunk
 2. militaristic and ordered, lots of parades
 3. built around the huge temple of the god of law
@@ -99,6 +104,7 @@ What's this place like?
 6. laden with boutiques, haberdashers and pattisseries
 
 Who's going to stand in our way? (Roll twice)
+
 1. A sexy Alien Monarch and their army
 2. The government's inexplicably sexy mutant-hunting robots
 3. The principal's sexy Mutant rival
