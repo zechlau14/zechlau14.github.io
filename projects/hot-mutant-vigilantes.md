@@ -4,15 +4,13 @@ title: Hot Mutant Vigilantes
 categories: one-page superheroes game-jam wip hack
 ---
 
-a hack of [Grant Howitt's Sexy Battle Wizards](https://gshowitt.itch.io/sexy-battle-wizards). Created for [the Hot Mutant Summer Jam](https://itch.io/jam/hot-mutant-summer-jam).
-
 ## Premise
 
 YOU ARE A HOT MUTANT VIGILANTE. 
 
 You are a student at a school for gifted youngsters where the extra-curricular activities involve dressing up in spandex and defending the world. The school has zero legal authority to do this, hence the label 'vigilante'. The government and the humans hate you.
 
-This work is directly inspired by the X-men.
+This work is a hack of [Grant Howitt's Sexy Battle Wizards](https://gshowitt.itch.io/sexy-battle-wizards), created for [the Hot Mutant Summer Jam](https://itch.io/jam/hot-mutant-summer-jam) and directly inspired by the X-men.
 
 ## Character Creation
 
@@ -24,6 +22,15 @@ Why are you so Hot? (d6)
 4. Impeccable bone structure
 5. Daddy / Hot mama 
 6. Dangerous rebel with a cool jacket
+
+What is your vigilante specialty? (d6)
+
+1. Pilot / Driving
+2. Tracking / Scouting
+3. Negotiation / Deception
+4. Hacking
+5. Science / Gadgetry
+6. Martial Arts
 
 What is your Mutation? (d20)
 
@@ -48,27 +55,22 @@ What is your Mutation? (d20)
 19. Telekinesis
 20. Speedster
 
-What is your vigilante specialty? (d6)
-
-1. Pilot / Driving
-2. Tracking / Scouting
-3. Negotiation / Deception
-4. Hacking
-5. Science / Gadgetry
-6. Martial Arts
-
-## Rolling Dice
-
 You have three stats. Assign 1, 2 and 3 to each of your stats.  
 **HOT!** Charm baddies with your skin-tight spandex-clad hot body.  
 **MUTANT!** Unleash your mutant superpower.  
-**VIGILANTE!** Fight crime without the approval of the law.  
+**VIGILANTE!** Fight crime without the approval of the law.
+
+## Rolling Dice
 
 When you act to gain an advantage or solve a difficult problem, roll a number of six-sided dice equal to the most relevant stat. Spend determination (see below) on a 1-for-1 basis to add additional dice to the pool.
 
-If your highest dice beats the difficulty, you succeed.  
-If it's equal, you succeed, mark 1 stress and the GM tells you something bad that happens.
-If it's lower, you fail, mark 1 stress and 1 determination and the GM tells you something bad that happens.
+If your highest dice
+
+* beats the dificult, you succeed.
+
+* is equal to the difficulty, you succeed, gain 1 stress and the GM tells you something bad that happens.
+
+* is lower than the difficulty, you fail, gain 1 stress and 1 determination and the GM tells you something bad that happens.
 
 Stress represents your overall condition, including physical injury, fatigue and emotional conditions like anger or embarrassment. 
 
@@ -79,8 +81,8 @@ When you fail, if your total final stress is higher than the highest dice rolled
 Give the players an inkling of what the first, obvious disaster is, and let them go at it.
 
 The difficulty of a task is related to the **impact of success**, not the complexity of the task.  
-4: standard hot mutant vigilante stuff with standard results  
-5: Audacious or risky stuff that has a great impact  
+4: standard stuff with standard results  
+5: Audacious or risky stuff with a great impact  
 6: Clutch, against-the-odds stuff that can really turn the tide of the situation  
 
 If an NPC isn't kissable, think "Could I make them kissable?"
@@ -89,19 +91,19 @@ What's going wrong? (Roll twice; one disaster hides another much more dangerous 
 
 1. A fellow student's mutation is out of control
 2. Mutant terrorist are trying to assassinate a mutant-hating senator
-3. The principal of the school has been kidnapped
+3. The principal of the school is missing
 4. An underground commune of mutants is under attack
 5. A mutant-loving/hating cult has formed
 6. The location of the government's secret mutant facility is discovered
 
 What's this place like?
 
-1. stuffy, prim and proper, vaguely steampunk
-2. militaristic and ordered, lots of parades
-3. built around the huge temple of the god of law
-4. outdated, archaic and proud of it
-5. just a big palace, full of foppish nobles
-6. laden with boutiques, haberdashers and pattisseries
+1. a sterile environment of mutant science
+2. a military town attached to the largest anti-mutant base
+3. on a living mutant island
+4. displaced from the time stream
+5. an anti-mutant march at the Capital
+6. a sleepaway summer camp in a creepy forest
 
 Who's going to stand in our way? (Roll twice)
 
