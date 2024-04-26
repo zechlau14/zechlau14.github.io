@@ -8,7 +8,7 @@ Last updated: April 23rd, 2024
 
 It seems that everyone in this corner of the internet has published their own house rules for the dungeon-based fantasy RPG. Here I shall do the same. These rules take inspiration from Into the Odd and the Goblin Laws of Gaming (GLOG).
 
-# WIP Title: Goblins and Dragons
+# WIP Title: Archaelogists and Dragons
 
 ## Why this Heartbreaker?
 
@@ -47,7 +47,7 @@ The DM then tell you which target number (TN) the roll must meet to succeed. The
 
 If you are acting against another PC, all Players involved roll. Whichever Player has the highest roll among those who succeeded against their respective TN has their way.
 
-### Player Agenda
+### Player Tips
 
 - Ask questions. Listen to details.
 - Work together. You are a team.
@@ -113,10 +113,10 @@ PCs have different types of Inventory Slots.
 
 An Inventory Slot can contain
 
-* 3 Light objects, such as rations, torches, flasks, daggers.
+* 2 Light objects, such as rations, torches, flasks, daggers.
 * 1 Medium object, such as a sword, a quiver of 20 arrows / bolts, a lantern.
 * 0.5 Heavy (2-handed) Weapon, e.g. greatsword
-* 100 Coins
+* 1 Coin (see below)
 
 ### Armor and Encumberance
 
@@ -148,40 +148,28 @@ Note: Goblins are Mortal too. They might not be willingly self-sacrificial, but 
 
 Each Rogue has their talents. When you level up, you gain another talent.
 
-### Arcane Dooms
-
-Magic is dangerous, even for the most skilled of wizards. If you channel great arcane power and it goes extremely wrong, mark the first unmarked Doom on the list.
-
-1. Drop to 0 HP, and Roll vs. your Wound TN to prevent passing out.
-2. Each subsequent time you cast, Roll vs. your Willpower TN. If you fail, the spell fizzles out.
-3. Lose the ability to cast spells permanently.
-
 ### Your Hoard
 
 As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
 
 ## Level 1 Character Creation
 
-1. Roll two four-sided dice (2d4) and sum them for your Maximum Hit Points (Max HP).
-2. Your skill is 1. The rest of your stats start at 0.
-   * Wounds 0
-   * Stress 0
-   * Skill 0
-   * Armor 0
-   * Encumberance 0
-   * Alignment 0
-3* Your Starting Species is Mortal Level 1. It gives you:
-   1* One Cooperation Point 
-      
-      You can spend Cooperation Points to alter an adjacent ally's Roll. For each Cooperation Point spent, increase the roll by one. You can influence any in-game d20 or damage roll. You cannot influence magic dice, or natural 1s or 20s on a d20. You cannot alter your own roll. You can spend Cooperation points after the dice have landed. Cooperation points replenish with a full night's rest.
-   2* +1 bonus to Stealth Rolls.
-4. Roll up your former profession and note down the corresponding Talent and starting equipment.
-5. Further fill your inventory with
-   * 3 days of rations (1 slot)
-   * 3 torches (1 slot)
+1. You start as a Level 1 Mortal. Mortals start with one Cooperation point, and get a +1 bonus on Rolls for Stealth.
+   
+   1. Cooperation Points can be spent to alter an adjacent ally's Roll or damage roll. For each Cooperation Point spent, increase the roll by one. You cannot influence natural 1s or 20s on a d20. You can spend Cooperation points after the dice have landed. Cooperation points replenish with a full night's rest.
+
+2. Your skill is 1. The rest of your stats (Wounds, Stress, Armor, Encumberance, Alignment) start at 0.
+
+3. Roll a d20 for your former profession and note down its corresponding Talent and starting equipment.
+
+4. Add the following to your inventory
+   
+   * 2 days of rations (1 slot)
+   * 2 torches (1 slot)
    * A d6 weapon (1 slot)
    * 1 Coin
-6. Give your PC a name.
+
+5. Finally, give your PC a name.
 
 ### Former Professions
 
@@ -210,15 +198,27 @@ As a dragon-blood, you hoard treasure just as much as gold. When your party come
 
 ## Coin and Equipment
 
+A Coin is a large purse of copper coins that fits in one inventory slot, and is the equivalent of a labourer's wages for a week. In general,
+
+* One Coin pays for one inventory slot of adventuring equipment, such as a tool, a weapon or one piece of armor.
+
+* A Half-Coin pays for a light weapon, a day's lodging and food, a day's rations, a common item.
+
+* Two Coins pays for a heavy weapon or a specialised tool, such as Holy Water, lockpicks, a musical instrument, perfume, etc. 
+
 ## Hirelings
 
-Cost to hire
+The daily wages of a hired adventurer is equal to their skill level. (e.g. A Level Two hireling costs Two Coin per day.) Adventurers start with Stress = 4 - their Level.
 
-Creating a hireling: either as lvl 0 or lvl 1.
+Skill-less peasants may be hired for mundane labor at a rate of One Coin per week in a  safe place, or a Half-Coin per day in dangerous places like a dungeon. Skill-less peasants start in dangerous places with Stress 6.
 
-Loyalty Roll
+**Many GOBLINS** template for hirelings.
 
-Hireling Template as group? Group of goblins filed off?
+In combat, hired adventurers have to Roll against Stress just like NPC monsters. On a failed Roll, the hirelings will flee for their lives. Roll against Stress when
+
+* a PC goes down
+
+* half of the hirelings numbers is defeated
 
 ## Advancement
 
@@ -464,9 +464,15 @@ Magical clothing, like magical robes and pointy hats, are Mana containers. Magic
 
 ### Exploration
 
-#### Random Encounter Roll
+#### Holy Light
 
-The noisiest PC, DM's choice, makes a Luck Roll (usually vs. TN 12). On a failure, something or someone comes your way.
+When exploring a tomb or dungeon, the darkness inside is the darkness of the grave. Without holy light, the PCs will attract ghosts, undead or other creatures of the night.
+
+When PCs pray on a holy talisman, set up a d20 as the countdown clock for the duration of the light. Every dungeon turn, roll a d6 and subtract it from the clock. If the d6 lands on 6, roll again and subtract again.
+
+When the clock lands on 3, PCs get an omen of a wandering encounter. On 0, the clock ticks back up to 3, also resulting in an omen. If the clock is negative, a wandering encounter occurs that turn, unless the PCs can set themselves up in a sheltered area.
+
+Holy power cannot be reset. It must tick all the way down, then PCs can pray again to restart the clock.
 
 #### Reaction Roll
 
@@ -593,6 +599,8 @@ If your module does not give a target number for a save or check, use the follow
 * Damage
 * Move
 * Save (incl. Morale)
+
+### Rivals
 
 ### Conversions
 
