@@ -26,6 +26,8 @@ Starting from the mid-levels, PCs are encouraged to embrace domain play, in whic
 
 ## Core Gameplay Loop
 
+One Player is the Dragon-Mother (DM). The other players control Archaelogists.
+
 The game is played in turns. Turns usually go like this.
 
 1. The Dragon-Mother (DM) presents the location and scenario that the Players' characters (PCs) find themselves in due to their pursuit of their drives, usually gold.
@@ -151,6 +153,8 @@ Each Rogue has their talents. When you level up, you gain another talent.
 ### Your Hoard
 
 As a dragon-blood, you hoard treasure just as much as gold. When your party come away with a valuable treasure, decide which of you will keep it. (You may need to negotiate and trade gold and treasure around to ensure fairness.) Whoever keeps the treasure writes it down on their sheet in this section, and they gain the its value in XP.
+
+### Traps mastered
 
 ## Level 1 Character Creation
 
@@ -474,6 +478,8 @@ When the clock lands on 3, PCs get an omen of a wandering encounter. On 0, the c
 
 Holy power cannot be reset. It must tick all the way down, then PCs can pray again to restart the clock.
 
+A torch provides bright light in a 30 feet radius, and dim light for another 30 feet. When acting without light, all Rolls that rely on sight are made with disadvantage.
+
 #### Reaction Roll
 
 When you encounter strangers, the most visible party member makes a Luck Roll to determine their reaction to the party.
@@ -488,9 +494,7 @@ When you encounter strangers, the most visible party member makes a Luck Roll to
 
 #### Food and Water
 
-After 1 day without water, a character becomes dehydrated, get disadvantage on all Rolls. After 3 days without water, die.
-
-Each day without food causes max HP to reduce by 1.
+When your PC is deprived of food and water, they cannot recover HP. For each day without food or water, Encumberance +1.
 
 #### Dungeons
 
@@ -502,21 +506,11 @@ A Dungeon Turn takes about 10 minutes. In that time, PCs may
 * Force a door open, including by lockpicking
 * Take a break, to heal 1d6 HP.
 
-A torch provides bright light in a 30 feet radius, and dim light for another 30 feet. It lasts for an hour, ie. 6 dungeon turns. When acting without light, all Rolls that rely on sight are made with disadvantage.
-
-Every 30 minutes, ie. after 3 dungeon turns, or whenever a loud noice occurs, make a Random Encounter Roll. 
-
 #### Wilderness
 
 PCs can travel at 3 miles per hour if the terrain and weather is good. At half that speed if the terrain is difficult.
 
-Make a Random Encounter roll every 3 hours or whenever the PCs do something that's likely to attract attention.
-
-PCs can safely travel for 8 hours per day. For each further hour of travel, PCs take a Wound and then make a Roll against their Wound TN. On a fail, that PC is no longer able to keep up and must rest.
-
-### Social
-
-Reaction
+PCs can safely travel for 8 hours per day. For each further hour of travel, PCs +1 Encumberance and then must make a Roll against their Encumberance TN. On a fail, that PC is no longer able to keep up and must rest.
 
 ### Combat
 
@@ -568,6 +562,8 @@ When combat turns against the NPCs, such as
 3. if some particularly frightening or spectacular effect occurs,
    the most terrifying PC in that combat, DM's choice, makes a Luck roll versus the enemies Save TN. If the roll succeeds, the NPCs try to run away or surrender
 
+## Dungeon Building
+
 ## Running the Game
 
 ### DM Principles
@@ -582,14 +578,6 @@ If success or failure is inevitable, don't call for a Roll. Only call for a Roll
 Don't gatekeep information behind a Roll. If there's a chance the Player sees it, tell them.
 
 Failed Rolls have consequences. Sometimes, the most obvious one is a time penalty. Wasted time means more chances for bad things to happen to the PCs.
-
-#### Usual Target Numbers (TN)
-
-If your module does not give a target number for a save or check, use the following:
-
-* Move: 11
-* Moving Stealthily: 15
-* Saves: 10+HD or 15
 
 #### Monsters
 
@@ -606,9 +594,7 @@ If your module does not give a target number for a save or check, use the follow
 
 #### Saves
 
-5 saves
-
-Fort, Reflex, Will
+Fort, Reflex, Will; dex, con, wis
 
 #### Monsters
 
@@ -628,3 +614,5 @@ Rise Up Comus - Classic Fantasy Races for the GLoG May 21, 2020 (Humans)
 5e SRD - (Dragon template)
 Crated Land -  Thieves' Guilds Feb 1, 2020
 Make a New Cult Every Day - GLOG: A Bunch of Rogue Classes Feb 19, 2020
+
+Knave
