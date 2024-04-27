@@ -33,7 +33,8 @@ Roll the dice. The die with the highest result tells us how well you performed t
 6    You did it supernaturally well.
 If the highest die is a dark die, it counts as an Attunement Roll, so the character's Attunement increases if the result is greater than the character's current Attunement.
 
-If someone at the table feels that it would be interesting if the action fails, they can roll a die against them. If this opposition die is greater than the acting character's highest die, then the action fails.
+If someone at the table feels that it would be interesting if the action fails, they can roll a die against them. If this opposition die is greater than the acting character's highest die, then the action fails.  
+Combat with fae monsters is an immediate failure. Run, hide or look for a creative solution instead.
 
 If a player is unsatisfied with their result and their highest die was not a dark die, then they may add a dark die to their dice pool and reroll it.
 
@@ -42,6 +43,19 @@ When a character's Attunement reaches five, they unlock the Reduction Roll. When
 
 ## GM Section
 
+Tables for
+* Moments
+* Locations in the Faewild
+* Fae NPCs
+* Random Mutations
+
+Narrative Structure
+1. Layer 1 - sneak out of the party they find themselves in and find the path out of the faewild.
+2. Layer 2 - environment. show evidence of being on the right path.
+3. Layer 3 - set back / sow suspicion. play on player's personal drives.
+4. Layer 4 - monsters. the characters can see the goal, it's just out of reach.
+5. Layer 5 - reach the gateway. Mirror shows them their mutations -- will you be able to accept yourself and go home.
+6. Epilogue
 
 ## Credits
 Based on Graham W's Cthulhu Dark.
