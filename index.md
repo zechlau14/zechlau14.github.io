@@ -22,6 +22,7 @@ You are fedora-wearing special agents of the NNSA (Never Named Spy Agency) with 
 This work is a dice-less, GM-less, story-game directly inspired by the cartoon Phineas and Ferb.
 
 ## Latest Completed Project
-<iframe frameborder="0" src="https://itch.io/embed/2636261" width="552" height="167"><a href="https://mrzech.itch.io/hot-dog-borg">Hot Dog Borg by Mr Zech</a></iframe>
 
-Hot Dog Borg is a silly hack of Mork Borg, in which you play as a Hot Dog Karate-ka, and my submission for the [Noun Borg Get Rich Quick Jam](https://itch.io/jam/noun-borg). 
+<iframe frameborder="0" src="https://itch.io/embed/2676441" width="552" height="167"><a href="https://mrzech.itch.io/hot-mutant-vigilantes">Hot Mutant Vigilantes by Mr Zech</a></iframe>
+
+You are a [HOT MUTANT VIGILANTE](/projects/hot-mutant-vigilantes). More specifically, you are a student at a school for gifted youngsters where the extra-curricular activities involve dressing up in spandex and defending the world. The school has zero legal authority to do this, hence the label ‘vigilante’. The government and the humans hate you. This work is a hack of [Grant Howitt’s Sexy Battle Wizards](https://gshowitt.itch.io/sexy-battle-wizards) and is directly inspired by the X-men.
