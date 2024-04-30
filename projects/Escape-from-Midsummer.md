@@ -30,11 +30,35 @@ Read out the descriptions of each. Each Player plays as one aspect.
 
 If your table is extremely uncomfortable playing without a GM, you may assign one. That player does not control an Escapee, but controls all three Aspects of the Faewild.
 
+## Game Structure
+
+Escape from Midsummer is a game played in 5 Acts.
+
+### Act 1
+
+
+
+Tables for
+
+- Moments
+- Locations in the Faewild
+- Fae NPCs
+- Random Mutations
+
+Narrative Structure
+
+1. Layer 2 - environment. show evidence of being on the right path.
+2. Layer 3 - set back / sow suspicion. play on player's personal drives.
+3. Layer 4 - monsters. the characters can see the goal, it's just out of reach.
+4. Layer 5 - reach the gateway. Mirror shows them their mutations -- will you be able to accept yourself and go home.
+5. Epilogue
+
 ## Character Creation
 
 1. What is your character's occupation?
 2. Why does the faewild love you? What about you is attractive to the fae?
 3. What drives you to return home?
+4. What is your character's name?
 
 ## Rolling the Dice
 
@@ -89,27 +113,11 @@ When your Attunement reaches 6, you are permanently claimed by the Faewild. This
 
 With your character lost, continue play as your Faewild Aspect, with a special focus on the offering of Fae Bargains.
 
-## GM Section
-
-Tables for
-
-* Moments
-* Locations in the Faewild
-* Fae NPCs
-* Random Mutations
-
-Narrative Structure
-
-1. Layer 1 - sneak out of the party they find themselves in and find the path out of the faewild.
-2. Layer 2 - environment. show evidence of being on the right path.
-3. Layer 3 - set back / sow suspicion. play on player's personal drives.
-4. Layer 4 - monsters. the characters can see the goal, it's just out of reach.
-5. Layer 5 - reach the gateway. Mirror shows them their mutations -- will you be able to accept yourself and go home.
-6. Epilogue
-
 ## To Do
 
-Player's sheet: 1/2 Aspect; 1/2 Character + basic moves.
+Player's sheet: 1/2 Aspect; 1/2 Party information
+
+Play reference: 1/2 Act structure; 1/2 Rolls.
 
 ## Credits
 
