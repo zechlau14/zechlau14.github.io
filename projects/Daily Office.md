@@ -1,8 +1,10 @@
-% Daily Office
+---
 
-% Zechariah Lau Yee Hern
+layout: page
 
-% 7 May, 2024
+title: "Daily Office"
+
+---
 
 # Matin / Vigil
 
@@ -75,8 +77,6 @@ His lovingkindness is everlasting
 And His faithfulness to all generations.
 
 # Lauds
-
-The structure of the two main prayer times of Lauds and Vespers has always been similar: psalmody, a lesson, response, hymn, New Testament canticle of Zechariah (at Lauds) or of Mary (at Vespers), a litany of intercessions, the Our Father, the Kyrie Eleison, and the concluding prayer.
 
 ## Psalm 67
 
@@ -226,6 +226,8 @@ Praise Him with resounding cymbals.
 Let everything that has breath praise the Lord.  
 Praise the Lord!
 
+## Today's Reading I
+
 ## Benedictus (Luke 1:68-79)
 
 "Blessed *be* the Lord God of Israel,  
@@ -249,6 +251,42 @@ Because of the tender mercy of our God,
 With which the Sunrise from on high will visit us,  
 To shine upon those who sit in darkness and the shadow of death,  
 To guide our feet into the way of peace.
+
+## Today's Intercessions
+
+* Sunday: Church
+
+* Monday: Nation
+
+* Tuesday: Past
+
+* Wednesday: Cell
+
+* Thursday: Sides
+
+* Friday: Students
+
+* Saturday: Family
+
+## Our Father
+
+*Luke 11:2-4*
+
+Our Father, who art in heaven,  
+Hallowed be thy Name;  
+Thy kingdom come;  
+Thy will be done  
+in earth, as it is in heaven:  
+Give us this day our daily bread;  
+And forgive us our trespasses,  
+as we forgive them that trespass against us;  
+And lead us not into temptation,  
+But deliver us from evil;  
+Amen.
+
+## Kyrie Eleison
+
+Lord Jesus Christ, Son of God, have mercy on me, a sinner. (adapted from Luke 18:13)
 
 # Terce
 
@@ -458,6 +496,10 @@ But all the wicked He will destroy.
 My mouth will speak the praise of the Lord,  
 And all flesh will bless His holy name forever and ever.
 
+## Today's Psalms
+
+## Today's Readings II
+
 ## Magnificat (Luke 1:46-55)
 
 “My soul exalts the Lord,  
@@ -478,6 +520,42 @@ And sent away the rich empty-handed.
 In remembrance of His mercy,  
 As He spoke to our fathers,  
 To Abraham and his descendants forever.”
+
+Today's Intercessions
+
+- Sunday: Church
+
+- Monday: Nation
+
+- Tuesday: Past
+
+- Wednesday: Cell
+
+- Thursday: Sides
+
+- Friday: Students
+
+- Saturday: Family
+
+## Our Father
+
+*Luke 11:2-4*
+
+Our Father, who art in heaven,  
+Hallowed be thy Name;  
+Thy kingdom come;  
+Thy will be done  
+in earth, as it is in heaven:  
+Give us this day our daily bread;  
+And forgive us our trespasses,  
+as we forgive them that trespass against us;  
+And lead us not into temptation,  
+But deliver us from evil;  
+Amen.
+
+## Kyrie Eleison
+
+Lord Jesus Christ, Son of God, have mercy on me, a sinner. (adapted from Luke 18:13)
 
 # Compline
 
