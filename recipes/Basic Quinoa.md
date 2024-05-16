@@ -4,9 +4,9 @@
 
 ## Ingredients
 
-* 1 cup *quinoa*
+* 1 cup quinoa
 
-* 2 cups *water*
+* 2 cups water
 
 ## Instructions
 
@@ -16,4 +16,6 @@
 
 3. Remove pot from heat, cover, and let quinoa steam for 5 minutes.
 
-4. Fluff quinoa, and season with salt to taste.
+4. Fluff quinoa, and season with salt and olive oil to taste. [*Note*: Optional]
+
+
