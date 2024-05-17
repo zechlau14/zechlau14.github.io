@@ -9,15 +9,21 @@ title: "Recipes"
 
 I'm keeping a list of recipes that I actively use here.
 
+## Breakfasts
 
+## Chicken
+
+## Salads
 
 ## Stews
 
-* [Jambalaya](recipes/jambalaya)
+* [Jambalaya](/jambalaya)
 
 ## Soups
 
-* [ABC Soup](recipes/ABC Soup)
+* [ABC Soup](/ABC Soup)
+
+## Desserts
 
 
 
