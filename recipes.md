@@ -5,8 +5,6 @@ title: "Recipes"
 
 ---
 
-# Recipe Index
-
 I'm keeping a list of recipes that I actively use here.
 
 ## Breakfasts
@@ -19,11 +17,11 @@ I'm keeping a list of recipes that I actively use here.
 
 ## Stews
 
-* [Jambalaya](/Jambalaya)
+* [Jambalaya](/recipes/Jambalaya)
 
 ## Soups
 
-* [ABC Soup](/ABC-Soup)
+* [ABC Soup](/recipes/ABC-Soup)
 
 ## Desserts
 
