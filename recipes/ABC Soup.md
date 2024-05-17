@@ -1,9 +1,3 @@
---- 
-
-layout: post
-
----
-
 # ABC Soup
 
 ## Ingredients
@@ -31,5 +25,3 @@ layout: post
 4. Add potatoes, carrots, onions and tomatoes. Bring to boil.
 
 5. Then reduce to a low-heat and simmer for at least 1.5 hours.
-
-6. 

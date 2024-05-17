@@ -5,10 +5,20 @@ title: "Recipes"
 
 ---
 
-{% for post in site.recipes %}
+# Recipe Index
 
-<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> </h2>
+I'm keeping a list of recipes that I actively use here.
 
-  {% endfor %}
+
+
+## Stews
+
+* [Jambalaya](recipes/jambalaya)
+
+## Soups
+
+* [ABC Soup](recipes/ABC Soup)
+
+
 
 
