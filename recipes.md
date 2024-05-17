@@ -2,7 +2,6 @@
 layout: page
 
 title: "Recipes"
-
 ---
 
 I'm keeping a list of recipes that I actively use here.
@@ -24,7 +23,3 @@ I'm keeping a list of recipes that I actively use here.
 * [ABC Soup](/recipes/ABC-Soup)
 
 ## Desserts
-
-
-
-

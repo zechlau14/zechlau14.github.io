@@ -1,4 +1,10 @@
-# ABC Soup
+---
+
+layout: page
+
+title: ABC Soup
+
+---
 
 ## Ingredients
 
