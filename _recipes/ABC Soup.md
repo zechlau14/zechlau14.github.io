@@ -1,3 +1,9 @@
+--- 
+
+layout: post
+
+---
+
 # ABC Soup
 
 ## Ingredients
