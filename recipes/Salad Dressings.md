@@ -49,3 +49,12 @@
 * 2 tbsp brown sugar
 
 * 2 tbsp fish sauce
+
+## Lemon Vinaigrette
+
+* 1/3 cup olive oil
+* 1/4 cup lemon juice
+* 1 tsp Dijon mustard
+* 1/2 tsp honey
+* 1 clove minced garlic
+* salt and pepper
