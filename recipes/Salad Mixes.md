@@ -18,3 +18,8 @@ chicken grilled with lemon juice, garlic and parsley.
 
 Combine salad greens, cucumbers, cherry tomatoes, white beans and avocado.
 Dress with a simple vinaigrette.
+
+## Mediterranean Chickpea Salad
+
+Combine chickpeas, cucumbers, red bell pepper, cherry tomatoes, red onion, feta cheese.
+Suggested Dressing: Lemon Vinaigrette with parsley
