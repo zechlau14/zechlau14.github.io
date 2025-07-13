@@ -1,5 +1,10 @@
-# Salad Dressings
+---
 
+layout: page
+
+title: Salad Dressings
+
+---
 ## Herb Vinaigrette
 
 * 1/3 cup olive oil
@@ -58,3 +63,14 @@
 * 1/2 tsp honey
 * 1 clove minced garlic
 * salt and pepper
+
+## Caesar Salad Dressing
+* 2 cloves garlic
+* 2 tsp dijon mustard
+* 1 tsp Worcestershire sauce
+* 2 tsp lemon juice
+* 1.5 tsp red wine vinegar
+* 1/3 cup olive oil
+* 1/2 tsp salt
+* 1/8 tsp black pepper
+* 1/4 cup parmesan cheese
