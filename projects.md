@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 
-## Current Works in Progress
+## Stalled Works in Progress
 
 ### Pets and Fedoras
 I'm currently working on [Pets and Fedoras](projects/pets-and-fedoras-slides).
