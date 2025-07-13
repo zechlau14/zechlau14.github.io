@@ -31,3 +31,13 @@
 5. Shape meatballs then cook them.
 
 
+## Gravy
+* 3 tbsp butter
+* 3 tbsp flour
+* 2 cups beef stock
+* 1/2 cup heavy cream
+
+1. Make a roux
+2. Add beef stock
+3. If cooking meatballs in gravy, add them here
+4. When gravy has thicken (about 8-10 min), add cream and simmer for an additional 2 minutes.
