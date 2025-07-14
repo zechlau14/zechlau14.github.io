@@ -1,4 +1,10 @@
-# Egg muffin
+---
+
+layout: page
+
+title: Egg Muffins
+
+---
 
 ## Ingredients
 
