@@ -1,4 +1,10 @@
-# Flourless Chocolate Torte
+---
+
+layout: page
+
+title: Flourless Chocolate Torte
+
+---
 
 ## Ingredients
 
