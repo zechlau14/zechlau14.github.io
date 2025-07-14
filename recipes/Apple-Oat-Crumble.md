@@ -1,4 +1,10 @@
-# Apple Oat Crumble
+---
+
+layout: page
+
+title: Apple Oat Crumble
+
+---
 
 ## Ingredients
 
