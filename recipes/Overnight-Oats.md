@@ -1,4 +1,10 @@
-# Overnight Oats
+---
+
+layout: page
+
+title: Overnight Oats
+
+---
 
 ## Simple
 
