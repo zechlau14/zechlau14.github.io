@@ -1,5 +1,10 @@
-# Baked Oatmeal
+---
 
+layout: page
+
+title: Baked Oatmeal
+
+---
 ## Ingredients
 
 * 2 tbsp melted butter or coconut oil
