@@ -1,4 +1,10 @@
-# Basic White Bread
+---
+
+layout: page
+
+title: Basic White Bread
+
+---
 
 ## Ingredients
 
