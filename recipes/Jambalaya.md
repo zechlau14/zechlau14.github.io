@@ -1,4 +1,10 @@
-# Jambalaya
+---
+
+layout: page
+
+title: Jambalaya
+
+---
 
 ## Ingredients
 
