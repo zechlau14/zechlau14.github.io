@@ -33,4 +33,3 @@ Spice Mix:
 3. Add chilli spices and cook until beef is fully brown.
 4. Add remaining ingredients and bring to simmer.
 5. Cook uncovered on medium low heat for 20-40 minutes.
-6. 
