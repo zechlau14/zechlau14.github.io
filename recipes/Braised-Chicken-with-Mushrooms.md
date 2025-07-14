@@ -6,7 +6,7 @@ title: Braised Chicken with Mushrooms
 ---
 
 ## Ingredients
-* 10 dried shiitake mushrooms, about 35g
+* 8 dried shiitake mushrooms, about 35g
 * 400g chicken
 * 2 green onions
 * 2 inch ginger
