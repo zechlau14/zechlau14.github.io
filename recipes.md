@@ -29,6 +29,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Chicken Pot Pie](/recipes/Chicken-Pot-Pie)
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
 * [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
+* [Peanut-Green Curry Chicken Bake](/recipes/Peanut-Green-Curry-Chicken-Bake)
 
 ### Beef
 * [Chilli Con Carne](/recipes/Chilli-Con-Carne)
@@ -37,6 +38,7 @@ I'm keeping a list of recipes that I actively use here.
 ### Fish
 * [Dijon Salmon with Green Bean Pilaf](/recipes/Dijon-Salmon-with-Green-Bean-Pilaf)
 * [Herby Fish with Wilted Greens](/recipes/Herby-Fish-with-Wilted-Greens)
+* [Miso Fish Tray Bake](/recipes/Miso-Fish-Traybake)
 
 ### Noodles
 * [Bihun Kicap](/recipes/Bihun-Kicap)
