@@ -1,4 +1,10 @@
-# Royal Icing
+---
+
+layout: page
+
+title: Royal Icing
+
+---
 
 ## Ingredients
 
