@@ -1,5 +1,10 @@
-# Crustless Quiche Custard
+---
 
+layout: page
+
+title: Crustless Quiche
+
+---
 ## Ingredients
 
 * 1 cup cheese
@@ -11,6 +16,8 @@
 * 1.5 cup milk
 
 * 4 eggs
+
+* Filling of choice
 
 ## Instructions
 
