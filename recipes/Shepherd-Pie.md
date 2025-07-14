@@ -1,5 +1,10 @@
-# Shepherd's Pie
+---
 
+layout: page
+
+title: Shepherd's Pie
+
+---
 ## Ingredients
 
 ### Potato Topping
