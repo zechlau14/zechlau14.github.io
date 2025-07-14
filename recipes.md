@@ -70,6 +70,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Roasted Root Vegetables](/recipes/Roasted-Root-Vegetables)
 * [Steamed Silken Tofu](/recipes/Steamed-Silken-Tofu)
 * [Stir-Fry Eggplant](/recipes/Stir-Fry-Eggplant)
+* [Stir-Fry Oyster Mushrooms](/recipes/Stir-Fry-Oyster-Mushrooms)
 
 ## Sides
 * [Basic Quinoa](/recipes/Basic-Quinoa)
