@@ -11,6 +11,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Egg Muffin](/recipes/Egg-Muffin)
 * [Fluffy Pancakes](/recipes/Fluffy-Pancakes)
 * [Frittata](/recipes/Frittata)
+* [Gluten-Free Pancakes](/recipes/Gluten-Free-Pancakes)
 
 ## Salads
 * [Salad Dressings](/recipes/Salad-Dressings)
@@ -47,5 +48,9 @@ I'm keeping a list of recipes that I actively use here.
 * [Quick Flatbread](/recipes/Flatbread)
 
 ## Desserts
+* [Almond Chocolate Chip Cookies](/recipes/Almond-Chocolate-Chip-Cookies)
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
+* [Brownies](/recipes/Brownies)
+* [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
 * [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
+* [Sugar Cookies](/recipes/Sugar-Cookies)
