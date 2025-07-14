@@ -7,15 +7,15 @@ title: Braised Chicken with Mushrooms
 
 ## Ingredients
 * 10 dried shiitake mushrooms, about 35g
-* 2 to 3 lb chicken
-* 4 green onions
-* 1 thumb ginger
+* 400g chicken
+* 2 green onions
+* 2 inch ginger
 * 1 whole star anise
-* 2 tbsp Shaoxing wine
-* 2 tbsp light soy sauce
-* 1 tbsp dark soy sauce
-* 1 tsp sugar
-* 3/4 tsp salt
+* 1 tbsp Shaoxing wine
+* 1 tbsp light soy sauce
+* 1/2 tbsp dark soy sauce
+* 1/2 tsp sugar
+* 1/4 tsp salt
 
 ## Instructions
 1. Rehydrate dried mushrooms with warm water, about 20 minutes. Reserve soaking water.
