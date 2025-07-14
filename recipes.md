@@ -10,6 +10,8 @@ I'm keeping a list of recipes that I actively use here.
 * [Baked Oatmeal](/recipes/Baked-Oatmeal)
 
 ## Salads
+* [Salad Dressings](/recipes/Salad-Dressings)
+* [Salad Mixes](/recipes/Salad-Mixes)
 
 ## Soups
 
@@ -23,14 +25,22 @@ I'm keeping a list of recipes that I actively use here.
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
 * [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
 
+### Fish
+* [Dijon Salmon with Green Bean Pilaf](/recipes/Dijon-Salmon-with-Green-Bean-Pilaf)
+
+### Vegetarian
+* [Creamy Tuscan Butter Beans](/recipes/Creamy-Tuscan-Butter-Beans)
+
 ### Stew
-* [Jambalaya](/recipes/Jambalaya)
 * [Chilli Con Carne](/recipes/Chilli-Con-Carne)
+* [Dhal](/recipes/Dhal)
+* [Jambalaya](/recipes/Jambalaya)
 
 ## Sides
 * [Basic Quinoa](/recipes/Basic-Quinoa)
 * [Basic White Bread](/recipes/Basic-White-Bread)
 * [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
+* [Crustless Quiche](/recipes/Crustless-Quiche)
 
 ## Desserts
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
