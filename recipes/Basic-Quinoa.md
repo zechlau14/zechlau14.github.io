@@ -1,6 +1,10 @@
-# 
+---
 
-# Basic Quinoa
+layout: page
+
+title: Basic Quinoa
+
+---
 
 ## Ingredients
 
