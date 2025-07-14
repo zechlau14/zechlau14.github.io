@@ -1,4 +1,10 @@
-# Japanese Hamburger
+---
+
+layout: page
+
+title: Japanese Hamburger
+
+---
 
 ## Ingredients
 
