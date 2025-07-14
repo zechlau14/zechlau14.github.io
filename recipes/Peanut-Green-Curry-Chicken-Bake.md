@@ -1,5 +1,10 @@
-# Peanut Chicken Traybake
+---
 
+layout: page
+
+title: Peanut-Green Curry Chicken Bake
+
+---
 ## Ingredients
 
 * 500g Gnocchi
