@@ -1,4 +1,10 @@
-# Swedish Meatballs
+---
+
+layout: page
+
+title: Swedish Meatballs
+
+---
 
 ## Ingredients
 
