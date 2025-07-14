@@ -1,4 +1,10 @@
-# White Chicken Chili
+---
+
+layout: page
+
+title: White Chicken Chilli
+
+---
 
 ## Ingredients
 
