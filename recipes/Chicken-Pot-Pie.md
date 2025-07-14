@@ -1,4 +1,10 @@
-# Chicken Pot Pie
+---
+
+layout: page
+
+title: Chicken Pot Pie
+
+---
 
 ## Ingredients
 
