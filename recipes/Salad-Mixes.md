@@ -1,4 +1,10 @@
-# Salad Mixes
+---
+
+layout: page
+
+title: Salad Mixes
+
+---
 
 ## Roasted Veggies and Quinoa
 
