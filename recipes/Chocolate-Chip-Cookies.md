@@ -1,4 +1,10 @@
-# Gluten-Free Chocolate Chip Cookies
+---
+
+layout: page
+
+title: Gluten-Free Chocolate Chip Cookies
+
+---
 
 ## Ingredients
 
