@@ -1,4 +1,10 @@
-# Gluten-free Sugar Cookies
+---
+
+layout: page
+
+title: Sugar Cookies
+
+---
 
 ## Ingredients
 
