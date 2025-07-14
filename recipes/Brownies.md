@@ -1,4 +1,10 @@
-# Gluten-free Brownies
+---
+
+layout: page
+
+title: Brownies
+
+---
 
 ## Ingredients
 
