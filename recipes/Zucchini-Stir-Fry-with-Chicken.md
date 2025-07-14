@@ -1,4 +1,10 @@
-# Zucchini Stir Fry with Chicken
+---
+
+layout: page
+
+title: Zucchini Stir Fry with Chicken
+
+---
 
 ## Ingredients
 
