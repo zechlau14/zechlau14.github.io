@@ -1,4 +1,10 @@
-# Stir Fry Eggplant
+---
+
+layout: page
+
+title: Stir-Fry Eggplant
+
+---
 
 ## Ingredients
 
