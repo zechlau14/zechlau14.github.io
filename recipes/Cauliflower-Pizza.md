@@ -1,4 +1,10 @@
-# Cauliflower Pizza
+---
+
+layout: page
+
+title: Cauliflower Pizza
+
+---
 
 ## Ingredients
 
