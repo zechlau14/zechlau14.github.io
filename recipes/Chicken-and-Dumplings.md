@@ -1,4 +1,10 @@
-# Chicken and Dumplings
+---
+
+layout: page
+
+title: Chicken and Dumplings
+
+---
 
 ## Ingredients
 
@@ -21,8 +27,6 @@
 * 1/2 cup peas
 
 ### for Dumplings
-
-*note:* makes a lot of dumplings
 
 * 1 cup Gluten-free flour
 
