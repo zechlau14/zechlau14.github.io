@@ -1,4 +1,10 @@
-# Herby Fish with Wilted Greens
+---
+
+layout: page
+
+title: Herby Fish with Wilted Greens
+
+---
 
 ## Ingredients
 
