@@ -1,4 +1,10 @@
-# Korean Spicy Cucumber Salad
+---
+
+layout: page
+
+title: Korean Spicy Cucumber Salad
+
+---
 
 ## Ingredients
 
