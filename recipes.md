@@ -8,6 +8,9 @@ I'm keeping a list of recipes that I actively use here.
 
 ## Breakfasts
 * [Baked Oatmeal](/recipes/Baked-Oatmeal)
+* [Egg Muffin](/recipes/Egg-Muffin)
+* [Fluffy Pancakes](/recipes/Fluffy-Pancakes)
+* [Frittata](/recipes/Frittata)
 
 ## Salads
 * [Salad Dressings](/recipes/Salad-Dressings)
@@ -41,6 +44,8 @@ I'm keeping a list of recipes that I actively use here.
 * [Basic White Bread](/recipes/Basic-White-Bread)
 * [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 * [Crustless Quiche](/recipes/Crustless-Quiche)
+* [Quick Flatbread](/recipes/Flatbread)
 
 ## Desserts
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
+* [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
