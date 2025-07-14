@@ -10,11 +10,11 @@ title: Chilli Con Carne
 * 3 cloves garlic
 * 1 onion
 * 1 red bell pepper
-* 1 lb minced beef
+* 400g minced beef
 * 3 tbsp tomato paste
-* 28 oz crushed tomato
-* 14 oz red kidney beans
-* 2 beef boullion cubes
+* 2 14oz cans  crushed tomato
+* 1 can 14 oz red kidney beans
+* 1 beef boullion cubes
 * 1.5 tsp sugar
 * 0.5 cups water
 
