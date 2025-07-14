@@ -14,6 +14,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Gluten-Free Pancakes](/recipes/Gluten-Free-Pancakes)
 
 ## Salads
+* [Korean Cucumber Salad](/recipes/Korean-Cucumber-Salad)
 * [Salad Dressings](/recipes/Salad-Dressings)
 * [Salad Mixes](/recipes/Salad-Mixes)
 
@@ -38,18 +39,22 @@ I'm keeping a list of recipes that I actively use here.
 * [Herby Fish with Wilted Greens](/recipes/Herby-Fish-with-Wilted-Greens)
 
 ### Noodles
+* [Bihun Kicap](/recipes/Bihun-Kicap)
 * [Japchae](/recipes/Japchae)
+* [Mee Siam](/recipes/Mee-Siam)
 
 ### Pork
 * [Gyoza](/recipes/Gyoza)
 * [Pulled Pork](/recipes/Pulled-Pork)
 
+### Rice
+* [Jambalaya](/recipes/Jambalaya)
+* [Kimchi Fried Rice](/recipes/Kimchi-Fried-Rice)
+
 ### Vegetarian
 * [Creamy Tuscan Butter Beans](/recipes/Creamy-Tuscan-Butter-Beans)
 * [Dhal](/recipes/Dhal)
 
-### Mix
-* [Jambalaya](/recipes/Jambalaya)
 
 ## Sides
 * [Basic Quinoa](/recipes/Basic-Quinoa)
@@ -65,4 +70,5 @@ I'm keeping a list of recipes that I actively use here.
 * [Brownies](/recipes/Brownies)
 * [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
 * [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
+* [Matcha Butter Cookies](/recipes/Matcha-Butter-Cookies)
 * [Sugar Cookies](/recipes/Sugar-Cookies)
