@@ -1,4 +1,10 @@
-# Thai Pork Basil
+---
+
+layout: page
+
+title: Thai Pork Basil
+
+---
 
 ## Ingredients
 
