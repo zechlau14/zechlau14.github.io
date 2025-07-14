@@ -1,5 +1,10 @@
-# Kimchi Fried Rice
+---
 
+layout: page
+
+title: Kimchi Fried Rice
+
+---
 ## Ingredients
 
 * 1 medium pack kimchi
