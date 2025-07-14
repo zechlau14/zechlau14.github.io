@@ -1,4 +1,10 @@
-# Fluffy Pancakes
+---
+
+layout: page
+
+title: Fluffy Pancakes
+
+---
 
 ## Ingredients
 
