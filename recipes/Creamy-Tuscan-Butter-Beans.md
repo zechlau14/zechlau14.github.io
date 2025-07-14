@@ -8,7 +8,6 @@ title: Creamy Tuscan Butter Beans
 ## Ingredients
 * 2 shallots, minced
 * 2 cloves garlic
-* 1 sweet Romana pepper
 * 1 tbsp tomato puree
 * 2 400g cans of butter beans
 * 300 ml vegetable stock
@@ -26,4 +25,3 @@ title: Creamy Tuscan Butter Beans
 3. Add butter beans, vegetable stock, oregano and chili flakes. Simmer and reduce for 10 minutes
 4. Turn heat down to low and add creme fraiche, cream cheese, smoked paprika and tomatoes. Simmer the sauce for 5-10 minutes until the tomatoes are just about tot burst.
 5. Stir in spinach and cook until wilted, 2-3 minutes.
-6. 
