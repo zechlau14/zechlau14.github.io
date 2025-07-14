@@ -1,5 +1,10 @@
-# Miso Fish Traybake
+---
 
+layout: page
+
+title: Miso Fish Bake
+
+---
 ## Ingredients
 
 * 1 head broccoli
