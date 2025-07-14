@@ -1,4 +1,10 @@
-# Baked Malaysian Chicken Chop
+---
+
+layout: page
+
+title: Baked Malaysian Chicken Chop
+
+---
 
 ## Ingredients
 
