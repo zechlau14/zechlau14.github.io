@@ -1,4 +1,10 @@
-# Sago Pudding
+---
+
+layout: page
+
+title: Sago Pudding
+
+---
 
 ## Ingredients
 
