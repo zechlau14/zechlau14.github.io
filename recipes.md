@@ -20,8 +20,8 @@ I'm keeping a list of recipes that I actively use here.
 * [Salad Mixes](/recipes/Salad-Mixes)
 
 ## Soups
-
 * [ABC Soup](/recipes/ABC-Soup)
+* [Egg-Drop Soup](/recipes/Egg-Drop-Soup)
 
 ## Entrees
 ### Chicken
