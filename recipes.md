@@ -18,6 +18,7 @@ I'm keeping a list of recipes that I actively use here.
 ## Entrees
 * [Baked Chicken Chop](/recipes/Baked-Chicken-Chop)
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
+* [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 * [Jambalaya](/recipes/Jambalaya)
 
 ## Carbs
