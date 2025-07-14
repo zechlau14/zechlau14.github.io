@@ -1,26 +1,30 @@
-# Instant Pot Pulled Pork
+---
+
+layout: page
+
+title: Pulled Pork
+
+---
 
 ## Ingredients
 
-* 1/2 can tomato sauce
+* 1/4 can tomato puree
 
 * 3/4 tbsp chili powder
 
-* 3/4 tsp cumin
+* 1/2 tsp cumin
 
-* 3/4 tsp salt
+* 1/4 tsp salt
 
-* 3/4 tsp chipotle chili powder
+* 1/4 tsp onion powder
 
-* 1/2 tsp onion powder
+* 1/4 tsp garlic powder
 
-* 1/2 tsp garlic powder
+* 1/8 cup apple cider vinegar
 
-* 1/4 cup apple cider vinegar
+* 1/8 cup honey
 
-* 1/4 cup honey
-
-* 800g pork shoulder
+* 400g pork shoulder
 
 ## Instructions
 
