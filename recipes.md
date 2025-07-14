@@ -16,14 +16,21 @@ I'm keeping a list of recipes that I actively use here.
 * [ABC Soup](/recipes/ABC-Soup)
 
 ## Entrees
+### Chicken
 * [Baked Chicken Chop](/recipes/Baked-Chicken-Chop)
+* [Chicken and Dumplings](/recipes/Chicken-and-Dumplings)
+* [Chicken Pot Pie](/recipes/Chicken-Pot-Pie)
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
-* [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
-* [Jambalaya](/recipes/Jambalaya)
+* [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
 
-## Carbs
+### Stew
+* [Jambalaya](/recipes/Jambalaya)
+* [Chilli Con Carne](/recipes/Chilli-Con-Carne)
+
+## Sides
 * [Basic Quinoa](/recipes/Basic-Quinoa)
 * [Basic White Bread](/recipes/Basic-White-Bread)
+* [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 
 ## Desserts
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
