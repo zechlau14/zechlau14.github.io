@@ -1,4 +1,10 @@
-# Coconut Chicken with Meehoon
+---
+
+layout: page
+
+title: Coconut Chicken with Bihun
+
+---
 
 ## Ingredients
 
@@ -8,7 +14,7 @@
 
 * 400 ml coconut milk
 
-* 200g meehoon
+* 200g Bihun
 
 * 1/2 small cabbage
 
