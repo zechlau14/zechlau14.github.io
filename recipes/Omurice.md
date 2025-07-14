@@ -1,7 +1,10 @@
-# Omurice
+---
 
-from Cooking with Dog
+layout: page
 
+title: Omurice (from Cooking with Dog)
+
+---
 ## Ingredients
 
 ### For Tomato Rice
