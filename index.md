@@ -16,7 +16,7 @@ layout: default
 
 ## Latest Recipe Uploaded
 
-I made these gluten-free [Almond Chocolate Chip Cookies](recipes/Gluten-Free-Almond-Chocolate-Chip-Cookies) for my wife recently. It was my first time baking with almond flour, and I liked it enough to add it to the recipe book.
+I've updated the yellow cake recipe that I've been using with a new [Gluten-Free version](/recipes/Yellow-Cake). When I made it recently, I frosted it with this [Chocolate Buttercream](/recipes/Chocolate-Buttercream), which I might iterate further in the future.
 
 ## Current RPG Project
 I'm not currently working on any RPG work.
