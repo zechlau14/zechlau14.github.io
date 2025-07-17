@@ -9,6 +9,7 @@ For a yearly membership fee that is equivalent to the price of a large latte, I 
 
 My wife has been encouraging me to write reviews for the books I've read, so I'm seriously considering adding a new section to this website.
 If I do go ahead with it, here are the books that I've read so far in 2025 that will be in it:
+*  The Porpoise / Mark Haddon
 *  Dodger / Terry Pratchett
 *  VOX MACHINA KITH & KIN / MARIEKE NIJKAMP
 *  The Elephant Keepers' Children / Peter Hoeg
