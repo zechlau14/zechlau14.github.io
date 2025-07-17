@@ -87,7 +87,11 @@ I'm keeping a list of recipes that I actively use here.
 * [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
 * [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
 * [Matcha Butter Cookies](/recipes/Matcha-Butter-Cookies)
-* [Royal Icing](/recipes/Royal-Icing)
 * [Sago Pudding](/recipes/Sago-Pudding)
 * [Sugar Cookies](/recipes/Sugar-Cookies)
 * [Tiramisu](/recipes/Tiramisu)
+* [Yellow Cake](/recipes/Yellow-Cake)
+
+### Frostings
+* [Chocolate Buttercream](/recipes/Chocolate-Buttercream)
+* [Royal Icing](/recipes/Royal-Icing)
