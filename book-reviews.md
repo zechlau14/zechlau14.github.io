@@ -5,6 +5,8 @@ permalink: /book-reviews
 ---
 
 ## 2025
+*  Shadow / Michael Morpurgo
+*  The Tatami Time Machine Blues / Tomihiko Morimi
 *  The MUSEUM of ORDINARY PEOPLE / MIKE GAYLE
 *  The hazel wood / Melissa Albert
 *  The binding / Bridget Collins
