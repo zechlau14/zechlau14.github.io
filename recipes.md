@@ -89,6 +89,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
 * [Chocolate Cupcakes](/recipes/Chocolate-Cupcakes)
 * [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
+* [Hot Chocolate](/recipes/Hot-Chocolate)
 * [Matcha Butter Cookies](/recipes/Matcha-Butter-Cookies)
 * [Sago Pudding](/recipes/Sago-Pudding)
 * [Sugar Cookies](/recipes/Sugar-Cookies)
