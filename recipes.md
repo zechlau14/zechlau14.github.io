@@ -79,6 +79,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 * [Crustless Quiche](/recipes/Crustless-Quiche)
 * [Quick Flatbread](/recipes/Flatbread)
+* [Pizza Base](/recipes/Pizza-Base)
 
 ## Desserts
 *Note*: Most of these are gluten-free.
