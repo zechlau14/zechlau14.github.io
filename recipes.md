@@ -52,6 +52,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Bihun Kicap](/recipes/Bihun-Kicap)
 * [Gnocchi](/recipes/Gnocchi)
 * [Japchae](/recipes/Japchae)
+* [Mazesoba](/recipes/Mazesoba)
 * [Mee Siam](/recipes/Mee-Siam)
 * [Yakisoba](/recipes/Yakisoba)
 
@@ -61,6 +62,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Thai Pork Basil](/recipes/Thai-Pork-Basil)
 
 ### Rice
+* [Gomoku Gohan](/recipes/Gomoku-Gohan)
 * [Jambalaya](/recipes/Jambalaya)
 * [Kimchi Fried Rice](/recipes/Kimchi-Fried-Rice)
 * [Omurice](/recipes/Omurice)
