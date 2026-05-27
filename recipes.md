@@ -50,10 +50,10 @@ I'm keeping a list of recipes that I actively use here.
 
 ### Noodles
 * [Bihun Kicap](/recipes/Bihun-Kicap)
+* [Gnocchi](/recipes/Gnocchi)
 * [Japchae](/recipes/Japchae)
 * [Mee Siam](/recipes/Mee-Siam)
 * [Yakisoba](/recipes/Yakisoba)
-* [Gnocchi](/recipes/Gnocchi)
 
 ### Pork
 * [Gyoza](/recipes/Gyoza)
@@ -78,8 +78,8 @@ I'm keeping a list of recipes that I actively use here.
 * [Basic White Bread](/recipes/Basic-White-Bread)
 * [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 * [Crustless Quiche](/recipes/Crustless-Quiche)
-* [Quick Flatbread](/recipes/Flatbread)
 * [Pizza Base](/recipes/Pizza-Base)
+* [Quick Flatbread](/recipes/Flatbread)
 
 ## Desserts
 *Note*: Most of these are gluten-free.
@@ -87,6 +87,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
 * [Brownies](/recipes/Brownies)
 * [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
+* [Chocolate Cupcakes](/recipes/Chocolate-Cupcakes)
 * [Flourless Chocolate Torte](/recipes/Flourless-Chocolate-Torte)
 * [Matcha Butter Cookies](/recipes/Matcha-Butter-Cookies)
 * [Sago Pudding](/recipes/Sago-Pudding)
