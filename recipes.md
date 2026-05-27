@@ -53,6 +53,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Japchae](/recipes/Japchae)
 * [Mee Siam](/recipes/Mee-Siam)
 * [Yakisoba](/recipes/Yakisoba)
+* [Gnocchi](/recipes/Gnocchi)
 
 ### Pork
 * [Gyoza](/recipes/Gyoza)
