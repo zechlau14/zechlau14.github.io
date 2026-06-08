@@ -5,6 +5,8 @@ permalink: /book-reviews
 ---
 
 ## 2026
+*  GENEVA / RICHARD ARMITAGE
+*  THE CHILDFREE GUIDE TO LIFE AND MONEY MAKE YOUR FINANCES SIMPLE SO YOUR LIFE WITHOUT KIDS CAN BE AMAZING / JAY ZIGMONT
 *	The ghost-seer / Friedrich Schiller 
 * As you wish / Chelsea Sedoti 
 * THE RIVALS / JANE PEK 
