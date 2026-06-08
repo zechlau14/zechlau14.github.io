@@ -23,7 +23,16 @@ I'm keeping a list of recipes that I actively use here.
 * [ABC Soup](/recipes/ABC-Soup)
 * [Egg-Drop Soup](/recipes/Egg-Drop-Soup)
 
+## Bases
+* [Basic Quinoa](/recipes/Basic-Quinoa)
+* [Basic White Bread](/recipes/Basic-White-Bread)
+* [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
+* [Crustless Quiche](/recipes/Crustless-Quiche)
+* [Pizza Base](/recipes/Pizza-Base)
+* [Quick Flatbread](/recipes/Flatbread)
+
 ## Entrees
+
 ### Chicken
 * [Baked Chicken Chop](/recipes/Baked-Chicken-Chop)
 * [Chicken and Dumplings](/recipes/Chicken-and-Dumplings)
@@ -75,18 +84,11 @@ I'm keeping a list of recipes that I actively use here.
 * [Stir-Fry Eggplant](/recipes/Stir-Fry-Eggplant)
 * [Stir-Fry Oyster Mushrooms](/recipes/Stir-Fry-Oyster-Mushrooms)
 
-## Sides
-* [Basic Quinoa](/recipes/Basic-Quinoa)
-* [Basic White Bread](/recipes/Basic-White-Bread)
-* [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
-* [Crustless Quiche](/recipes/Crustless-Quiche)
-* [Pizza Base](/recipes/Pizza-Base)
-* [Quick Flatbread](/recipes/Flatbread)
-
 ## Desserts
 *Note*: Most of these are gluten-free.
 * [Almond Chocolate Chip Cookies](/recipes/Almond-Chocolate-Chip-Cookies)
 * [Apple Oat Crumble](/recipes/Apple-Oat-Crumble)
+* [Baked Donuts](/recipes/Baked-Donuts)
 * [Brownies](/recipes/Brownies)
 * [Chocolate Chip Cookies](/recipes/Chocolate-Chip-Cookies)
 * [Chocolate Cupcakes](/recipes/Chocolate-Cupcakes)
