@@ -18,6 +18,7 @@ I Love You But We Must Fight is a solo journaling game where you play a single H
 ### Die, Spawn of Santa
 <iframe frameborder="0" src="https://itch.io/embed/2997233" width="552" height="167"><a href="https://mrzech.itch.io/die-spawn-of-santa">Die, Spawn of Santa! by Mr Zech</a></iframe>
 
+It’s the night before Christmas, and Santa Claus has left to deliver gifts to the children of the world. You and your fellow elves have just broken out the egg-nog, when the North Pole is attacked by black goat-like monsters. Can your ragtag group of elves hold back the swarm of monsters until Santa returns at dawn? Or will this be the North Pole’s last Christmas? 
 
 ### Pets & Fedoras
 <iframe frameborder="0" src="https://itch.io/embed/2929719" width="552" height="167"><a href="https://mrzech.itch.io/pets-n-fedoras">Pets &amp; Fedoras by Mr Zech</a></iframe>
