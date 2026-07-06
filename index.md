@@ -13,14 +13,3 @@ layout: default
 <article> {{ post.content }} </article>
 
 {% endfor %}
-
-## Latest Book Review
-
-Back in January, I read [Dodger](/Book-Review/Dodger) by Terry Prachet.
-
-## Latest Recipe Uploaded
-
-I've updated the yellow cake recipe that I've been using with a new [Gluten-Free version](/recipes/Yellow-Cake). When I made it recently, I frosted it with this [Chocolate Buttercream](/recipes/Chocolate-Buttercream), which I might iterate further in the future.
-
-## Current RPG Project
-I'm not currently working on any RPG work.
