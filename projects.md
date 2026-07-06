@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RPG Projects
-permalink: /projects
+title: My Games
+permalink: /games
 ---
 
 ## Stalled Works in Progress
