@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Book Reviews
-permalink: /book-reviews
+title: Reading List
+permalink: /reading-list
 ---
 
 ## 2026
+* The Lost Children of Gloam's End / CLEMENTINE DARLING 
+* It takes one to tango how I rescued my marriage with (almost)no help from my spouse - and how you can, too / Winifred M. Reilly
+*  All of this is true / Lygia Day Penaflor
+*  The 80/80 MARRIAGE A New Model for a Happier, Stronger Relationship / NATE KLEMP AND KALEY KLEMP 
+* MURDER MOST ANTIQUE The Stamford Mysteries / E. C. BATEMAN
+* The anger habit in relationships a communication handbook for relationships, marriages and partnerships / Carl Semmelroth 
 *  GENEVA / RICHARD ARMITAGE
 *  THE CHILDFREE GUIDE TO LIFE AND MONEY MAKE YOUR FINANCES SIMPLE SO YOUR LIFE WITHOUT KIDS CAN BE AMAZING / JAY ZIGMONT
 *	The ghost-seer / Friedrich Schiller 
