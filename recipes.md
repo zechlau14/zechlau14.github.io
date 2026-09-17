@@ -39,6 +39,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Chicken Pot Pie](/recipes/Chicken-Pot-Pie)
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
 * [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
+* [Gumbo](/recipes/Gumbo)
 * [Oyakodon](/recipes/Oyakodon)
 * [Peanut-Green Curry Chicken Bake](/recipes/Peanut-Green-Curry-Chicken-Bake)
 * [White Chicken Chilli](/recipes/White-Chicken-Chilli)
@@ -79,6 +80,7 @@ I'm keeping a list of recipes that I actively use here.
 ### Vegetarian
 * [Creamy Tuscan Butter Beans](/recipes/Creamy-Tuscan-Butter-Beans)
 * [Dhal](/recipes/Dhal)
+* [Mujaddara](/recipes/Mujaddara)
 * [Roasted Root Vegetables](/recipes/Roasted-Root-Vegetables)
 * [Steamed Silken Tofu](/recipes/Steamed-Silken-Tofu)
 * [Stir-Fry Eggplant](/recipes/Stir-Fry-Eggplant)
