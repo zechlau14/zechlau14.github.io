@@ -11,9 +11,7 @@ title: Mujaddara
 * 1.5 tbsp Flour
 * 1 cup rice
 * 1 cup lentils
-
 * 1/2 tsp minced garlic
-
 * cumin
 * black pepper
 
