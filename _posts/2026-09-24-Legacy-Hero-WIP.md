@@ -3,4 +3,4 @@ I'm working on a new game at the moment. It is a storytelling game about the sid
 WIP title is *Legacy Heroes*.
 
 Here is the cover image I designed for it.
-![Legacy Heroes' Cover Image](project/images/LegacyHeroes-CoverImage.png)
+![Legacy Heroes' Cover Image](/project/images/LegacyHeroes-CoverImage.png)
