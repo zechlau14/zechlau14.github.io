@@ -5,6 +5,12 @@ permalink: /reading-list
 ---
 
 ## 2026
+* THE DOLLAR KIDS / JENNIFER RICHARD JACOBSON ; ILLUSTRATED BY RYAN ANDREWS 
+* A HAUNTING ON THE HILL / ELIZABETH HAND 
+* Rivers of Dolls and Other Stories / Suzanne Kamata 
+* The Salmon Who Dared to Leap Higher / AHN DO-HYUN 
+* the office The Unhold Story of the Greatest Sitcom of the 2000s / Andy Greene 
+* Make your creative dreams real / Sark  
 * The Lost Children of Gloam's End / CLEMENTINE DARLING 
 * It takes one to tango how I rescued my marriage with (almost)no help from my spouse - and how you can, too / Winifred M. Reilly
 *  All of this is true / Lygia Day Penaflor
@@ -42,7 +48,7 @@ permalink: /reading-list
 *  Bird box / Josh Malerman 
 
 ## 2025
-* A USER'S GUIDE TO MAKE-BELIEVE / JANE ALEXANDER 
+* A USER'S GUIDE TO -BELIEVE / JANE ALEXANDER 
 * Watership down / Richard Adams 
 * 	The travelling cat chronicles / Hiro Arikawa 
 * 	I, ROBOT / ISAAC ASIMOV 
