@@ -6,7 +6,7 @@ layout: default
 
 I don't know how you wandered in, but I'm glad you are here.
 
-While you're here, you can find [Mr Zech](/about)'s [recipebook](/recipes), [game portfolio](/games) and [blog](/blog), which will hopefully be mostly about tabletop role-playing games.
+While you're here, you can find [Mr Zech](/about)'s [recipebook](/recipes), [game portfolio](/games) and [blog](/blog), which will hopefully be mostly about tabletop role-playing games. You can also see the [books that I've read](/reading-list) recently.
 
 ## Selected Games
 
@@ -20,9 +20,6 @@ While you're here, you can find [Mr Zech](/about)'s [recipebook](/recipes), [gam
 1. [Pizza](/recipes/Pizza-Base/)
 2. [Japanese Hamburger](/recipes/Japanese-Hamburger/)
 3. [Baked Donuts](recipes/Baked-Donuts/)
-
-## My Best Writing
-I'll put an article here, when I have one that deserves it!
 
 ## Latest Blog Post
 
