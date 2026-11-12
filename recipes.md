@@ -28,6 +28,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Basic White Bread](/recipes/Basic-White-Bread)
 * [Cauliflower Pizza](/recipes/Cauliflower-Pizza)
 * [Crustless Quiche](/recipes/Crustless-Quiche)
+* [Sourdough Milk Bread](/recipes/Sourdough-Milk-Bread)
 * [Pie Crust](/recipes/Pie-Crust)
 * [Pizza Base](/recipes/Pizza-Base)
 * [Quick Flatbread](/recipes/Flatbread)
