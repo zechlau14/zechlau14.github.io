@@ -6,6 +6,12 @@ permalink: /games
 
 ## Solo Games
 
+### Ninth Seed
+<iframe frameborder="0" src="https://itch.io/embed/5071371" width="552" height="167"><a href="https://mrzech.itch.io/ninth-seed">Ninth Seed by Mr Zech</a></iframe>
+You are the coach of a professional basketball team that has squeaked into the post-season via the play-in tournament. With every win in the playoffs, your team grows in belief. Can you overcome the odds and coach your team to a championship?    
+
+Ninth Seed is a solo TTRPG based on the Medusalaire system, by Brite Palette. To play this game, you require a standard deck of playing cards, and dice (1d6, 1d8).
+
 ### Echoes of a Masquerade
 <iframe frameborder="0" src="https://itch.io/embed/4773277" width="552" height="167"><a href="https://mrzech.itch.io/echoes-of-a-masquerade">Echoes of a Masquerade by Mr Zech</a></iframe>
 Your fairy tale love story started at a masquerade. By some unknown means, you have returned to the night of the ball. Will you still live happily ever after? 
@@ -22,6 +28,13 @@ You are an ordinary office worker. During your overtime, you notice strange thin
 I Love You But We Must Fight is a solo journaling game where you play a single Hero tasked with defeating the Great Villain threatening the world. You’ve fought hard, sacrificed much, and now you are preparing for the final showdown. There’s only one hiccup: you love the Villain, and you wish to defeat them without destroying them. This game aims to tell stories like Star Wars and Naruto. To play, you need a copy of this game's rules, a deck of cards, a six-sided die. 
 
 ## Group Games
+
+### To See the Sun
+<iframe frameborder="0" src="https://itch.io/embed/4964306" width="552" height="167"><a href="https://mrzech.itch.io/to-see-the-sun">To See The Sun by Mr Zech</a></iframe>
+
+To See the Sun is a horror mystery game about a group of sorority girls caught in a time loop on the night of the biggest party of the year at their college. They are trying to uncover the identity of a masked murderer who is hunting them, and escape the time loop. This game is directly inspired by the movie Happy Death Day. 
+
+The game is a one-shot Carved from Brindlewood game, meaning its mechanics and procedures are inspired by the games Brindlewood Bay and Public Access. 
 
 ### Bumbling Trio
 <iframe frameborder="0" src="https://itch.io/embed/4812838" width="552" height="167"><a href="https://mrzech.itch.io/bumbling-trio">Bumbling Trio by Mr Zech</a></iframe>
