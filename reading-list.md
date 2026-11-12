@@ -5,8 +5,8 @@ permalink: /reading-list
 ---
 
 ## 2026
+* THE DOLLAR KIDS / JENNIFER RICHARD JACOBSON ; ILLUSTRATED BY RYAN ANDREWS
 * The Thursday Murder Club Books 1-4 / Richard Osman : The Thursday Murder Club, The Man Who Died Twice, The Bullet That Missed, The Last Devil to Die.
-* THE DOLLAR KIDS / JENNIFER RICHARD JACOBSON ; ILLUSTRATED BY RYAN ANDREWS 
 * A HAUNTING ON THE HILL / ELIZABETH HAND 
 * Rivers of Dolls and Other Stories / Suzanne Kamata 
 * The Salmon Who Dared to Leap Higher / AHN DO-HYUN 
@@ -33,7 +33,10 @@ permalink: /reading-list
 *	The questionable behavior of Dahlia Moss / Max Wirestone 
 * The astonishing mistakes of Dahlia Moss / Max Wirestone  
 * The Assassination of Brangwain Spurge / M. T. ANDERSON and EUGNE YELCHIN 
-* THE RAINFALL MARKET / YOU YEONG-GWANG ; Translated by Slin Jung 
+* THE RAINFALL MARKET / YOU YEONG-GWANG ; Translated by Slin Jung
+* Half-Sick of Shadows / David Logan
+* Our Tragic Universe / Scarlett Thomas
+* That's Not What Happened / Kody Keplinger
 * THE PALLBEARERS CLUB A NOVEL / BY PAUL TREMBLAY 
 * Still Alice Lisa Genova
 * The unfortunate decisions of Dahlia Moss a Dahlia Moss mystery / Max Wirestone
@@ -74,3 +77,4 @@ permalink: /reading-list
 *  VOX MACHINA KITH & KIN / MARIEKE NIJKAMP
 *  [Dodger](/Book-Reviews/Dodger) / Terry Pratchett
 *  [The Porpoise](/Book-Reviews/Porpoise) / Mark Haddon
+*  The Three-Body Problem trilogy / Cixin Liu
