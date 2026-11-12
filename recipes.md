@@ -39,12 +39,9 @@ I'm keeping a list of recipes that I actively use here.
 * [Chicken and Dumplings](/recipes/Chicken-and-Dumplings)
 * [Chicken Pot Pie](/recipes/Chicken-Pot-Pie)
 * [Chinese Braised Chicken with Mushrooms](/recipes/Braised-Chicken-with-Mushrooms)
-* [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
 * [Gumbo](/recipes/Gumbo)
 * [Oyakodon](/recipes/Oyakodon)
 * [Peanut-Green Curry Chicken Bake](/recipes/Peanut-Green-Curry-Chicken-Bake)
-* [White Chicken Chilli](/recipes/White-Chicken-Chilli)
-* [Zucchini Stir-Fry with Chicken](/recipes/Zucchini-Stir-Fry-with-Chicken)
 
 ### Beef
 * [Chilli Con Carne](/recipes/Chilli-Con-Carne)
@@ -73,6 +70,7 @@ I'm keeping a list of recipes that I actively use here.
 * [Thai Pork Basil](/recipes/Thai-Pork-Basil)
 
 ### Rice
+* [Currywurst Sauce](/recipes/Currywurst-Sauce)
 * [Gomoku Gohan](/recipes/Gomoku-Gohan)
 * [Jambalaya](/recipes/Jambalaya)
 * [Kimchi Fried Rice](/recipes/Kimchi-Fried-Rice)
@@ -107,3 +105,9 @@ I'm keeping a list of recipes that I actively use here.
 ### Frostings
 * [Chocolate Buttercream](/recipes/Chocolate-Buttercream)
 * [Royal Icing](/recipes/Royal-Icing)
+
+## Relegated Recipes
+ie. those we don't really cook anymore.
+* [Coconut Chicken with Bihun](/recipes/Coconut-Chicken-with-Bihun)
+* [White Chicken Chilli](/recipes/White-Chicken-Chilli)
+* [Zucchini Stir-Fry with Chicken](/recipes/Zucchini-Stir-Fry-with-Chicken)
