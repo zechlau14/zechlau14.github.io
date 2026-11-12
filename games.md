@@ -6,6 +6,12 @@ permalink: /games
 
 ## Solo Games
 
+### Comic Book Death
+<iframe frameborder="0" src="https://itch.io/embed/5337529" width="552" height="167"><a href="https://mrzech.itch.io/comic-book-death-legacy-heroes">Comic Book Death &amp; Legacy Heroes by Mr Zech</a></iframe>
+Comic book characters are always dying, then coming back. On the big screen alone, we’ve seen Superman do so in Justice League and half the Marvel Cinematic Universe die and come back after the Blip. Some characters, like Jason Todd, are even defined by the manner of their death and return.
+
+Comic Book Death is a solo game in which you play as the Hero who died and returned. The game guides you to journal about your experience in the Afterlife, and how you find your loved ones and the City that you protected when you return to life. This game is based on Anamnesis by Samantha Leigh, used under CC By 4.0, and requires a tarot deck to play.
+
 ### Poacher
 <iframe frameborder="0" src="https://itch.io/embed/5109336" width="552" height="167"><a href="https://mrzech.itch.io/poacher">Poacher by Mr Zech</a></iframe>
 Play as a poacher who has come to the Sacred Forest of the Moon Goddess in order to fulfill the biggest order of their illicit career: hunt and skin seven of her silver mousedeer. Survive the enchanted realm and its wardens, riches beyond their wildest dreams await.
@@ -32,6 +38,12 @@ You are an ordinary office worker. During your overtime, you notice strange thin
 I Love You But We Must Fight is a solo journaling game where you play a single Hero tasked with defeating the Great Villain threatening the world. You’ve fought hard, sacrificed much, and now you are preparing for the final showdown. There’s only one hiccup: you love the Villain, and you wish to defeat them without destroying them. This game aims to tell stories like Star Wars and Naruto. To play, you need a copy of this game's rules, a deck of cards, a six-sided die. 
 
 ## Group Games
+
+### Legacy Heroes
+<iframe frameborder="0" src="https://itch.io/embed/5337529" width="552" height="167"><a href="https://mrzech.itch.io/comic-book-death-legacy-heroes">Comic Book Death &amp; Legacy Heroes by Mr Zech</a></iframe>
+Comic book characters are always dying, then coming back. On the big screen alone, we’ve seen Superman do so in Justice League and half the Marvel Cinematic Universe die and come back after the Blip. Some characters, like Jason Todd, are even defined by the manner of their death and return.
+
+Legacy Heroes is a GM-less storytelling game for 1-5 players about the former sidekicks of a dead Hero who are doing their best to uphold their mentor's legacy and keep their City safe. This game is based on For the Queen, a product of Alex Roberts, and licensed for our use under the Creative Commons Attribution 3.0 Unported license. To play, you require a pack of standard playing cards and the booklet, or load the game online at the Storysynth link provided.
 
 ### Amber Court is NOT Haunted!
 <iframe frameborder="0" src="https://itch.io/embed/5213737" width="552" height="167"><a href="https://mrzech.itch.io/amber-court-is-not-haunted">Amber Court is NOT Haunted! by Mr Zech</a></iframe>
