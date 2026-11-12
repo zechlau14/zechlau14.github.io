@@ -2,7 +2,7 @@
 
 layout: page
 
-title: Brownies
+title: Cake Brownies
 
 ---
 
