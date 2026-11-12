@@ -66,6 +66,7 @@ I'm keeping a list of recipes that I actively use here.
 
 ### Pork
 * [Gyoza](/recipes/Gyoza)
+* [Miso Katsu](/recipes/Miso-Katsu)
 * [Pulled Pork](/recipes/Pulled-Pork)
 * [Thai Pork Basil](/recipes/Thai-Pork-Basil)
 
