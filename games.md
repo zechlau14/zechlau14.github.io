@@ -6,6 +6,10 @@ permalink: /games
 
 ## Solo Games
 
+### Poacher
+<iframe frameborder="0" src="https://itch.io/embed/5109336" width="552" height="167"><a href="https://mrzech.itch.io/poacher">Poacher by Mr Zech</a></iframe>
+Play as a poacher who has come to the Sacred Forest of the Moon Goddess in order to fulfill the biggest order of their illicit career: hunt and skin seven of her silver mousedeer. Survive the enchanted realm and its wardens, riches beyond their wildest dreams await.
+
 ### Ninth Seed
 <iframe frameborder="0" src="https://itch.io/embed/5071371" width="552" height="167"><a href="https://mrzech.itch.io/ninth-seed">Ninth Seed by Mr Zech</a></iframe>
 You are the coach of a professional basketball team that has squeaked into the post-season via the play-in tournament. With every win in the playoffs, your team grows in belief. Can you overcome the odds and coach your team to a championship?    
@@ -28,6 +32,12 @@ You are an ordinary office worker. During your overtime, you notice strange thin
 I Love You But We Must Fight is a solo journaling game where you play a single Hero tasked with defeating the Great Villain threatening the world. You’ve fought hard, sacrificed much, and now you are preparing for the final showdown. There’s only one hiccup: you love the Villain, and you wish to defeat them without destroying them. This game aims to tell stories like Star Wars and Naruto. To play, you need a copy of this game's rules, a deck of cards, a six-sided die. 
 
 ## Group Games
+
+### Amber Court is NOT Haunted!
+<iframe frameborder="0" src="https://itch.io/embed/5213737" width="552" height="167"><a href="https://mrzech.itch.io/amber-court-is-not-haunted">Amber Court is NOT Haunted! by Mr Zech</a></iframe>
+You are a senior citizen who is a member of Amber Court’s Home Owner Association (ACHOA). Your home’s value has plummeted due to the viral urban legend that the apartment building is haunted. Despite your threats of legal action, the conmen and influencers continue coming to Amber Court to film content and keep the legends alive. You’ve had enough! You’re taking matters into your own hands. Disrupt their filming and drive them off!
+
+A one-page comedic one-shot for 2-5 players. This game was made for the Folklore Jam 2026, inspired by a Malaysian urban legend and this [actual press conference](https://www.youtube.com/watch?v=EUBmSu4E0YY&t=3s&pp=ygUPYW1iZXIgY291cnQgbWNh) held by the home owners. A quick youtube search on Amber Court will bring up dozens of videos on the urban legend that the owners are eager to debunk -- and in the game the players will actively try to disrupt.
 
 ### To See the Sun
 <iframe frameborder="0" src="https://itch.io/embed/4964306" width="552" height="167"><a href="https://mrzech.itch.io/to-see-the-sun">To See The Sun by Mr Zech</a></iframe>
