@@ -5,6 +5,13 @@ permalink: /games
 ---
 
 ## Solo Games
+
+### Echoes of a Masquerade
+<iframe frameborder="0" src="https://itch.io/embed/4773277" width="552" height="167"><a href="https://mrzech.itch.io/echoes-of-a-masquerade">Echoes of a Masquerade by Mr Zech</a></iframe>
+Your fairy tale love story started at a masquerade. By some unknown means, you have returned to the night of the ball. Will you still live happily ever after? 
+
+This game was inspired by Cinderella III: a Twist in Time. To play, you need two six-sided dice (2d6) and something to journal in.
+
 ### 5 Nights of Overtime
 <iframe frameborder="0" src="https://itch.io/embed/2968084" width="552" height="167"><a href="https://mrzech.itch.io/5-nights-of-overtime">5 Nights of Overtime by Mr Zech</a></iframe>
 You are an ordinary office worker. During your overtime, you notice strange things occurring in the office. Over the week, your labor and the weirdness wears down your mind, body and soul. As the weirdness escalates into danger, will you survive the five nights of overtime? This game was inspired by 5 Nights at Freddy's.
@@ -14,7 +21,14 @@ You are an ordinary office worker. During your overtime, you notice strange thin
 
 I Love You But We Must Fight is a solo journaling game where you play a single Hero tasked with defeating the Great Villain threatening the world. You’ve fought hard, sacrificed much, and now you are preparing for the final showdown. There’s only one hiccup: you love the Villain, and you wish to defeat them without destroying them. This game aims to tell stories like Star Wars and Naruto. To play, you need a copy of this game's rules, a deck of cards, a six-sided die. 
 
-## One-Page Games
+## Group Games
+
+### Bumbling Trio
+<iframe frameborder="0" src="https://itch.io/embed/4812838" width="552" height="167"><a href="https://mrzech.itch.io/bumbling-trio">Bumbling Trio by Mr Zech</a></iframe>
+You are three characters who have difficulty with a lot of things that most of human society might take for granted. This could be because you are talking chipmunks who love to sing, three kobolds in a trench coat, or even just three weird humans. But with a little teamwork, you mostly get by. Play to find out whether the three of you will achieve your goals through the power of friendship.
+
+Bumbling Trio is a GM-less comedic role-playing game with three player characters. Included are variant rules to play this as a duet (2-players) or with a traditional Game Master. This game uses four six-sided dice (d6).
+
 ### Die, Spawn of Santa
 <iframe frameborder="0" src="https://itch.io/embed/2997233" width="552" height="167"><a href="https://mrzech.itch.io/die-spawn-of-santa">Die, Spawn of Santa! by Mr Zech</a></iframe>
 
