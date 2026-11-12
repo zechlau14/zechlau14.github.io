@@ -5,6 +5,7 @@ permalink: /reading-list
 ---
 
 ## 2026
+* The Thursday Murder Club Books 1-4 / Richard Osman : The Thursday Murder Club, The Man Who Died Twice, The Bullet That Missed, The Last Devil to Die.
 * THE DOLLAR KIDS / JENNIFER RICHARD JACOBSON ; ILLUSTRATED BY RYAN ANDREWS 
 * A HAUNTING ON THE HILL / ELIZABETH HAND 
 * Rivers of Dolls and Other Stories / Suzanne Kamata 
