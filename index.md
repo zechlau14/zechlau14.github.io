@@ -17,9 +17,9 @@ While you're here, you can find [Mr Zech](/about)'s [recipebook](/recipes), [gam
 <iframe frameborder="0" src="https://itch.io/embed/2676441" width="208" height="167"><a href="https://mrzech.itch.io/hot-mutant-vigilantes">Hot Mutant Vigilantes by Mr Zech</a></iframe>
 
 ## Selected Recipes
-1. [Pizza](/recipes/Pizza-Base/)
-2. [Japanese Hamburger](/recipes/Japanese-Hamburger/)
-3. [Baked Donuts](recipes/Baked-Donuts/)
+1. [Sourdough Milk Bread](/recipes/Sourdough-Milk-Bread)
+2. [Gumbo](/recipes/Gumbo/)
+3. [Pecan Pie](recipes/Pecan-Pie/)
 
 ## Latest Blog Post
 
