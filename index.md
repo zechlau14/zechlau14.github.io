@@ -10,11 +10,11 @@ While you're here, you can find [Mr Zech](/about)'s [recipebook](/recipes), [gam
 
 ## Selected Games
 
-<iframe frameborder="0" src="https://itch.io/embed/2968084" width="208" height="167"><a href="https://mrzech.itch.io/5-nights-of-overtime">5 Nights of Overtime by Mr Zech</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/5337529" width="552" height="167">Comic Book Death & Legacy Heroes by Mr Zech</iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/2621161" width="208" height="167"><a href="https://mrzech.itch.io/i-love-you-but-we-must-fight">I love you but we must fight by Mr Zech</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/5213737" width="552" height="167">Amber Court is NOT Haunted! by Mr Zech</iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/2676441" width="208" height="167"><a href="https://mrzech.itch.io/hot-mutant-vigilantes">Hot Mutant Vigilantes by Mr Zech</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/5071371" width="552" height="167">Ninth Seed by Mr Zech</iframe>
 
 ## Selected Recipes
 1. [Sourdough Milk Bread](/recipes/Sourdough-Milk-Bread)
